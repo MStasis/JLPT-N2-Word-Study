@@ -1,6 +1,10 @@
 import assert from "node:assert/strict";
 import { readFile, readdir } from "node:fs/promises";
 import test from "node:test";
+import {
+  createStudyRecordsBackup,
+  parseStudyRecordsBackup,
+} from "../app/study-records.ts";
 
 async function render() {
   const workerUrl = new URL("../dist/server/index.js", import.meta.url);
@@ -65,4 +69,34 @@ test("removes the disposable starter surface", async () => {
   assert.match(layout, /generateMetadata/);
   assert.match(layout, /Kotoba Loop/);
   assert.doesNotMatch(packageJson, /react-loading-skeleton/);
+});
+
+test("exports and validates portable study records", () => {
+  const state = {
+    rounds: [
+      {
+        id: "round-1",
+        number: 1,
+        createdAt: "2026-08-12T00:00:00.000Z",
+        wordIds: ["n5-1", "n5-2"],
+      },
+    ],
+    attempts: [
+      {
+        id: "attempt-1",
+        createdAt: "2026-08-12T00:05:00.000Z",
+        wordIds: ["n5-1", "n5-2"],
+        correct: 2,
+        total: 3,
+      },
+    ],
+  };
+  const backup = createStudyRecordsBackup(state, "2026-08-12T01:00:00.000Z");
+
+  assert.deepEqual(parseStudyRecordsBackup(JSON.stringify(backup)), state);
+  assert.throws(
+    () => parseStudyRecordsBackup('{"format":"not-kotoba-loop"}'),
+    /올바른 기록 파일/,
+  );
+  assert.throws(() => parseStudyRecordsBackup("not-json"), /JSON 형식/);
 });

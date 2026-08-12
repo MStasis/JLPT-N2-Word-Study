@@ -1,6 +1,20 @@
 "use client";
 
-import { useEffect, useMemo, useState, type CSSProperties } from "react";
+import {
+  useEffect,
+  useMemo,
+  useState,
+  type ChangeEvent,
+  type CSSProperties,
+} from "react";
+import {
+  createStudyRecordsBackup,
+  isStoredState,
+  parseStudyRecordsBackup,
+  type QuizAttempt,
+  type StoredState,
+  type StudyRound,
+} from "./study-records";
 
 type Level = "N5" | "N4" | "N3" | "N2";
 type Kind = "kanji" | "kana";
@@ -30,26 +44,6 @@ type VocabularyPayload = {
   words: Word[];
 };
 
-type StudyRound = {
-  id: string;
-  number: number;
-  createdAt: string;
-  wordIds: string[];
-};
-
-type QuizAttempt = {
-  id: string;
-  createdAt: string;
-  wordIds: string[];
-  correct: number;
-  total: number;
-};
-
-type StoredState = {
-  rounds: StudyRound[];
-  attempts: QuizAttempt[];
-};
-
 const LEVELS: Level[] = ["N5", "N4", "N3", "N2"];
 const STORAGE_KEY = "kotoba-loop-state-v1";
 
@@ -72,7 +66,9 @@ function readStoredState(): StoredState {
   }
   try {
     const value = window.localStorage.getItem(STORAGE_KEY);
-    return value ? JSON.parse(value) : { rounds: [], attempts: [] };
+    if (!value) return { rounds: [], attempts: [] };
+    const parsed: unknown = JSON.parse(value);
+    return isStoredState(parsed) ? parsed : { rounds: [], attempts: [] };
   } catch {
     return { rounds: [], attempts: [] };
   }
@@ -85,13 +81,46 @@ function formatDate(value: string): string {
   }).format(new Date(value));
 }
 
-function Footer() {
+type FooterProps = {
+  attemptCount: number;
+  roundCount: number;
+  transferStatus: string;
+  onExport: () => void;
+  onImport: (event: ChangeEvent<HTMLInputElement>) => void;
+};
+
+function Footer({
+  attemptCount,
+  roundCount,
+  transferStatus,
+  onExport,
+  onImport,
+}: FooterProps) {
   return (
     <footer className="site-footer">
-      <div>
-        <strong>Kotoba Loop</strong>
-        <br />
-        학습 기록은 현재 기기의 브라우저에만 저장됩니다.
+      <div className="record-transfer" aria-labelledby="record-transfer-title">
+        <div className="record-transfer-heading">
+          <strong id="record-transfer-title">학습 기록 옮기기</strong>
+          <span>JSON 파일로 다른 기기에서도 이어서 학습하세요.</span>
+        </div>
+        <div className="record-transfer-actions">
+          <button className="footer-action-button" type="button" onClick={onExport}>
+            기록 내보내기
+          </button>
+          <label className="footer-action-button">
+            기록 불러오기
+            <input
+              className="visually-hidden"
+              type="file"
+              accept="application/json,.json"
+              aria-label="학습 기록 JSON 파일 선택"
+              onChange={onImport}
+            />
+          </label>
+        </div>
+        <p className="record-transfer-status" aria-live="polite">
+          {transferStatus || `${roundCount}회차 · 퀴즈 ${attemptCount}회 저장됨`}
+        </p>
       </div>
       <details className="source-details">
         <summary>데이터 출처와 안내</summary>
@@ -158,6 +187,7 @@ export function StudyApp() {
   const [answerLocked, setAnswerLocked] = useState(false);
   const [selectedAnswer, setSelectedAnswer] = useState("");
   const [result, setResult] = useState({ correct: 0, total: 0 });
+  const [transferStatus, setTransferStatus] = useState("");
 
   useEffect(() => {
     fetch("/data/vocabulary.json")
@@ -288,6 +318,67 @@ export function StudyApp() {
     setReviewQuery("");
     setScreen("review");
     window.scrollTo({ top: 0, behavior: "smooth" });
+  }
+
+  function exportStudyRecords() {
+    if (rounds.length === 0 && attempts.length === 0) {
+      setTransferStatus("내보낼 학습 기록이 없습니다.");
+      return;
+    }
+
+    const backup = createStudyRecordsBackup({ rounds, attempts });
+    const blob = new Blob([JSON.stringify(backup, null, 2)], {
+      type: "application/json;charset=utf-8",
+    });
+    const url = URL.createObjectURL(blob);
+    const link = document.createElement("a");
+    const date = new Intl.DateTimeFormat("en-CA", {
+      timeZone: "Asia/Seoul",
+    }).format(new Date());
+
+    link.href = url;
+    link.download = `kotoba-loop-records-${date}.json`;
+    document.body.appendChild(link);
+    link.click();
+    link.remove();
+    window.setTimeout(() => URL.revokeObjectURL(url), 0);
+    setTransferStatus(`${rounds.length}회차 기록을 파일로 저장했습니다.`);
+  }
+
+  async function importStudyRecords(event: ChangeEvent<HTMLInputElement>) {
+    const file = event.currentTarget.files?.[0];
+    event.currentTarget.value = "";
+    if (!file) return;
+
+    try {
+      const imported = parseStudyRecordsBackup(await file.text());
+      const hasCurrentRecords = rounds.length > 0 || attempts.length > 0;
+
+      if (
+        hasCurrentRecords &&
+        !window.confirm(
+          "현재 기기의 학습 기록을 불러온 파일의 기록으로 교체할까요? 기존 기록을 먼저 내보내 두는 것을 권장합니다.",
+        )
+      ) {
+        setTransferStatus("기록 불러오기를 취소했습니다.");
+        return;
+      }
+
+      window.localStorage.setItem(STORAGE_KEY, JSON.stringify(imported));
+      setRounds(imported.rounds);
+      setAttempts(imported.attempts);
+      setReviewRoundIds([]);
+      setActiveRoundId(null);
+      setScreen("home");
+      window.scrollTo({ top: 0, behavior: "smooth" });
+      setTransferStatus(
+        `${imported.rounds.length}회차 · 퀴즈 ${imported.attempts.length}회 기록을 불러왔습니다.`,
+      );
+    } catch (error) {
+      setTransferStatus(
+        error instanceof Error ? error.message : "기록 파일을 불러오지 못했습니다.",
+      );
+    }
   }
 
   function startStudy() {
@@ -890,7 +981,13 @@ export function StudyApp() {
           </div>
         </section>
       )}
-      <Footer />
+      <Footer
+        roundCount={rounds.length}
+        attemptCount={attempts.length}
+        transferStatus={transferStatus}
+        onExport={exportStudyRecords}
+        onImport={importStudyRecords}
+      />
     </main>
   );
 }
