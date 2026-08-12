@@ -157,6 +157,48 @@ summary:focus-visible {
   padding: 42px 0 54px;
 }
 
+@media (min-width: 941px) {
+  .app-shell.home-shell {
+    display: grid;
+    min-height: 100svh;
+    grid-template-rows: auto minmax(0, 1fr) auto;
+    padding-bottom: 16px;
+  }
+
+  .home-shell .hero-grid {
+    min-height: 0;
+    padding: clamp(20px, 4vh, 42px) 0;
+  }
+
+  .home-shell .site-footer {
+    align-items: center;
+    padding-top: 14px;
+  }
+
+  .home-shell .record-transfer {
+    display: grid;
+    flex: 1 1 610px;
+    max-width: 680px;
+    grid-template-columns: minmax(190px, 1fr) auto;
+    align-items: center;
+    gap: 2px 16px;
+  }
+
+  .home-shell .record-transfer-actions {
+    margin-top: 0;
+  }
+
+  .home-shell .record-transfer-status {
+    grid-column: 1 / -1;
+    min-height: 17px;
+    margin-top: 1px;
+  }
+
+  .home-shell .source-details {
+    flex: 0 1 420px;
+  }
+}
+
 .eyebrow {
   display: inline-flex;
   align-items: center;
@@ -1060,6 +1102,10 @@ input[type="range"]::-webkit-slider-thumb {
 }
 
 @media (max-width: 940px) {
+  .home-shell {
+    padding-bottom: 116px;
+  }
+
   .hero-grid {
     grid-template-columns: 1fr;
     min-height: auto;
@@ -1202,6 +1248,126 @@ input[type="range"]::-webkit-slider-thumb {
 
   .site-footer {
     flex-direction: column;
+  }
+
+  .home-shell .record-transfer {
+    position: fixed;
+    z-index: 20;
+    bottom: max(10px, env(safe-area-inset-bottom));
+    left: 50%;
+    display: grid;
+    width: min(calc(100% - 22px), 620px);
+    grid-template-columns: minmax(0, 1fr) auto;
+    align-items: center;
+    gap: 7px 12px;
+    padding: 11px 12px;
+    border: 1px solid rgba(23, 74, 64, 0.16);
+    border-radius: 18px;
+    background: rgba(255, 255, 255, 0.96);
+    box-shadow: 0 16px 42px rgba(22, 50, 43, 0.18);
+    transform: translateX(-50%);
+    backdrop-filter: blur(14px);
+  }
+
+  .home-shell .record-transfer-heading span {
+    display: none;
+  }
+
+  .home-shell .record-transfer-actions {
+    display: grid;
+    grid-column: 1 / -1;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 0;
+  }
+
+  .home-shell .footer-action-button {
+    width: 100%;
+  }
+
+  .home-shell .record-transfer-status {
+    min-height: 0;
+    margin: 0;
+    overflow: hidden;
+    font-size: 10px;
+    text-align: right;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+}
+
+@media (min-width: 941px) and (max-height: 820px) {
+  .app-shell.home-shell {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .home-shell .topbar {
+    min-height: 54px;
+  }
+
+  .home-shell .hero-grid {
+    gap: 28px;
+    padding: 10px 0;
+  }
+
+  .home-shell .eyebrow {
+    margin-bottom: 12px;
+  }
+
+  .home-shell .hero-title {
+    font-size: clamp(42px, 5.5vw, 64px);
+  }
+
+  .home-shell .hero-copy {
+    margin-top: 14px;
+    font-size: 15px;
+    line-height: 1.65;
+  }
+
+  .home-shell .hero-stats {
+    margin-top: 16px;
+  }
+
+  .home-shell .stat-chip {
+    padding: 8px 12px;
+  }
+
+  .home-shell .setup-panel {
+    padding: 18px 22px;
+    border-radius: 26px;
+  }
+
+  .home-shell .setup-heading {
+    margin-bottom: 12px;
+  }
+
+  .home-shell .setup-heading h2 {
+    font-size: 22px;
+  }
+
+  .home-shell .field-group {
+    padding: 12px 0;
+  }
+
+  .home-shell .field-label {
+    margin-bottom: 8px;
+  }
+
+  .home-shell .choice-chip {
+    padding: 8px 12px;
+  }
+
+  .home-shell .range-value {
+    height: 42px;
+  }
+
+  .home-shell .primary-button,
+  .home-shell .secondary-button {
+    min-height: 44px;
+  }
+
+  .home-shell .site-footer {
+    padding-top: 9px;
   }
 }
 

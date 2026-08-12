@@ -71,6 +71,18 @@ test("removes the disposable starter surface", async () => {
   assert.doesNotMatch(packageJson, /react-loading-skeleton/);
 });
 
+test("keeps record transfer controls reachable across screen sizes", async () => {
+  const [app, css] = await Promise.all([
+    readFile(new URL("../app/study-app.tsx", import.meta.url), "utf8"),
+    readFile(new URL("../app/globals.css", import.meta.url), "utf8"),
+  ]);
+
+  assert.match(app, /screen === "home" \? "home-shell"/);
+  assert.match(css, /\.app-shell\.home-shell[\s\S]*min-height: 100svh/);
+  assert.match(css, /\.home-shell \.record-transfer[\s\S]*position: fixed/);
+  assert.match(css, /@media \(min-width: 941px\) and \(max-height: 820px\)/);
+});
+
 test("exports and validates portable study records", () => {
   const state = {
     rounds: [

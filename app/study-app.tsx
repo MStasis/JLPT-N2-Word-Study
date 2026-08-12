@@ -526,7 +526,7 @@ export function StudyApp() {
   }
 
   return (
-    <main className="app-shell">
+    <main className={`app-shell ${screen === "home" ? "home-shell" : ""}`}>
       {header}
 
       {screen === "home" && (
