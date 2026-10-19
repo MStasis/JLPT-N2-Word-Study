@@ -45,6 +45,7 @@ type VocabularyPayload = {
 };
 
 const LEVELS: Level[] = ["N5", "N4", "N3", "N2"];
+// Keep the existing key so the rename preserves this browser's study history.
 const STORAGE_KEY = "kotoba-loop-state-v1";
 
 function shuffle<T>(values: T[]): T[] {
@@ -337,7 +338,7 @@ export function StudyApp() {
     }).format(new Date());
 
     link.href = url;
-    link.download = `kotoba-loop-records-${date}.json`;
+    link.download = `yomirevo-records-${date}.json`;
     document.body.appendChild(link);
     link.click();
     link.remove();
@@ -493,7 +494,7 @@ export function StudyApp() {
       <button className="brand" type="button" onClick={goHome} aria-label="홈으로 이동">
         <span className="brand-mark">語</span>
         <span className="brand-copy">
-          <strong>KOTOBA LOOP</strong>
+          <strong>YOMIREVO</strong>
           <small>JLPT QUICK STUDY</small>
         </span>
       </button>
