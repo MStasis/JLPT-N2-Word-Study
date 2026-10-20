@@ -36,12 +36,12 @@ test("server-renders Yomirevo without starter preview metadata", async () => {
   assert.match(html, /Yomirevo/);
   assert.doesNotMatch(html, /Kotoba Loop|KOTOBA LOOP/);
   assert.match(html, /단어장을 펼치는 중/);
-  assert.match(html, /N5부터 N2까지 학습할 단어/);
+  assert.match(html, /N5부터 N1까지 학습할 단어/);
   assert.doesNotMatch(html, /codex-preview|Your site is taking shape|react-loading-skeleton/);
   assert.match(html, /\/yomirevo-og\.png/);
 });
 
-test("ships a complete, unique N5-N2 vocabulary dataset", async () => {
+test("ships a complete, unique N5-N1 vocabulary dataset", async () => {
   const payload = JSON.parse(
     await readFile(new URL("../public/data/vocabulary.json", import.meta.url), "utf8"),
   );
@@ -49,9 +49,10 @@ test("ships a complete, unique N5-N2 vocabulary dataset", async () => {
   const ids = new Set(words.map((word) => word.id));
   const levels = new Set(words.map((word) => word.level));
 
-  assert.equal(words.length, 5333);
+  assert.ok(words.length >= 8000);
   assert.equal(ids.size, words.length);
-  assert.deepEqual([...levels].sort(), ["N2", "N3", "N4", "N5"]);
+  assert.deepEqual([...levels].sort(), ["N1", "N2", "N3", "N4", "N5"]);
+  assert.ok(words.filter((word) => word.level === "N1").length >= 2600);
   assert.ok(words.every((word) => word.expression && word.reading && word.meaning));
   assert.ok(words.every((word) => word.kind === "kanji" || word.kind === "kana"));
   assert.ok(words.some((word) => word.radicals.length > 0));

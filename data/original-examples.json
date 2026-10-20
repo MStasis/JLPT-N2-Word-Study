@@ -1,0 +1,6741 @@
+[
+  {
+    "level": "N5",
+    "expression": "ラジオカセ",
+    "reading": "ラジオカセ",
+    "example": {
+      "japanese": "古いラジオカセで母の好きな曲を聞いた。",
+      "korean": "오래된 라디오 카세트 플레이어로 어머니가 좋아하는 곡을 들었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N4",
+    "expression": "いくら〜ても",
+    "reading": "いくら〜ても",
+    "example": {
+      "japanese": "いくら練習しても、まだうまく弾けない。",
+      "korean": "아무리 연습해도 아직 잘 연주하지 못한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N4",
+    "expression": "いただく",
+    "reading": "頂く",
+    "example": {
+      "japanese": "先生から本をいただいた。",
+      "korean": "선생님께 책을 받았다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "酌む",
+    "reading": "くむ",
+    "example": {
+      "japanese": "父に酒を酌んで、一緒に食事をした。",
+      "korean": "아버지께 술을 따라 드리고 함께 식사했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "蒸す",
+    "reading": "むす",
+    "example": {
+      "japanese": "野菜を十分ほど蒸してから食べる。",
+      "korean": "채소를 10분 정도 찐 다음 먹는다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "碗",
+    "reading": "わん",
+    "example": {
+      "japanese": "白い碗に熱いお茶を注いだ。",
+      "korean": "흰 사발에 뜨거운 차를 따랐다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "渦",
+    "reading": "うず",
+    "example": {
+      "japanese": "川の流れが岩のそばで渦を巻いている。",
+      "korean": "강물이 바위 옆에서 소용돌이치고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "加味",
+    "reading": "かみ",
+    "example": {
+      "japanese": "費用だけでなく、安全性も加味して判断する。",
+      "korean": "비용뿐 아니라 안전성도 고려해서 판단한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "季刊",
+    "reading": "きかん",
+    "example": {
+      "japanese": "この文芸誌は季刊で、年に四回届く。",
+      "korean": "이 문예지는 계간지여서 일 년에 네 번 온다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "溶く",
+    "reading": "とく",
+    "example": {
+      "japanese": "小麦粉を水で溶いて生地を作る。",
+      "korean": "밀가루를 물에 풀어서 반죽을 만든다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "放れる",
+    "reading": "はなれる",
+    "example": {
+      "japanese": "手から放れた風船が空へ上がっていった。",
+      "korean": "손에서 벗어난 풍선이 하늘로 올라갔다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "不",
+    "reading": "ふ",
+    "example": {
+      "japanese": "準備が不十分だったため、発表に失敗した。",
+      "korean": "준비가 부족했기 때문에 발표에 실패했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "堀",
+    "reading": "ほり",
+    "example": {
+      "japanese": "城の堀には魚が泳いでいる。",
+      "korean": "성의 해자에는 물고기가 헤엄치고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "濠",
+    "reading": "ほり",
+    "example": {
+      "japanese": "濠の向こうに古い城が見える。",
+      "korean": "해자 너머로 오래된 성이 보인다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "マイナス",
+    "reading": "マイナス",
+    "example": {
+      "japanese": "今朝の気温はマイナス三度だった。",
+      "korean": "오늘 아침 기온은 영하 3도였다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "字体",
+    "reading": "じたい",
+    "example": {
+      "japanese": "同じ漢字でも、国によって字体が異なる。",
+      "korean": "같은 한자라도 나라에 따라 글자 모양이 다르다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "経る",
+    "reading": "へる",
+    "example": {
+      "japanese": "長い年月を経て、二人は再会した。",
+      "korean": "오랜 세월이 흐른 뒤 두 사람은 다시 만났다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "マッサージ",
+    "reading": "マッサージ",
+    "example": {
+      "japanese": "肩がこったので、マッサージを受けた。",
+      "korean": "어깨가 뭉쳐서 마사지를 받았다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "行っていらっしゃい",
+    "reading": "いっていらっしゃい",
+    "example": {
+      "japanese": "母は玄関で「行っていらっしゃい」と言った。",
+      "korean": "어머니는 현관에서 “잘 다녀오렴”이라고 말했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "いってまいります",
+    "reading": "いってまいります",
+    "example": {
+      "japanese": "「いってまいります」と言って、家を出た。",
+      "korean": "“다녀오겠습니다”라고 말하고 집을 나섰다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "緯度",
+    "reading": "いど",
+    "example": {
+      "japanese": "緯度が高くなるほど、一般に気温は低くなる。",
+      "korean": "위도가 높아질수록 일반적으로 기온은 낮아진다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "薄める",
+    "reading": "うすめる",
+    "example": {
+      "japanese": "ジュースを水で薄めて飲んだ。",
+      "korean": "주스를 물로 희석해서 마셨다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "打ち消す",
+    "reading": "うちけす",
+    "example": {
+      "japanese": "広報担当者はそのうわさを打ち消した。",
+      "korean": "홍보 담당자는 그 소문을 부정했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "追い越す",
+    "reading": "おいこす",
+    "example": {
+      "japanese": "自転車が私の車を追い越した。",
+      "korean": "자전거가 내 차를 추월했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "応ずる",
+    "reading": "おうずる",
+    "example": {
+      "japanese": "住民の要望に応ずるため、公園を整備した。",
+      "korean": "주민의 요구에 부응하기 위해 공원을 정비했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "小母さん",
+    "reading": "おばさん",
+    "example": {
+      "japanese": "近所の小母さんが道を教えてくれた。",
+      "korean": "동네 아주머니가 길을 알려 주셨다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "概論",
+    "reading": "がいろん",
+    "example": {
+      "japanese": "大学で日本文学概論を履修している。",
+      "korean": "대학에서 일본 문학 개론을 수강하고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "火口",
+    "reading": "かこう",
+    "example": {
+      "japanese": "火山の火口から白い煙が上がっている。",
+      "korean": "화산의 분화구에서 흰 연기가 피어오르고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "加速度",
+    "reading": "かそくど",
+    "example": {
+      "japanese": "実験でボールが落ちるときの加速度を測った。",
+      "korean": "실험에서 공이 떨어질 때의 가속도를 측정했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "斬る",
+    "reading": "きる",
+    "example": {
+      "japanese": "武士は刀で太い竹を斬った。",
+      "korean": "무사는 칼로 굵은 대나무를 베었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "くっつく",
+    "reading": "くっつく",
+    "example": {
+      "japanese": "ぬれた紙が机にくっついて取れない。",
+      "korean": "젖은 종이가 책상에 달라붙어서 떨어지지 않는다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "形容動詞",
+    "reading": "けいようどうし",
+    "example": {
+      "japanese": "「静かだ」は形容動詞の例です。",
+      "korean": "‘静かだ’는 형용동사의 예입니다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "激増",
+    "reading": "げきぞう",
+    "example": {
+      "japanese": "観光客が激増し、駅は大変混雑している。",
+      "korean": "관광객이 급증해서 역이 매우 붐비고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "こうよう もみじ",
+    "reading": "こうよう もみじ",
+    "example": {
+      "japanese": "もみじの紅葉を見に、山へ出かけた。",
+      "korean": "단풍나무의 단풍을 보러 산에 갔다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "言付ける",
+    "reading": "ことづける",
+    "example": {
+      "japanese": "父に、明日は帰りが遅くなると言付けた。",
+      "korean": "아버지께 내일은 귀가가 늦어진다고 전해 달라고 했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "一昨昨日",
+    "reading": "さきおととい",
+    "example": {
+      "japanese": "一昨昨日から、ずっと雨が降っている。",
+      "korean": "그끄저께부터 계속 비가 내리고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "座敷",
+    "reading": "ざしき",
+    "example": {
+      "japanese": "旅館の広い座敷で夕食を食べた。",
+      "korean": "여관의 넓은 다다미방에서 저녁을 먹었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "差し引き",
+    "reading": "さしひき",
+    "example": {
+      "japanese": "売り上げから経費を引くと、差し引き三万円が残る。",
+      "korean": "매출에서 경비를 빼면 차감 후 3만 엔이 남는다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "山林",
+    "reading": "さんりん",
+    "example": {
+      "japanese": "この地域では山林の保護が課題になっている。",
+      "korean": "이 지역에서는 산림 보호가 과제가 되고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "しいんと (する)",
+    "reading": "しいんと (する)",
+    "example": {
+      "japanese": "先生が教室に入ると、みんなしいんとした。",
+      "korean": "선생님이 교실에 들어오자 모두 조용해졌다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "しかく しかくい",
+    "reading": "しかく しかくい",
+    "example": {
+      "japanese": "この箱はしかくいので、積み重ねやすい。",
+      "korean": "이 상자는 네모나서 쌓아 올리기 쉽다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "私鉄",
+    "reading": "してつ",
+    "example": {
+      "japanese": "この町から空港へは私鉄で行ける。",
+      "korean": "이 마을에서 공항까지는 사철로 갈 수 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "集金",
+    "reading": "しゅうきん",
+    "example": {
+      "japanese": "担当者が毎月、会費の集金に来る。",
+      "korean": "담당자가 매달 회비를 수금하러 온다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "針路",
+    "reading": "しんろ",
+    "example": {
+      "japanese": "船は港を目指して針路を変えた。",
+      "korean": "배는 항구를 향해 진로를 바꾸었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "水産",
+    "reading": "すいさん",
+    "example": {
+      "japanese": "この港町では水産業が盛んだ。",
+      "korean": "이 항구 도시에서는 수산업이 활발하다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "ゼミ",
+    "reading": "ゼミ",
+    "example": {
+      "japanese": "ゼミで、自分の研究について発表した。",
+      "korean": "세미나에서 자신의 연구에 관해 발표했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "先々週",
+    "reading": "せんせんしゅう",
+    "example": {
+      "japanese": "先々週、京都に住む友人を訪ねた。",
+      "korean": "지지난주에 교토에 사는 친구를 찾아갔다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "存ずる",
+    "reading": "ぞんずる",
+    "example": {
+      "japanese": "その件については、よく存じております。",
+      "korean": "그 건에 관해서는 잘 알고 있습니다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "ダイヤグラム",
+    "reading": "ダイヤグラム",
+    "example": {
+      "japanese": "列車のダイヤグラムを見て、運行計画を確認した。",
+      "korean": "열차 운행 도표를 보고 운행 계획을 확인했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "ちぎる",
+    "reading": "ちぎる",
+    "example": {
+      "japanese": "パンを小さくちぎって、スープに入れた。",
+      "korean": "빵을 작게 뜯어서 수프에 넣었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "長短",
+    "reading": "ちょうたん",
+    "example": {
+      "japanese": "この案の長短を比べてから決めよう。",
+      "korean": "이 안의 장단점을 비교한 뒤 결정하자.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "直流",
+    "reading": "ちょくりゅう",
+    "example": {
+      "japanese": "この装置は電池の直流で動く。",
+      "korean": "이 장치는 전지의 직류로 작동한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "同格",
+    "reading": "どうかく",
+    "example": {
+      "japanese": "二つの部署は組織上、同格とされている。",
+      "korean": "두 부서는 조직상 동등한 지위로 여겨진다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "どっと",
+    "reading": "どっと",
+    "example": {
+      "japanese": "試合が終わると、観客がどっと外へ出た。",
+      "korean": "경기가 끝나자 관객이 한꺼번에 밖으로 나갔다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "殿",
+    "reading": "どの",
+    "example": {
+      "japanese": "封筒の宛名には「山田太郎殿」と書かれていた。",
+      "korean": "봉투의 수신인란에는 ‘야마다 타로 귀하’라고 적혀 있었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "採る",
+    "reading": "とる",
+    "example": {
+      "japanese": "安全を守るため、厳しい対策を採る必要がある。",
+      "korean": "안전을 지키기 위해 엄격한 대책을 채택할 필요가 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "何々",
+    "reading": "なになに",
+    "example": {
+      "japanese": "何々、駅前に新しい店ができたって？",
+      "korean": "뭐라고, 역 앞에 새 가게가 생겼다고?",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "俄",
+    "reading": "にわか",
+    "example": {
+      "japanese": "空が暗くなり、俄に雨が降り始めた。",
+      "korean": "하늘이 어두워지더니 갑자기 비가 내리기 시작했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "×",
+    "reading": "ばつ",
+    "example": {
+      "japanese": "間違えた答えに赤い×を付けた。",
+      "korean": "틀린 답에 빨간 가위표를 했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "張り切る",
+    "reading": "はりきる",
+    "example": {
+      "japanese": "弟は運動会に向けて張り切っている。",
+      "korean": "남동생은 운동회를 앞두고 의욕이 넘친다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "ぴたり",
+    "reading": "ぴたり",
+    "example": {
+      "japanese": "到着時刻は予定とぴたりと一致した。",
+      "korean": "도착 시각은 예정과 정확히 일치했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "ビルディング",
+    "reading": "ビルディング",
+    "example": {
+      "japanese": "駅前に高いビルディングが建った。",
+      "korean": "역 앞에 높은 빌딩이 들어섰다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "符号",
+    "reading": "ふごう",
+    "example": {
+      "japanese": "地図の符号を見て、郵便局の場所を探した。",
+      "korean": "지도의 기호를 보고 우체국의 위치를 찾았다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "部首",
+    "reading": "ぶしゅ",
+    "example": {
+      "japanese": "漢字の部首を手がかりに辞書で調べた。",
+      "korean": "한자의 부수를 실마리로 사전을 찾아보았다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "蒸す",
+    "reading": "ふす",
+    "example": {
+      "japanese": "蒸し器で肉まんを蒸す。",
+      "korean": "찜기로 고기만두를 찐다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "襖",
+    "reading": "ふすま",
+    "example": {
+      "japanese": "隣の部屋との間にある襖を閉めた。",
+      "korean": "옆방과의 사이에 있는 미닫이문을 닫았다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "ぶらさげる",
+    "reading": "ぶらさげる",
+    "example": {
+      "japanese": "かばんに小さな人形をぶらさげている。",
+      "korean": "가방에 작은 인형을 매달고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "フリー",
+    "reading": "フリー",
+    "example": {
+      "japanese": "彼女は会社を辞めて、フリーの記者になった。",
+      "korean": "그녀는 회사를 그만두고 프리랜서 기자가 되었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "凹む",
+    "reading": "へこむ",
+    "example": {
+      "japanese": "落とした鍋の底が凹んでしまった。",
+      "korean": "떨어뜨린 냄비의 바닥이 움푹 들어가 버렸다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "牧畜",
+    "reading": "ぼくちく",
+    "example": {
+      "japanese": "この地方では、牛や羊を育てる牧畜が盛んだ。",
+      "korean": "이 지방에서는 소나 양을 기르는 목축이 활발하다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "まごまご",
+    "reading": "まごまご",
+    "example": {
+      "japanese": "改札で切符が見つからず、まごまごしてしまった。",
+      "korean": "개찰구에서 표를 찾지 못해 우왕좌왕하고 말았다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "またぐ",
+    "reading": "またぐ",
+    "example": {
+      "japanese": "道に倒れた木をまたいで進んだ。",
+      "korean": "길에 쓰러진 나무를 타넘고 앞으로 나아갔다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "店屋",
+    "reading": "みせや",
+    "example": {
+      "japanese": "駅の周りには、小さな店屋が並んでいる。",
+      "korean": "역 주변에는 작은 가게들이 늘어서 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "目安",
+    "reading": "めやす",
+    "example": {
+      "japanese": "一日に五語を覚えることを目安にしている。",
+      "korean": "하루에 다섯 단어를 외우는 것을 기준으로 삼고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "モノレール",
+    "reading": "モノレール",
+    "example": {
+      "japanese": "空港までモノレールで行った。",
+      "korean": "공항까지 모노레일로 갔다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "やたらに",
+    "reading": "やたらに",
+    "example": {
+      "japanese": "知らないサイトに個人情報をやたらに入力してはいけない。",
+      "korean": "모르는 사이트에 개인 정보를 함부로 입력해서는 안 된다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "洋品店",
+    "reading": "ようひんてん",
+    "example": {
+      "japanese": "商店街の洋品店でシャツを買った。",
+      "korean": "상점가의 양품점에서 셔츠를 샀다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "論ずる",
+    "reading": "ろんずる",
+    "example": {
+      "japanese": "この論文は、都市の交通問題を論ずるものだ。",
+      "korean": "이 논문은 도시의 교통 문제를 논하는 것이다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "興業",
+    "reading": "こうぎょう",
+    "example": {
+      "japanese": "地域の興業を支援するための基金ができた。",
+      "korean": "지역의 산업 진흥을 지원하기 위한 기금이 생겼다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "講読",
+    "reading": "こうどく",
+    "example": {
+      "japanese": "大学の講読の授業で、古典文学を読む。",
+      "korean": "대학 강독 수업에서 고전 문학을 읽는다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "光熱費",
+    "reading": "こうねつひ",
+    "example": {
+      "japanese": "冬は暖房を使うので、光熱費が高くなる。",
+      "korean": "겨울에는 난방을 사용하므로 광열비가 많이 든다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "公募",
+    "reading": "こうぼ",
+    "example": {
+      "japanese": "市は新しい施設の名称を公募している。",
+      "korean": "시는 새로운 시설의 명칭을 공모하고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "国定",
+    "reading": "こくてい",
+    "example": {
+      "japanese": "博物館には、昔の国定教科書が展示されている。",
+      "korean": "박물관에는 옛날의 국정 교과서가 전시되어 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "こじれる",
+    "reading": "こじれる",
+    "example": {
+      "japanese": "説明が足りず、話がこじれてしまった。",
+      "korean": "설명이 부족해서 이야기가 꼬이고 말았다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "梢",
+    "reading": "こずえ",
+    "example": {
+      "japanese": "小鳥が木の梢に止まっている。",
+      "korean": "작은 새가 나뭇가지 끝에 앉아 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "碁盤",
+    "reading": "ごばん",
+    "example": {
+      "japanese": "祖父は碁盤を出して、囲碁の準備をした。",
+      "korean": "할아버지는 바둑판을 꺼내 바둑 둘 준비를 하셨다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "差し支える",
+    "reading": "さしつかえる",
+    "example": {
+      "japanese": "夜更かしは、翌日の仕事に差し支える。",
+      "korean": "밤늦게까지 깨어 있으면 다음 날 일에 지장이 생긴다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "摩する",
+    "reading": "さする",
+    "example": {
+      "japanese": "母は子供の背中をさすった。",
+      "korean": "어머니는 아이의 등을 어루만졌다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "座談会",
+    "reading": "ざだんかい",
+    "example": {
+      "japanese": "専門家が集まり、教育についての座談会を開いた。",
+      "korean": "전문가들이 모여 교육에 관한 좌담회를 열었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "サンキュー",
+    "reading": "サンキュー",
+    "example": {
+      "japanese": "荷物を持ってくれた友人に「サンキュー」と言った。",
+      "korean": "짐을 들어 준 친구에게 “고마워”라고 말했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "式場",
+    "reading": "しきじょう",
+    "example": {
+      "japanese": "結婚式の式場は、海の見えるホテルだ。",
+      "korean": "결혼식장은 바다가 보이는 호텔이다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "結束",
+    "reading": "けっそく",
+    "example": {
+      "japanese": "困難を乗り越えるため、チームの結束を強めた。",
+      "korean": "어려움을 극복하기 위해 팀의 결속을 다졌다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "げっそり",
+    "reading": "げっそり",
+    "example": {
+      "japanese": "長い入院生活で、彼はげっそり痩せていた。",
+      "korean": "오랜 입원 생활로 그는 몰라보게 수척해져 있었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "兼業",
+    "reading": "けんぎょう",
+    "example": {
+      "japanese": "両親は農業と民宿を兼業している。",
+      "korean": "부모님은 농업과 민박업을 겸업하고 계신다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "原型",
+    "reading": "げんけい",
+    "example": {
+      "japanese": "完成品の原型となった模型を展示している。",
+      "korean": "완성품의 원형이 된 모형을 전시하고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "トーン",
+    "reading": "トーン",
+    "example": {
+      "japanese": "もう少し明るいトーンで話してみてください。",
+      "korean": "조금 더 밝은 어조로 말해 보세요.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "とっさに",
+    "reading": "とっさに",
+    "example": {
+      "japanese": "子供が転びそうになり、とっさに手を伸ばした。",
+      "korean": "아이가 넘어질 것 같아서 순간적으로 손을 뻗었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "殿様",
+    "reading": "とのさま",
+    "example": {
+      "japanese": "この城には、昔この土地を治めた殿様が住んでいた。",
+      "korean": "이 성에는 옛날에 이 지역을 다스리던 영주가 살았다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "土俵",
+    "reading": "どひょう",
+    "example": {
+      "japanese": "力士たちが土俵に上がった。",
+      "korean": "스모 선수들이 씨름판에 올라갔다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "土木",
+    "reading": "どぼく",
+    "example": {
+      "japanese": "兄は大学で土木を学び、橋の設計をしている。",
+      "korean": "형은 대학에서 토목을 공부했고 다리를 설계하고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "とぼける",
+    "reading": "とぼける",
+    "example": {
+      "japanese": "彼は事情を知っているのに、とぼけている。",
+      "korean": "그는 사정을 알고 있는데도 모르는 척하고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "取り次ぐ",
+    "reading": "とりつぐ",
+    "example": {
+      "japanese": "受付で名前を伝え、担当者に取り次いでもらった。",
+      "korean": "접수처에서 이름을 말하고 담당자에게 연결해 달라고 했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "取り混ぜる",
+    "reading": "とりまぜる",
+    "example": {
+      "japanese": "新しい曲と古い曲を取り混ぜて演奏した。",
+      "korean": "새 곡과 옛 곡을 섞어서 연주했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "とろける",
+    "reading": "とろける",
+    "example": {
+      "japanese": "この肉は柔らかく、口の中でとろける。",
+      "korean": "이 고기는 부드러워서 입안에서 살살 녹는다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "内蔵",
+    "reading": "ないぞう",
+    "example": {
+      "japanese": "このカメラには小型のマイクが内蔵されている。",
+      "korean": "이 카메라에는 소형 마이크가 내장되어 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "生身",
+    "reading": "なまみ",
+    "example": {
+      "japanese": "生身の人間には、休息が必要だ。",
+      "korean": "살아 있는 인간에게는 휴식이 필요하다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "なるたけ",
+    "reading": "なるたけ",
+    "example": {
+      "japanese": "なるたけ早く返事をください。",
+      "korean": "가능한 한 빨리 답장을 주세요.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "ネガ",
+    "reading": "ネガ",
+    "example": {
+      "japanese": "古い写真のネガを箱にしまった。",
+      "korean": "옛 사진의 네거티브 필름을 상자에 넣어 두었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "熱量",
+    "reading": "ねつりょう",
+    "example": {
+      "japanese": "食品ごとの熱量を調べて、献立を考えた。",
+      "korean": "식품별 열량을 조사해서 식단을 짰다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "納入",
+    "reading": "のうにゅう",
+    "example": {
+      "japanese": "注文した机は来週、学校に納入される。",
+      "korean": "주문한 책상은 다음 주에 학교로 납품된다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "拝啓",
+    "reading": "はいけい",
+    "example": {
+      "japanese": "「拝啓」で書き始めた手紙を、恩師に送った。",
+      "korean": "‘삼가 아룁니다’라는 인사말로 시작한 편지를 은사님께 보냈다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "配列",
+    "reading": "はいれつ",
+    "example": {
+      "japanese": "机の配列を変えて、話し合いやすくした。",
+      "korean": "책상 배치를 바꾸어 토의하기 쉽게 했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "一別",
+    "reading": "いちべつ",
+    "example": {
+      "japanese": "彼とは卒業式で一別して以来、会っていない。",
+      "korean": "그와는 졸업식에서 헤어진 뒤로 만나지 못했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "一様",
+    "reading": "いちよう",
+    "example": {
+      "japanese": "結果を聞いて、参加者は一様に驚いた。",
+      "korean": "결과를 듣고 참가자들은 하나같이 놀랐다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "一律",
+    "reading": "いちりつ",
+    "example": {
+      "japanese": "入場料は年齢に関係なく一律五百円だ。",
+      "korean": "입장료는 나이에 관계없이 일률적으로 500엔이다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "一挙に",
+    "reading": "いっきょに",
+    "example": {
+      "japanese": "新しい機械の導入で、作業の効率が一挙に上がった。",
+      "korean": "새 기계를 도입해서 작업 효율이 단번에 높아졌다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "威力",
+    "reading": "いりょく",
+    "example": {
+      "japanese": "台風の威力を、窓をたたく風の音で実感した。",
+      "korean": "창문을 두드리는 바람 소리로 태풍의 위력을 실감했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "インターチェンジ",
+    "reading": "インターチェンジ",
+    "example": {
+      "japanese": "次のインターチェンジで高速道路を降りる。",
+      "korean": "다음 나들목에서 고속 도로를 빠져나간다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "インテリ",
+    "reading": "インテリ",
+    "example": {
+      "japanese": "彼は難しい本を好むインテリだ。",
+      "korean": "그는 어려운 책을 즐겨 읽는 지식인이다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "空ろ",
+    "reading": "うつろ",
+    "example": {
+      "japanese": "彼女は疲れ切って、空ろな目をしていた。",
+      "korean": "그녀는 몹시 지쳐서 멍한 눈을 하고 있었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "埋め込む",
+    "reading": "うめこむ",
+    "example": {
+      "japanese": "床に照明を埋め込んで、足元を照らした。",
+      "korean": "바닥에 조명을 매립해서 발밑을 비추었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "云々",
+    "reading": "うんぬん",
+    "example": {
+      "japanese": "会議では、予算や人員が足りない云々の話が出た。",
+      "korean": "회의에서는 예산이나 인력이 부족하다는 등의 이야기가 나왔다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "エレガント",
+    "reading": "エレガント",
+    "example": {
+      "japanese": "彼女はエレガントな服装で現れた。",
+      "korean": "그녀는 우아한 옷차림으로 나타났다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "縁側",
+    "reading": "えんがわ",
+    "example": {
+      "japanese": "祖母は縁側に座り、庭を眺めている。",
+      "korean": "할머니는 툇마루에 앉아 정원을 바라보고 계신다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "オートマチック",
+    "reading": "オートマチック",
+    "example": {
+      "japanese": "この車はオートマチックなので、運転しやすい。",
+      "korean": "이 차는 자동 변속 차량이어서 운전하기 쉽다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "おおまかな",
+    "reading": "おおまかな",
+    "example": {
+      "japanese": "まず、おおまかな日程を決めよう。",
+      "korean": "우선 대략적인 일정을 정하자.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "押し切る",
+    "reading": "おしきる",
+    "example": {
+      "japanese": "彼は周囲の反対を押し切って、留学した。",
+      "korean": "그는 주변의 반대를 무릅쓰고 유학을 갔다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "恐れ入る",
+    "reading": "おそれいる",
+    "example": {
+      "japanese": "ご親切にしていただき、恐れ入ります。",
+      "korean": "친절하게 대해 주셔서 황송합니다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "おっかない",
+    "reading": "おっかない",
+    "example": {
+      "japanese": "夜の山道を一人で歩くのは、おっかない。",
+      "korean": "밤의 산길을 혼자 걷는 것은 무섭다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "帯びる",
+    "reading": "おびる",
+    "example": {
+      "japanese": "その発言は、政治的な意味を帯びている。",
+      "korean": "그 발언은 정치적인 의미를 띠고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "折り返す",
+    "reading": "おりかえす",
+    "example": {
+      "japanese": "袖が長いので、少し折り返して着た。",
+      "korean": "소매가 길어서 조금 접어 올려 입었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "改定",
+    "reading": "かいてい",
+    "example": {
+      "japanese": "来月から、バスの運賃が改定される。",
+      "korean": "다음 달부터 버스 요금이 개정된다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "省みる",
+    "reading": "かえりみる",
+    "example": {
+      "japanese": "自分の行動を省みて、友人に謝った。",
+      "korean": "자신의 행동을 반성하고 친구에게 사과했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "課外",
+    "reading": "かがい",
+    "example": {
+      "japanese": "放課後の課外活動で、地域の清掃をした。",
+      "korean": "방과 후 과외 활동으로 지역을 청소했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "箇条書",
+    "reading": "かじょうがき",
+    "example": {
+      "japanese": "要点を箇条書きにして、報告書にまとめた。",
+      "korean": "요점을 항목별로 적어서 보고서로 정리했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "化繊",
+    "reading": "かせん",
+    "example": {
+      "japanese": "この服は化繊なので、洗っても乾きやすい。",
+      "korean": "이 옷은 합성 섬유라서 세탁해도 잘 마른다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "過疎",
+    "reading": "かそ",
+    "example": {
+      "japanese": "この村は過疎が進み、学校が閉鎖された。",
+      "korean": "이 마을은 인구 과소화가 진행되어 학교가 폐교되었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "カムバック",
+    "reading": "カムバック",
+    "example": {
+      "japanese": "彼女は長い休養の後、舞台にカムバックした。",
+      "korean": "그녀는 오랜 휴식 후 무대에 복귀했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "元年",
+    "reading": "がんねん",
+    "example": {
+      "japanese": "これは昭和元年に発行された新聞だ。",
+      "korean": "이것은 쇼와 원년에 발행된 신문이다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "感無量",
+    "reading": "かんむりょう",
+    "example": {
+      "japanese": "卒業証書を受け取り、感無量だった。",
+      "korean": "졸업장을 받고 감개무량했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "慣例",
+    "reading": "かんれい",
+    "example": {
+      "japanese": "この会社では、朝に全員で掃除するのが慣例だ。",
+      "korean": "이 회사에서는 아침에 모두 함께 청소하는 것이 관례다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "規格",
+    "reading": "きかく",
+    "example": {
+      "japanese": "この部品は、国際規格に適合している。",
+      "korean": "이 부품은 국제 규격에 적합하다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "帰京",
+    "reading": "ききょう",
+    "example": {
+      "japanese": "出張を終え、昨夜帰京した。",
+      "korean": "출장을 마치고 어젯밤 도쿄로 돌아왔다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "きちっと",
+    "reading": "きちっと",
+    "example": {
+      "japanese": "使った道具は、元の場所にきちっと戻してね。",
+      "korean": "사용한 도구는 원래 자리에 정확히 돌려놓아 줘.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "起点",
+    "reading": "きてん",
+    "example": {
+      "japanese": "この駅を起点に、川沿いを十キロ歩く。",
+      "korean": "이 역을 기점으로 강을 따라 10킬로미터를 걷는다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "気風",
+    "reading": "きふう",
+    "example": {
+      "japanese": "自由に意見を言える気風が、この職場にはある。",
+      "korean": "이 직장에는 자유롭게 의견을 말할 수 있는 분위기가 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "起伏",
+    "reading": "きふく",
+    "example": {
+      "japanese": "この道は起伏が多く、自転車では疲れる。",
+      "korean": "이 길은 오르내림이 심해서 자전거로 다니면 힘들다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "球根",
+    "reading": "きゅうこん",
+    "example": {
+      "japanese": "秋にチューリップの球根を植えた。",
+      "korean": "가을에 튤립 구근을 심었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "旧知",
+    "reading": "きゅうち",
+    "example": {
+      "japanese": "彼とは旧知の仲で、何でも話せる。",
+      "korean": "그와는 오래전부터 아는 사이라서 무슨 말이든 할 수 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "共学",
+    "reading": "きょうがく",
+    "example": {
+      "japanese": "この学校は以前は女子校だったが、今は共学だ。",
+      "korean": "이 학교는 예전에는 여학교였지만 지금은 남녀 공학이다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "ダウン",
+    "reading": "ダウン",
+    "meaning": "쓰러짐, 기능 저하",
+    "example": {
+      "japanese": "高熱で三日間もダウンしていた。",
+      "korean": "고열로 사흘이나 앓아누워 있었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "うろうろ",
+    "reading": "うろうろ",
+    "meaning": "서성거리는 모양, 우왕좌왕",
+    "example": {
+      "japanese": "駅の出口が分からず、同じ場所をうろうろした。",
+      "korean": "역 출구를 몰라 같은 곳을 서성거렸다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "区切る",
+    "reading": "くぎる",
+    "meaning": "구분하다, 나누다",
+    "example": {
+      "japanese": "長い文章は、意味のまとまりごとに区切ると読みやすい。",
+      "korean": "긴 글은 의미 단위로 나누면 읽기 쉽다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "心得る",
+    "reading": "こころえる",
+    "meaning": "잘 알다, 이해하고 갖추다",
+    "example": {
+      "japanese": "接客の基本を心得てから、店に立つ。",
+      "korean": "접객의 기본을 익힌 뒤 매장에서 일한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "ナンバー",
+    "reading": "ナンバー",
+    "meaning": "번호",
+    "example": {
+      "japanese": "予約のナンバーを受付で伝えた。",
+      "korean": "예약 번호를 접수처에 알렸다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "跨ぐ",
+    "reading": "またぐ",
+    "meaning": "타고 넘다, 걸터넘다",
+    "example": {
+      "japanese": "足元の水たまりを跨いで歩いた。",
+      "korean": "발밑의 물웅덩이를 타고 넘어 걸었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "ドライ",
+    "reading": "ドライ",
+    "meaning": "건조한, 냉정하고 담백한",
+    "example": {
+      "japanese": "彼女は仕事上の人間関係にはドライだ。",
+      "korean": "그녀는 업무상 인간관계에 냉정하고 담백하다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "強行",
+    "reading": "きょうこう",
+    "meaning": "강행",
+    "example": {
+      "japanese": "雨の中でも大会の開催を強行した。",
+      "korean": "비가 오는 가운데서도 대회 개최를 강행했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "局限",
+    "reading": "きょくげん",
+    "meaning": "한정, 국한",
+    "example": {
+      "japanese": "被害をこの地域だけに局限することは難しい。",
+      "korean": "피해를 이 지역에만 국한하기는 어렵다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "清らか",
+    "reading": "きよらか",
+    "meaning": "맑고 깨끗함",
+    "example": {
+      "japanese": "清らかな水が山の谷間を流れている。",
+      "korean": "맑고 깨끗한 물이 산골짜기를 흐르고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "屈折",
+    "reading": "くっせつ",
+    "meaning": "굴절",
+    "example": {
+      "japanese": "水の中では光の屈折によって物が曲がって見える。",
+      "korean": "물속에서는 빛의 굴절로 물체가 휘어 보인다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "軍服",
+    "reading": "ぐんぷく",
+    "meaning": "군복",
+    "example": {
+      "japanese": "祖父の古い写真には、軍服姿の若者が写っていた。",
+      "korean": "할아버지의 옛 사진에는 군복 차림의 젊은이가 찍혀 있었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "敬具",
+    "reading": "けいぐ",
+    "meaning": "경구, 삼가 올림(편지의 맺음말)",
+    "example": {
+      "japanese": "末筆ながら、皆様のご健康をお祈り申し上げます。敬具",
+      "korean": "끝으로 여러분의 건강을 기원합니다. 삼가 올림.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "点線",
+    "reading": "てんせん",
+    "meaning": "점선",
+    "example": {
+      "japanese": "点線に沿って紙を切ってください。",
+      "korean": "점선을 따라 종이를 잘라 주세요.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "転ずる",
+    "reading": "てんずる",
+    "meaning": "바뀌다, 방향을 전환하다",
+    "example": {
+      "japanese": "批判を受けて、会社は方針を転ずることにした。",
+      "korean": "비판을 받고 회사는 방침을 바꾸기로 했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "転任",
+    "reading": "てんにん",
+    "meaning": "전임, 근무지를 옮김",
+    "example": {
+      "japanese": "父は来月、別の支店に転任する。",
+      "korean": "아버지는 다음 달 다른 지점으로 전임한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "動員",
+    "reading": "どういん",
+    "meaning": "동원",
+    "example": {
+      "japanese": "行方不明者の捜索に多くの人員を動員した。",
+      "korean": "실종자 수색에 많은 인원을 동원했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "等級",
+    "reading": "とうきゅう",
+    "meaning": "등급",
+    "example": {
+      "japanese": "商品の品質によって等級を分ける。",
+      "korean": "상품의 품질에 따라 등급을 나눈다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "道場",
+    "reading": "どうじょう",
+    "meaning": "도장, 무술 수련장",
+    "example": {
+      "japanese": "子供たちは道場で柔道の練習をしている。",
+      "korean": "아이들은 도장에서 유도 연습을 하고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "下地",
+    "reading": "したじ",
+    "meaning": "바탕, 기초",
+    "example": {
+      "japanese": "若い頃の読書が、今の仕事の下地になっている。",
+      "korean": "젊었을 때의 독서가 지금 일의 바탕이 되고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "麻",
+    "reading": "あさ",
+    "meaning": "삼, 마(섬유를 얻는 식물)",
+    "example": {
+      "japanese": "夏は麻のシャツを着ると涼しい。",
+      "korean": "여름에는 마 셔츠를 입으면 시원하다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "浅ましい",
+    "reading": "あさましい",
+    "meaning": "비열하다, 한심하고 천하다",
+    "example": {
+      "japanese": "人の失敗を喜ぶのは浅ましいことだ。",
+      "korean": "남의 실패를 기뻐하는 것은 비열한 일이다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "当て字",
+    "reading": "あてじ",
+    "meaning": "아테지, 음을 빌려 쓴 한자",
+    "example": {
+      "japanese": "この地名の漢字は、音に合わせた当て字だ。",
+      "korean": "이 지명의 한자는 소리에 맞춰 빌려 쓴 글자이다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "霰",
+    "reading": "あられ",
+    "meaning": "싸락눈",
+    "example": {
+      "japanese": "午後になると、雨が霰に変わった。",
+      "korean": "오후가 되자 비가 싸락눈으로 바뀌었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "ありふれる",
+    "reading": "ありふれる",
+    "meaning": "흔하다, 어디에나 있다",
+    "example": {
+      "japanese": "道端にはどこにでもありふれた花が咲いていた。",
+      "korean": "길가에는 어디에나 흔한 꽃이 피어 있었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "アワー",
+    "reading": "アワー",
+    "meaning": "아워, 시간(방송 등의 명칭에 쓰는 외래어)",
+    "example": {
+      "japanese": "夕方のラッシュアワーは電車がとても混む。",
+      "korean": "저녁 러시아워에는 전철이 매우 붐빈다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "異見",
+    "reading": "いけん",
+    "meaning": "이견, 다른 의견",
+    "example": {
+      "japanese": "計画に異見があれば、遠慮なく述べてください。",
+      "korean": "계획에 이견이 있으면 거리낌 없이 말해 주세요.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "準じる",
+    "reading": "じゅんじる",
+    "meaning": "준하다, 기준에 따르다",
+    "example": {
+      "japanese": "契約社員にも正社員に準じる待遇を用意する。",
+      "korean": "계약직에게도 정규직에 준하는 대우를 마련한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "進呈",
+    "reading": "しんてい",
+    "meaning": "증정(드림을 공손하게 이르는 말)",
+    "example": {
+      "japanese": "ご来場の皆様に記念品を進呈します。",
+      "korean": "방문하신 여러분께 기념품을 드립니다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "進度",
+    "reading": "しんど",
+    "meaning": "진도",
+    "example": {
+      "japanese": "授業の進度に合わせて復習する。",
+      "korean": "수업 진도에 맞춰 복습한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "信任",
+    "reading": "しんにん",
+    "meaning": "신임, 믿고 맡김",
+    "example": {
+      "japanese": "新しい代表は会員から厚い信任を得ている。",
+      "korean": "새 대표는 회원들에게 두터운 신임을 받고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "数詞",
+    "reading": "すうし",
+    "meaning": "수사, 수를 나타내는 품사",
+    "example": {
+      "japanese": "一や二は、数を表す数詞です。",
+      "korean": "일과 이는 수를 나타내는 수사이다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "据え付ける",
+    "reading": "すえつける",
+    "meaning": "설치하다, 고정해 놓다",
+    "example": {
+      "japanese": "業者が新しい洗濯機を据え付けた。",
+      "korean": "업체에서 새 세탁기를 설치했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "すくう (みずを～)",
+    "reading": "すくう (みずを～)",
+    "meaning": "떠내다, 손이나 국자로 뜨다",
+    "example": {
+      "japanese": "両手で川の水をすくって顔を洗った。",
+      "korean": "두 손으로 강물을 떠서 얼굴을 씻었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "ストロボ",
+    "reading": "ストロボ",
+    "meaning": "스트로보, 사진 촬영용 섬광등",
+    "example": {
+      "japanese": "暗い部屋ではストロボを使って撮影した。",
+      "korean": "어두운 방에서는 스트로보를 사용해 촬영했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "ずばり",
+    "reading": "ずばり",
+    "meaning": "단도직입적으로, 정확히 들어맞게",
+    "example": {
+      "japanese": "問題の原因をずばり言い当てた。",
+      "korean": "문제의 원인을 정확히 짚어 냈다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "スプリング",
+    "reading": "スプリング",
+    "meaning": "스프링, 용수철",
+    "example": {
+      "japanese": "古い椅子のスプリングが壊れた。",
+      "korean": "오래된 의자의 스프링이 망가졌다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "ずらっと",
+    "reading": "ずらっと",
+    "meaning": "줄지어 빽빽이 늘어선 모양",
+    "example": {
+      "japanese": "店の前に客がずらっと並んでいる。",
+      "korean": "가게 앞에 손님이 길게 줄지어 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "すれちがい",
+    "reading": "すれちがい",
+    "meaning": "엇갈림, 스쳐 지나감",
+    "example": {
+      "japanese": "待ち合わせの場所を間違えて、すれちがいになった。",
+      "korean": "만날 장소를 잘못 알아 서로 엇갈렸다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "すんなり",
+    "reading": "すんなり",
+    "meaning": "막힘없이, 순조롭게",
+    "example": {
+      "japanese": "新しい提案は会議ですんなり認められた。",
+      "korean": "새 제안은 회의에서 순조롭게 승인되었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "成育",
+    "reading": "せいいく",
+    "meaning": "성육, 자라거나 길러짐",
+    "example": {
+      "japanese": "この土地は野菜の成育に適している。",
+      "korean": "이 땅은 채소가 자라기에 적합하다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "静的",
+    "reading": "せいてき",
+    "meaning": "정적, 움직임이나 변화가 적음",
+    "example": {
+      "japanese": "写真は静的な表現だが、強い印象を与える。",
+      "korean": "사진은 정적인 표현이지만 강한 인상을 준다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "専修",
+    "reading": "せんしゅう",
+    "meaning": "전수, 특정 분야를 전문적으로 배움",
+    "example": {
+      "japanese": "大学では日本文学を専修している。",
+      "korean": "대학에서는 일본 문학을 전문적으로 공부하고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "雑木",
+    "reading": "ぞうき",
+    "meaning": "잡목, 여러 종류의 나무",
+    "example": {
+      "japanese": "裏山には雑木が生い茂っている。",
+      "korean": "뒷산에는 잡목이 무성하게 자라 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "蔵相",
+    "reading": "ぞうしょう",
+    "meaning": "대장상(일본의 옛 재무장관)",
+    "example": {
+      "japanese": "当時の蔵相は財政の再建を目指していた。",
+      "korean": "당시의 대장상은 재정 재건을 목표로 하고 있었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "外方",
+    "reading": "そっぽ",
+    "meaning": "다른 쪽(주로 외면하는 방향)",
+    "example": {
+      "japanese": "名前を呼んだのに、弟は外方を向いた。",
+      "korean": "이름을 불렀는데도 남동생은 고개를 다른 쪽으로 돌렸다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "そらす",
+    "reading": "そらす",
+    "meaning": "뒤로 젖히다, 휘게 하다",
+    "example": {
+      "japanese": "体を後ろにそらすと、背中が痛む。",
+      "korean": "몸을 뒤로 젖히면 등이 아프다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "反る",
+    "reading": "そる",
+    "meaning": "휘다, 뒤로 젖혀지다",
+    "example": {
+      "japanese": "乾燥しすぎて、木の板が反ってしまった。",
+      "korean": "너무 건조해서 나무판이 휘어 버렸다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "タイムリー",
+    "reading": "タイムリー",
+    "meaning": "시의적절한",
+    "example": {
+      "japanese": "必要な情報をタイムリーに伝える。",
+      "korean": "필요한 정보를 시의적절하게 전한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "立て替える",
+    "reading": "たてかえる",
+    "meaning": "남의 비용을 대신 지불하다",
+    "example": {
+      "japanese": "友達の電車賃を立て替えた。",
+      "korean": "친구의 전철 요금을 대신 내 주었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "奉る",
+    "reading": "たてまつる",
+    "meaning": "바치다, 삼가 올리다",
+    "example": {
+      "japanese": "人々は神社に米や酒を奉った。",
+      "korean": "사람들은 신사에 쌀과 술을 바쳤다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "賜る",
+    "reading": "たまわる",
+    "meaning": "받다(주는 이를 높여 이르는 말)",
+    "example": {
+      "japanese": "先生から温かいお言葉を賜りました。",
+      "korean": "선생님께 따뜻한 말씀을 받았습니다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "弛む",
+    "reading": "たるむ",
+    "meaning": "느슨해지다, 긴장이 풀리다",
+    "example": {
+      "japanese": "長く使ったロープが弛んでいる。",
+      "korean": "오래 쓴 밧줄이 느슨해져 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "担架",
+    "reading": "たんか",
+    "meaning": "들것",
+    "example": {
+      "japanese": "救急隊員が患者を担架に乗せた。",
+      "korean": "구급대원이 환자를 들것에 실었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "短大",
+    "reading": "たんだい",
+    "meaning": "단기대학, 전문대학에 해당하는 일본의 교육기관",
+    "example": {
+      "japanese": "姉は短大で保育について学んでいる。",
+      "korean": "언니는 단기대학에서 보육에 대해 배우고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "短波",
+    "reading": "たんぱ",
+    "meaning": "단파(파장이 짧은 전파)",
+    "example": {
+      "japanese": "祖父は短波ラジオで海外の放送を聞いていた。",
+      "korean": "할아버지는 단파 라디오로 해외 방송을 듣곤 했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "ダンプ",
+    "reading": "ダンプ",
+    "meaning": "덤프트럭",
+    "example": {
+      "japanese": "工事現場に土を積んだダンプが入ってきた。",
+      "korean": "공사 현장에 흙을 실은 덤프트럭이 들어왔다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "断面",
+    "reading": "だんめん",
+    "meaning": "단면",
+    "example": {
+      "japanese": "切った木の断面に年輪が見える。",
+      "korean": "자른 나무의 단면에 나이테가 보인다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "畜産",
+    "reading": "ちくさん",
+    "meaning": "축산",
+    "example": {
+      "japanese": "この地域では酪農などの畜産が盛んだ。",
+      "korean": "이 지역에서는 낙농 등의 축산이 활발하다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "縮まる",
+    "reading": "ちぢまる",
+    "meaning": "줄어들다, 좁혀지다",
+    "example": {
+      "japanese": "練習を重ねて、自己記録が一秒縮まった。",
+      "korean": "연습을 거듭해 자신의 기록이 1초 줄었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "着色",
+    "reading": "ちゃくしょく",
+    "meaning": "착색, 색을 입힘",
+    "example": {
+      "japanese": "菓子の着色には植物由来の色素を使った。",
+      "korean": "과자 착색에는 식물 유래 색소를 사용했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "着目",
+    "reading": "ちゃくもく",
+    "meaning": "착목, 주의하여 봄",
+    "example": {
+      "japanese": "研究者は、この素材の軽さに着目した。",
+      "korean": "연구자는 이 소재의 가벼움에 주목했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "塵取り",
+    "reading": "ちりとり",
+    "meaning": "쓰레받기",
+    "example": {
+      "japanese": "床のごみをほうきで集めて塵取りに入れた。",
+      "korean": "바닥의 쓰레기를 빗자루로 모아 쓰레받기에 담았다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "沈殿",
+    "reading": "ちんでん",
+    "meaning": "침전, 액체 속 물질이 가라앉음",
+    "example": {
+      "japanese": "瓶を動かさずに置くと、底に粉が沈殿した。",
+      "korean": "병을 움직이지 않고 두자 바닥에 가루가 침전했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "筒",
+    "reading": "つつ",
+    "meaning": "통, 원통 모양의 물체",
+    "example": {
+      "japanese": "卒業証書を筒に入れて持ち帰った。",
+      "korean": "졸업장을 원통에 넣어 집으로 가져왔다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "突っ張る",
+    "reading": "つっぱる",
+    "meaning": "팽팽히 버티다, 뻣뻣해지다",
+    "example": {
+      "japanese": "運動の後で、ふくらはぎが突っ張っている。",
+      "korean": "운동한 뒤 종아리가 뻣뻣하게 당긴다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "連なる",
+    "reading": "つらなる",
+    "meaning": "이어지다, 줄지어 늘어서다",
+    "example": {
+      "japanese": "窓の向こうには山々が連なっている。",
+      "korean": "창 너머에는 산들이 이어져 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "連ねる",
+    "reading": "つらねる",
+    "meaning": "줄지어 놓다, 나란히 적다",
+    "example": {
+      "japanese": "名簿に参加者の名前を連ねた。",
+      "korean": "명부에 참가자의 이름을 나란히 적었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "釣り鐘",
+    "reading": "つりがね",
+    "meaning": "범종, 절에서 치는 큰 종",
+    "example": {
+      "japanese": "山寺から釣り鐘の音が響いてきた。",
+      "korean": "산사에서 범종 소리가 울려 왔다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "ティシュペーパー",
+    "reading": "ティシュペーパー",
+    "meaning": "티슈, 화장지",
+    "example": {
+      "japanese": "こぼれた水をティシュペーパーで拭いた。",
+      "korean": "엎지른 물을 티슈로 닦았다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "できもの",
+    "reading": "できもの",
+    "meaning": "종기, 피부에 난 부스럼",
+    "example": {
+      "japanese": "腕に小さなできものができた。",
+      "korean": "팔에 작은 종기가 났다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "デコレーション",
+    "reading": "デコレーション",
+    "meaning": "장식, 꾸밈",
+    "example": {
+      "japanese": "ケーキに果物でデコレーションをした。",
+      "korean": "케이크를 과일로 장식했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "手回し",
+    "reading": "てまわし",
+    "meaning": "사전 준비, 미리 손을 써 놓음",
+    "example": {
+      "japanese": "旅行中に困らないよう、手回しをしておいた。",
+      "korean": "여행 중 곤란하지 않도록 미리 준비해 두었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "デモンストレーション",
+    "reading": "デモンストレーション",
+    "meaning": "시범, 시연",
+    "example": {
+      "japanese": "店員が新製品のデモンストレーションを行った。",
+      "korean": "점원이 신제품 시연을 했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "転回",
+    "reading": "てんかい",
+    "meaning": "방향 전환, 회전",
+    "example": {
+      "japanese": "道幅が狭く、ここでは車の転回ができない。",
+      "korean": "도로 폭이 좁아 여기서는 자동차를 돌릴 수 없다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "ロープウエイ",
+    "reading": "ロープウエイ",
+    "meaning": "로프웨이, 공중 케이블카",
+    "example": {
+      "japanese": "ロープウエイに乗って山頂へ向かった。",
+      "korean": "케이블카를 타고 산꼭대기로 향했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "漠然",
+    "reading": "ばくぜん",
+    "meaning": "막연함, 분명하지 않음",
+    "example": {
+      "japanese": "将来について漠然とした不安を感じる。",
+      "korean": "장래에 대해 막연한 불안을 느낀다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "橋渡し",
+    "reading": "はしわたし",
+    "meaning": "가교 역할, 중개",
+    "example": {
+      "japanese": "通訳が二人の話し合いの橋渡しをした。",
+      "korean": "통역사가 두 사람의 대화에 가교 역할을 했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "発芽",
+    "reading": "はつが",
+    "meaning": "발아, 싹이 남",
+    "example": {
+      "japanese": "種をまいて一週間で発芽した。",
+      "korean": "씨를 뿌린 지 일주일 만에 싹이 났다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "質疑",
+    "reading": "しつぎ",
+    "meaning": "질의",
+    "example": {
+      "japanese": "発表が終わると、質疑の時間が設けられた。",
+      "korean": "발표가 끝나자 질의 시간이 마련되었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "実費",
+    "reading": "じっぴ",
+    "meaning": "실비, 실제로 드는 비용",
+    "example": {
+      "japanese": "交通費は実費でお支払いします。",
+      "korean": "교통비는 실비로 지급하겠습니다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "萎びる",
+    "reading": "しなびる",
+    "meaning": "시들다, 쪼그라들다",
+    "example": {
+      "japanese": "冷蔵庫に入れ忘れた野菜が萎びてしまった。",
+      "korean": "냉장고에 넣는 것을 잊은 채소가 시들어 버렸다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "しなやか",
+    "reading": "しなやか",
+    "meaning": "유연하고 부드러움",
+    "example": {
+      "japanese": "猫はしなやかな動きで塀を飛び越えた。",
+      "korean": "고양이는 유연한 동작으로 담을 뛰어넘었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "屎尿",
+    "reading": "しにょう",
+    "meaning": "분뇨",
+    "example": {
+      "japanese": "集めた屎尿は専用の施設で処理される。",
+      "korean": "수거한 분뇨는 전용 시설에서 처리된다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "凌ぐ",
+    "reading": "しのぐ",
+    "meaning": "능가하다, 견뎌 내다",
+    "example": {
+      "japanese": "弟の実力は、すでに兄を凌いでいる。",
+      "korean": "동생의 실력은 이미 형을 능가하고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "染みる",
+    "reading": "しみる",
+    "meaning": "스며들다, 깊이 느껴지다",
+    "example": {
+      "japanese": "冷たい雨が服に染みて、体が冷えた。",
+      "korean": "차가운 비가 옷에 스며들어 몸이 차가워졌다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "洒落る",
+    "reading": "しゃれる",
+    "meaning": "멋을 부리다, 세련되다",
+    "example": {
+      "japanese": "休日には少し洒落た服を着て出かける。",
+      "korean": "휴일에는 조금 멋진 옷을 입고 외출한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "微量",
+    "reading": "びりょう",
+    "meaning": "미량, 아주 적은 양",
+    "example": {
+      "japanese": "この水には微量の鉄分が含まれている。",
+      "korean": "이 물에는 미량의 철분이 들어 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "ふんだん",
+    "reading": "ふんだん",
+    "meaning": "풍부함, 넉넉함",
+    "example": {
+      "japanese": "地元の野菜をふんだんに使った料理を作る。",
+      "korean": "지역 채소를 듬뿍 사용한 요리를 만든다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "並列",
+    "reading": "へいれつ",
+    "meaning": "병렬, 나란히 늘어놓음",
+    "example": {
+      "japanese": "複数の処理を並列に実行する。",
+      "korean": "여러 처리를 병렬로 실행한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "へりくだる",
+    "reading": "へりくだる",
+    "meaning": "겸손하게 자신을 낮추다",
+    "example": {
+      "japanese": "必要以上にへりくだることはありません。",
+      "korean": "필요 이상으로 자신을 낮출 필요는 없습니다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "返還",
+    "reading": "へんかん",
+    "meaning": "반환, 돌려줌",
+    "example": {
+      "japanese": "借りていた資料を所有者に返還した。",
+      "korean": "빌렸던 자료를 소유자에게 돌려주었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "報ずる",
+    "reading": "ほうずる",
+    "meaning": "보도하다, 알리다",
+    "example": {
+      "japanese": "各紙は選挙の結果を大きく報じた。",
+      "korean": "각 신문은 선거 결과를 크게 보도했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "紡績",
+    "reading": "ぼうせき",
+    "meaning": "방적, 섬유에서 실을 뽑는 일",
+    "example": {
+      "japanese": "この町はかつて紡績業で栄えていた。",
+      "korean": "이 도시는 한때 방적업으로 번영했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "ぼつぼつ",
+    "reading": "ぼつぼつ",
+    "meaning": "슬슬, 조금씩",
+    "example": {
+      "japanese": "時間も遅いので、ぼつぼつ帰りましょう。",
+      "korean": "시간도 늦었으니 슬슬 돌아갑시다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "ぼやく",
+    "reading": "ぼやく",
+    "meaning": "투덜거리다, 불평하다",
+    "example": {
+      "japanese": "彼は仕事が多すぎるとぼやいている。",
+      "korean": "그는 일이 너무 많다며 투덜거리고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "マイクロフォン",
+    "reading": "マイクロフォン",
+    "meaning": "마이크",
+    "example": {
+      "japanese": "会場の後ろまで声が届くよう、マイクロフォンを使った。",
+      "korean": "행사장 뒤까지 목소리가 들리도록 마이크를 사용했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "賄う",
+    "reading": "まかなう",
+    "meaning": "마련하다, 비용을 충당하다",
+    "example": {
+      "japanese": "旅行の費用はアルバイト代で賄った。",
+      "korean": "여행 비용은 아르바이트비로 충당했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "纏まり",
+    "reading": "まとまり",
+    "meaning": "정리됨, 일관성 있는 짜임",
+    "example": {
+      "japanese": "この文章は全体に纏まりがある。",
+      "korean": "이 글은 전체적으로 짜임새가 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "真ん丸い",
+    "reading": "まんまるい",
+    "meaning": "동그랗다, 완전히 둥글다",
+    "example": {
+      "japanese": "夜空に真ん丸い月が浮かんでいる。",
+      "korean": "밤하늘에 동그란 달이 떠 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "真ん円い",
+    "reading": "まんまるい",
+    "meaning": "아주 동그랗다",
+    "example": {
+      "japanese": "子供は真ん円い目でこちらを見た。",
+      "korean": "아이는 아주 동그란 눈으로 이쪽을 보았다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "ミセス",
+    "reading": "ミセス",
+    "meaning": "미시즈, 기혼 여성에 대한 경칭",
+    "example": {
+      "japanese": "英語の授業で、既婚女性に使うミセスという敬称を習った。",
+      "korean": "영어 수업에서 기혼 여성에게 쓰는 미시즈라는 경칭을 배웠다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "見せ物",
+    "reading": "みせもの",
+    "meaning": "구경거리, 흥행물",
+    "example": {
+      "japanese": "昔の祭りでは珍しい動物が見せ物になった。",
+      "korean": "옛날 축제에서는 진귀한 동물이 구경거리가 되었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "民俗",
+    "reading": "みんぞく",
+    "meaning": "민속, 민간에 전해 내려오는 풍속",
+    "example": {
+      "japanese": "博物館で地域の民俗について調べた。",
+      "korean": "박물관에서 지역 민속에 대해 조사했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "斑",
+    "reading": "むら",
+    "meaning": "고르지 않음, 들쭉날쭉함",
+    "example": {
+      "japanese": "塗り方に斑があり、色が均一ではない。",
+      "korean": "칠하는 방식이 고르지 않아 색이 균일하지 않다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "名産",
+    "reading": "めいさん",
+    "meaning": "명산물, 유명한 특산품",
+    "example": {
+      "japanese": "旅先で、その土地の名産を土産に買った。",
+      "korean": "여행지에서 그 지역의 명산물을 선물로 샀다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "遊牧",
+    "reading": "ゆうぼく",
+    "meaning": "유목",
+    "example": {
+      "japanese": "草原では、今も家畜を連れて遊牧する人々が暮らしている。",
+      "korean": "초원에는 지금도 가축을 이끌고 유목하는 사람들이 살고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "揺らぐ",
+    "reading": "ゆらぐ",
+    "meaning": "흔들리다, 불안정해지다",
+    "example": {
+      "japanese": "ろうそくの炎が風に揺らいだ。",
+      "korean": "촛불이 바람에 흔들렸다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "緩める",
+    "reading": "ゆるめる",
+    "meaning": "느슨하게 하다, 완화하다",
+    "example": {
+      "japanese": "食事の後で、ベルトを少し緩めた。",
+      "korean": "식사한 뒤 벨트를 조금 느슨하게 했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "横綱",
+    "reading": "よこづな",
+    "meaning": "요코즈나, 스모의 최고 등급 선수",
+    "example": {
+      "japanese": "横綱が土俵に上がると、大きな拍手が起こった。",
+      "korean": "요코즈나가 스모판에 오르자 큰 박수가 터졌다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "領海",
+    "reading": "りょうかい",
+    "meaning": "영해",
+    "example": {
+      "japanese": "外国の船が領海の外を航行している。",
+      "korean": "외국 선박이 영해 밖을 항해하고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "領地",
+    "reading": "りょうち",
+    "meaning": "영지, 지배하는 땅",
+    "example": {
+      "japanese": "城主は領地の農民から税を集めた。",
+      "korean": "성주는 영지의 농민에게서 세금을 거두었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "林業",
+    "reading": "りんぎょう",
+    "meaning": "임업",
+    "example": {
+      "japanese": "祖父は山村で長く林業に携わってきた。",
+      "korean": "할아버지는 산촌에서 오랫동안 임업에 종사해 왔다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "類推",
+    "reading": "るいすい",
+    "meaning": "유추",
+    "example": {
+      "japanese": "過去の事例から、今回の結果を類推する。",
+      "korean": "과거 사례에서 이번 결과를 유추한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "ルーズ",
+    "reading": "ルーズ",
+    "meaning": "느슨함, 시간이나 규칙에 엄격하지 않음",
+    "example": {
+      "japanese": "彼は時間にルーズで、よく待ち合わせに遅れる。",
+      "korean": "그는 시간관념이 느슨해 약속에 자주 늦는다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "発病",
+    "reading": "はつびょう",
+    "meaning": "발병",
+    "example": {
+      "japanese": "症状が現れてから、いつ発病したのかを医師に伝えた。",
+      "korean": "증상이 나타난 뒤 언제 발병했는지를 의사에게 알렸다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "華々しい",
+    "reading": "はなばなしい",
+    "meaning": "화려하다, 눈부시다",
+    "example": {
+      "japanese": "若い選手が国際大会で華々しい活躍を見せた。",
+      "korean": "젊은 선수가 국제 대회에서 눈부신 활약을 보였다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "原っぱ",
+    "reading": "はらっぱ",
+    "meaning": "빈터, 풀밭",
+    "example": {
+      "japanese": "子供たちは近くの原っぱでボール遊びをしている。",
+      "korean": "아이들은 근처 빈터에서 공놀이를 하고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "ひいては",
+    "reading": "ひいては",
+    "meaning": "더 나아가, 나아가서는",
+    "example": {
+      "japanese": "節電は家計の節約になり、ひいては環境の保護にもつながる。",
+      "korean": "절전은 가계의 절약이 되고 나아가 환경 보호로도 이어진다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "ビールス",
+    "reading": "ビールス",
+    "meaning": "바이러스(ウイルス의 옛 표기)",
+    "example": {
+      "japanese": "この病気はビールスによって起こると考えられていた。",
+      "korean": "이 병은 바이러스로 인해 발생한다고 여겨졌다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "比重",
+    "reading": "ひじゅう",
+    "meaning": "비중(물질의 상대적 밀도)",
+    "example": {
+      "japanese": "鉄は木より比重が大きい。",
+      "korean": "철은 나무보다 비중이 크다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N5",
+    "expression": "青",
+    "reading": "あお",
+    "meaning": "파랑, 파란색",
+    "example": {
+      "japanese": "この絵には、青を少し足した方がよい。",
+      "korean": "이 그림에는 파란색을 조금 더하는 편이 좋다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N5",
+    "expression": "後",
+    "reading": "あと",
+    "meaning": "뒤; 나중; 남은 것",
+    "example": {
+      "japanese": "食事の後で、少し散歩をした。",
+      "korean": "식사 후에 잠깐 산책했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N5",
+    "expression": "余り",
+    "reading": "あまり",
+    "meaning": "남은 것·나머지; (부정문에서) 그다지",
+    "example": {
+      "japanese": "食事の余りは、冷蔵庫に入れた。",
+      "korean": "음식의 남은 것은 냉장고에 넣었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N5",
+    "expression": "伯父; 叔父さん",
+    "reading": "おじさん",
+    "meaning": "삼촌·아저씨; 伯父는 부모의 형, 叔父는 부모의 남동생",
+    "example": {
+      "japanese": "叔父さんが、旅行のお土産をくれた。",
+      "korean": "삼촌이 여행 선물을 주셨다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N5",
+    "expression": "押す",
+    "reading": "おす",
+    "meaning": "밀다; 누르다; 도장을 찍다",
+    "example": {
+      "japanese": "このボタンを押すと、ドアが開きます。",
+      "korean": "이 버튼을 누르면 문이 열립니다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N5",
+    "expression": "〜階",
+    "reading": "〜かい",
+    "meaning": "건물의 층수를 세는 ~층",
+    "example": {
+      "japanese": "図書室は、この建物の二階にある。",
+      "korean": "도서실은 이 건물 2층에 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N5",
+    "expression": "方",
+    "reading": "かた",
+    "meaning": "분(人의 높임말); ~하는 방법",
+    "example": {
+      "japanese": "あちらの方は、新しい先生です。",
+      "korean": "저쪽 분은 새로 오신 선생님입니다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N5",
+    "expression": "〜月",
+    "reading": "〜がつ",
+    "meaning": "달 이름을 나타내는 ~월",
+    "example": {
+      "japanese": "四月に、新しい学校へ入学する。",
+      "korean": "4월에 새 학교에 입학한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N5",
+    "expression": "先",
+    "reading": "さき",
+    "meaning": "앞; 먼저; 앞으로의 일",
+    "example": {
+      "japanese": "先のことは、まだ分からない。",
+      "korean": "앞으로의 일은 아직 모른다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N5",
+    "expression": "字引",
+    "reading": "じびき",
+    "meaning": "사전(辞書의 옛 표현)",
+    "example": {
+      "japanese": "知らない漢字を、字引で調べた。",
+      "korean": "모르는 한자를 사전에서 찾아보았다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N5",
+    "expression": "〜人",
+    "reading": "〜じん",
+    "meaning": "국적·출신 등을 나타내는 ~인, ~사람",
+    "example": {
+      "japanese": "彼女は韓国人で、日本語も話せる。",
+      "korean": "그녀는 한국인이고 일본어도 할 줄 안다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N5",
+    "expression": "背",
+    "reading": "せい",
+    "meaning": "키, 신장",
+    "example": {
+      "japanese": "弟は去年より背が伸びた。",
+      "korean": "남동생은 작년보다 키가 컸다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N5",
+    "expression": "ない",
+    "reading": "ない",
+    "meaning": "없다; 가지고 있지 않다",
+    "example": {
+      "japanese": "今日は宿題がないので、早く寝られる。",
+      "korean": "오늘은 숙제가 없어서 일찍 잘 수 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N5",
+    "expression": "二十日",
+    "reading": "はつか",
+    "meaning": "20일; 스무 날",
+    "example": {
+      "japanese": "今月の二十日に、友人と会う約束をした。",
+      "korean": "이번 달 20일에 친구와 만나기로 약속했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N5",
+    "expression": "辺",
+    "reading": "へん",
+    "meaning": "부근, 근처",
+    "example": {
+      "japanese": "この辺に、郵便局はありますか。",
+      "korean": "이 근처에 우체국이 있나요?",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N5",
+    "expression": "本当",
+    "reading": "ほんとう",
+    "meaning": "사실, 진짜; 정말임",
+    "example": {
+      "japanese": "彼の話が本当かどうか、確認したい。",
+      "korean": "그의 이야기가 사실인지 확인하고 싶다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N5",
+    "expression": "ゆっくりと",
+    "reading": "ゆっくりと",
+    "meaning": "천천히; 느긋하게",
+    "example": {
+      "japanese": "時間があるので、ゆっくりと朝食を食べた。",
+      "korean": "시간이 있어서 느긋하게 아침을 먹었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N5",
+    "expression": "私",
+    "reading": "わたくし",
+    "meaning": "저(격식을 갖춘 일인칭)",
+    "example": {
+      "japanese": "私が、この件を担当しております。",
+      "korean": "제가 이 건을 담당하고 있습니다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N4",
+    "expression": "表",
+    "reading": "おもて",
+    "meaning": "겉면; 앞면; 바깥",
+    "example": {
+      "japanese": "封筒の表に、相手の住所を書いた。",
+      "korean": "봉투 앞면에 상대방의 주소를 적었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N4",
+    "expression": "建て",
+    "reading": "〜だて",
+    "meaning": "건물이 ~층짜리임을 나타내는 말",
+    "example": {
+      "japanese": "駅の近くに、三階建ての家を買った。",
+      "korean": "역 근처에 3층짜리 집을 샀다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N4",
+    "expression": "寄る",
+    "reading": "よる",
+    "meaning": "들르다; 가까이 가다",
+    "example": {
+      "japanese": "帰りにスーパーに寄って、牛乳を買った。",
+      "korean": "돌아오는 길에 슈퍼에 들러 우유를 샀다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N4",
+    "expression": "びっくりする",
+    "reading": "びっくりする",
+    "meaning": "깜짝 놀라다",
+    "example": {
+      "japanese": "突然名前を呼ばれて、びっくりした。",
+      "korean": "갑자기 이름을 불려서 깜짝 놀랐다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N4",
+    "expression": "〜(に) よると",
+    "reading": "〜(に) よると",
+    "meaning": "~에 따르면",
+    "example": {
+      "japanese": "天気予報によると、明日は雨らしい。",
+      "korean": "일기 예보에 따르면 내일은 비가 온다고 한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N4",
+    "expression": "〜おき",
+    "reading": "〜おき",
+    "meaning": "시간·간격을 나타내는 ~마다, ~간격으로",
+    "example": {
+      "japanese": "この路線の電車は、十分おきに来る。",
+      "korean": "이 노선의 전철은 10분 간격으로 온다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N4",
+    "expression": "御〜",
+    "reading": "ご〜",
+    "meaning": "말 앞에 붙여 공손함을 나타내는 접두사 ご",
+    "example": {
+      "japanese": "御家族は、お元気でいらっしゃいますか。",
+      "korean": "가족분들은 건강히 지내고 계신가요?",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N4",
+    "expression": "直る",
+    "reading": "なおる",
+    "meaning": "고장·잘못 등이 고쳐지다",
+    "example": {
+      "japanese": "修理に出した時計が、ようやく直った。",
+      "korean": "수리를 맡긴 시계가 드디어 고쳐졌다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N4",
+    "expression": "〜(に) ついて",
+    "reading": "〜(に) ついて",
+    "meaning": "~에 관해서, ~에 대해서",
+    "example": {
+      "japanese": "日本の文化について、発表する予定だ。",
+      "korean": "일본 문화에 관해 발표할 예정이다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N4",
+    "expression": "真中",
+    "reading": "まんなか",
+    "meaning": "한가운데, 중앙",
+    "example": {
+      "japanese": "部屋の真中に、大きな机を置いた。",
+      "korean": "방 한가운데에 큰 책상을 놓았다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N4",
+    "expression": "〜町",
+    "reading": "〜ちょう",
+    "meaning": "일본 지명에 붙는 ~정(町)",
+    "example": {
+      "japanese": "神保町の古本屋で、欲しかった本を見つけた。",
+      "korean": "진보초의 헌책방에서 찾던 책을 발견했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "次第",
+    "reading": "しだい",
+    "meaning": "순서; 사정; ~하는 대로 곧; ~에 달림",
+    "example": {
+      "japanese": "準備ができ次第、出発します。",
+      "korean": "준비가 되는 대로 출발하겠습니다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "示す",
+    "reading": "しめす",
+    "meaning": "보이다, 나타내다; 가리키다",
+    "example": {
+      "japanese": "先生は、具体的な例を示して説明した。",
+      "korean": "선생님은 구체적인 예를 보여 주며 설명했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "下",
+    "reading": "しも",
+    "meaning": "아래쪽; 하류; 와카의 뒷부분",
+    "example": {
+      "japanese": "先生が短歌の下の句を読み上げた。",
+      "korean": "선생님이 단카의 뒷부분을 소리 내어 읽었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "上",
+    "reading": "じょう",
+    "meaning": "상(상권·높은 등급 등)",
+    "example": {
+      "japanese": "この小説は、上・下の二巻に分かれている。",
+      "korean": "이 소설은 상·하 두 권으로 나뉘어 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "少女",
+    "reading": "しょうじょ",
+    "meaning": "소녀, 어린 여자아이",
+    "example": {
+      "japanese": "少女は、花束を大切そうに抱えていた。",
+      "korean": "소녀는 꽃다발을 소중하게 품고 있었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "数",
+    "reading": "すう",
+    "meaning": "수학의 수; 몇~",
+    "example": {
+      "japanese": "正の数と負の数を足す練習をした。",
+      "korean": "양수와 음수를 더하는 연습을 했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "スタイル",
+    "reading": "スタイル",
+    "meaning": "양식·방식; 옷차림; 체형",
+    "example": {
+      "japanese": "白いシャツにジーンズというスタイルで出かけた。",
+      "korean": "흰 셔츠에 청바지를 입은 차림으로 외출했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "為る",
+    "reading": "する",
+    "meaning": "하다",
+    "example": {
+      "japanese": "週末は、家で掃除をする。",
+      "korean": "주말에는 집에서 청소한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "正",
+    "reading": "せい",
+    "meaning": "양(수학의 양수); 올바름·정규임",
+    "example": {
+      "japanese": "この式では、正の数だけを使う。",
+      "korean": "이 식에서는 양수만 사용한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "アウト",
+    "reading": "アウト",
+    "meaning": "아웃(스포츠의 판정 등)",
+    "example": {
+      "japanese": "走者が三塁で、アウトになった。",
+      "korean": "주자가 3루에서 아웃되었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "あるいは",
+    "reading": "あるいは",
+    "meaning": "또는; 어쩌면",
+    "example": {
+      "japanese": "電車、あるいはバスで行くことができる。",
+      "korean": "전철 또는 버스로 갈 수 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "行き",
+    "reading": "いき",
+    "meaning": "가는 길; ~행",
+    "example": {
+      "japanese": "行きはバスで、帰りは電車を使った。",
+      "korean": "갈 때는 버스를, 돌아올 때는 전철을 이용했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "行き",
+    "reading": "ゆき",
+    "meaning": "~행(목적지로 향함)",
+    "example": {
+      "japanese": "この列車は、大阪行きです。",
+      "korean": "이 열차는 오사카행입니다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "いけない",
+    "reading": "いけない",
+    "meaning": "안 된다; 나쁘다; ~해서는 안 된다",
+    "example": {
+      "japanese": "ここに自転車を止めてはいけない。",
+      "korean": "여기에 자전거를 세워서는 안 된다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "いただきます",
+    "reading": "いただきます",
+    "meaning": "잘 먹겠습니다(식사 전 인사)",
+    "example": {
+      "japanese": "手を合わせて、「いただきます」と言った。",
+      "korean": "두 손을 모으고 “잘 먹겠습니다”라고 말했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "上",
+    "reading": "うわ",
+    "meaning": "위쪽·겉면을 나타내는 말",
+    "example": {
+      "japanese": "上着を脱いで、いすの背に掛けた。",
+      "korean": "겉옷을 벗어 의자 등받이에 걸었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "奥",
+    "reading": "おく",
+    "meaning": "안쪽, 깊숙한 곳",
+    "example": {
+      "japanese": "店の奥に、静かな席がある。",
+      "korean": "가게 안쪽에 조용한 자리가 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "帯",
+    "reading": "おび",
+    "meaning": "띠; 기모노·유카타의 허리띠",
+    "example": {
+      "japanese": "浴衣の帯を、母に結んでもらった。",
+      "korean": "어머니가 유카타 허리띠를 매어 주셨다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "音",
+    "reading": "おん",
+    "meaning": "음, 소리(음악·한자어에서 쓰임)",
+    "example": {
+      "japanese": "ピアノで、一音ずつゆっくり弾いてください。",
+      "korean": "피아노로 한 음씩 천천히 쳐 주세요.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "上",
+    "reading": "かみ",
+    "meaning": "위쪽·상류; 와카의 앞부분",
+    "example": {
+      "japanese": "上の句を聞いて、かるたの札を取った。",
+      "korean": "와카의 앞부분을 듣고 가루타 패를 집었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "決まり",
+    "reading": "きまり",
+    "meaning": "규칙; 결정된 일",
+    "example": {
+      "japanese": "この寮では、消灯時間を守る決まりがある。",
+      "korean": "이 기숙사에는 소등 시간을 지켜야 한다는 규칙이 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "球",
+    "reading": "きゅう",
+    "meaning": "구(둥근 입체); 공",
+    "example": {
+      "japanese": "球の表面積を求める公式を習った。",
+      "korean": "구의 겉넓이를 구하는 공식을 배웠다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "局",
+    "reading": "きょく",
+    "meaning": "국(기관); 방송국",
+    "example": {
+      "japanese": "この局では、毎朝ニュースを放送している。",
+      "korean": "이 방송국에서는 매일 아침 뉴스를 방송한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "切れ",
+    "reading": "きれ",
+    "meaning": "조각, 토막; 천 조각",
+    "example": {
+      "japanese": "パンを一切れ、皿にのせた。",
+      "korean": "빵 한 조각을 접시에 올렸다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "金",
+    "reading": "きん",
+    "meaning": "금(금속)",
+    "example": {
+      "japanese": "この指輪は、金でできている。",
+      "korean": "이 반지는 금으로 만들어졌다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "管",
+    "reading": "くだ",
+    "meaning": "관, 대롱",
+    "example": {
+      "japanese": "この管を通って、水が流れてくる。",
+      "korean": "이 관을 통해 물이 흘러온다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "下り",
+    "reading": "くだり",
+    "meaning": "하행; 중심지에서 지방으로 가는 열차",
+    "example": {
+      "japanese": "午後の下りに乗って、故郷へ帰った。",
+      "korean": "오후 하행 열차를 타고 고향으로 돌아갔다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "組む",
+    "reading": "くむ",
+    "meaning": "짜다, 조립하다; 한 조가 되다",
+    "example": {
+      "japanese": "友人と組んで、発表の準備を進めた。",
+      "korean": "친구와 한 조가 되어 발표 준비를 진행했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "暮れ",
+    "reading": "くれ",
+    "meaning": "해 질 무렵; 연말",
+    "example": {
+      "japanese": "暮れには、家族で大掃除をする。",
+      "korean": "연말에는 가족과 함께 대청소를 한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "下",
+    "reading": "げ",
+    "meaning": "하(상·중·하 중 가장 낮은 등급)",
+    "example": {
+      "japanese": "出来栄えを、上・中・下の三段階で評価する。",
+      "korean": "완성도를 상·중·하의 세 단계로 평가한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "計",
+    "reading": "けい",
+    "meaning": "합계, 총계",
+    "example": {
+      "japanese": "大人二人と子供三人で、計五人です。",
+      "korean": "어른 두 명과 아이 세 명으로 모두 다섯 명입니다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "極",
+    "reading": "ごく",
+    "meaning": "극히, 아주",
+    "example": {
+      "japanese": "こんなことが起こるのは、極まれだ。",
+      "korean": "이런 일이 일어나는 것은 극히 드물다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "指す",
+    "reading": "さす",
+    "meaning": "가리키다; 지목하다",
+    "example": {
+      "japanese": "先生は、地図の赤い点を指した。",
+      "korean": "선생님은 지도의 빨간 점을 가리켰다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "注す",
+    "reading": "さす",
+    "meaning": "술 등을 따르다; 소량을 붓다",
+    "example": {
+      "japanese": "客の杯に、酒を注した。",
+      "korean": "손님의 잔에 술을 따랐다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "身",
+    "reading": "み",
+    "meaning": "몸; 생선 등의 살; 알맹이",
+    "example": {
+      "japanese": "魚の身を骨から外して、皿に盛った。",
+      "korean": "생선 살을 뼈에서 발라내어 접시에 담았다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "都",
+    "reading": "みやこ",
+    "meaning": "도읍, 수도",
+    "example": {
+      "japanese": "昔の都には、古い建物が多く残っている。",
+      "korean": "옛 도읍에는 오래된 건물이 많이 남아 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "迎え",
+    "reading": "むかえ",
+    "meaning": "마중, 데리러 옴",
+    "example": {
+      "japanese": "駅の改札で、父の迎えを待った。",
+      "korean": "역 개찰구에서 아버지가 데리러 오시기를 기다렸다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "向く",
+    "reading": "むく",
+    "meaning": "향하다, ~쪽을 보다; 적합하다",
+    "example": {
+      "japanese": "この部屋の窓は、南を向いている。",
+      "korean": "이 방의 창문은 남쪽을 향하고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "飯",
+    "reading": "めし",
+    "meaning": "밥, 식사(격의 없는 말)",
+    "example": {
+      "japanese": "仕事の後で、一緒に飯を食おう。",
+      "korean": "일이 끝나면 함께 밥 먹자.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "曜日",
+    "reading": "ようび",
+    "meaning": "요일",
+    "example": {
+      "japanese": "都合のよい曜日を教えてください。",
+      "korean": "편한 요일을 알려 주세요.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "より",
+    "reading": "より",
+    "meaning": "실 등을 꼬아 놓은 것; 꼬임",
+    "example": {
+      "japanese": "糸のよりが強すぎて、編みにくい。",
+      "korean": "실의 꼬임이 너무 강해서 뜨기 어렵다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "楽",
+    "reading": "らく",
+    "meaning": "편함, 수월함",
+    "example": {
+      "japanese": "荷物を預けたら、歩くのが楽になった。",
+      "korean": "짐을 맡기니 걷기가 편해졌다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "割る",
+    "reading": "わる",
+    "meaning": "깨뜨리다; 나누다",
+    "example": {
+      "japanese": "弟が誤って、コップを割ってしまった。",
+      "korean": "남동생이 실수로 컵을 깨뜨리고 말았다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "異",
+    "reading": "い",
+    "meaning": "다름; 이견; 이상함",
+    "example": {
+      "japanese": "その提案に、異を唱える人はいなかった。",
+      "korean": "그 제안에 이의를 제기하는 사람은 없었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "切り",
+    "reading": "きり",
+    "meaning": "끝, 한계; 끊는 지점",
+    "example": {
+      "japanese": "この作業は、どこまでやっても切りがない。",
+      "korean": "이 작업은 아무리 해도 끝이 없다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "田",
+    "reading": "た",
+    "meaning": "논",
+    "example": {
+      "japanese": "田に水を引いて、田植えの準備をした。",
+      "korean": "논에 물을 끌어와 모내기를 준비했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "対する",
+    "reading": "たいする",
+    "meaning": "~에 대하다; 맞서다",
+    "example": {
+      "japanese": "住民に対する説明が、まだ足りない。",
+      "korean": "주민에 대한 설명이 아직 부족하다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "抱く",
+    "reading": "だく",
+    "meaning": "안다, 껴안다",
+    "example": {
+      "japanese": "父は眠った子供を抱いて、車まで運んだ。",
+      "korean": "아버지는 잠든 아이를 안고 차까지 데려갔다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "唯",
+    "reading": "たった",
+    "meaning": "겨우, 단지, 불과",
+    "example": {
+      "japanese": "財布には、たった百円しか残っていなかった。",
+      "korean": "지갑에는 겨우 100엔밖에 남아 있지 않았다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "だって",
+    "reading": "だって",
+    "meaning": "하지만; 왜냐하면; ~도",
+    "example": {
+      "japanese": "だって、今日は約束があるんだもの。",
+      "korean": "왜냐하면 오늘은 약속이 있는걸.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "玉",
+    "reading": "たま",
+    "meaning": "구슬; 공; 둥근 물건",
+    "example": {
+      "japanese": "赤い玉をひもに通して、首飾りを作った。",
+      "korean": "빨간 구슬을 끈에 꿰어 목걸이를 만들었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "球",
+    "reading": "たま",
+    "meaning": "공(스포츠 등에서 쓰는 둥근 물건)",
+    "example": {
+      "japanese": "打者は、速い球を打ち返した。",
+      "korean": "타자는 빠른 공을 받아쳤다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "地",
+    "reading": "ち",
+    "meaning": "땅, 토지; 장소·지역",
+    "example": {
+      "japanese": "この地で、新しい生活を始めた。",
+      "korean": "이 땅에서 새로운 생활을 시작했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "中",
+    "reading": "ちゅう",
+    "meaning": "중간 등급; ~중(진행·범위)",
+    "example": {
+      "japanese": "上・中・下の三段階なら、中を選ぶ。",
+      "korean": "상·중·하의 세 단계라면 중을 고른다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "疲れ",
+    "reading": "つかれ",
+    "meaning": "피로, 지침",
+    "example": {
+      "japanese": "温かい風呂に入って、一日の疲れを取った。",
+      "korean": "따뜻한 물에 목욕하며 하루의 피로를 풀었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "辛い",
+    "reading": "つらい",
+    "meaning": "괴롭다, 힘들다; 마음이 아프다",
+    "example": {
+      "japanese": "家族と長く離れて暮らすのは、辛い。",
+      "korean": "가족과 오랫동안 떨어져 사는 것은 괴롭다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "出",
+    "reading": "で",
+    "meaning": "나옴; 나오는 상태; 출신",
+    "example": {
+      "japanese": "このペンは、インクの出が悪い。",
+      "korean": "이 펜은 잉크가 잘 나오지 않는다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "同時",
+    "reading": "どうじ",
+    "meaning": "동시, 같은 때",
+    "example": {
+      "japanese": "二人は同時に、同じ答えを言った。",
+      "korean": "두 사람은 동시에 같은 답을 말했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "どうぞよろしく",
+    "reading": "どうぞよろしく",
+    "meaning": "잘 부탁합니다(첫인사 등)",
+    "example": {
+      "japanese": "新しく入社した田中です、どうぞよろしくお願いします。",
+      "korean": "새로 입사한 다나카입니다. 잘 부탁드립니다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "無し",
+    "reading": "なし",
+    "meaning": "없음; ~없이",
+    "example": {
+      "japanese": "今回は休憩無しで、最後まで続けた。",
+      "korean": "이번에는 쉬지 않고 끝까지 계속했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "はあ (かん)",
+    "reading": "はあ (かん)",
+    "meaning": "하아(한숨이나 대답의 소리)",
+    "example": {
+      "japanese": "彼は「はあ」と、ため息をついた。",
+      "korean": "그는 “하아” 하고 한숨을 쉬었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "パス",
+    "reading": "パス",
+    "meaning": "패스(공을 넘김); 통과",
+    "example": {
+      "japanese": "味方からのパスを受けて、シュートを打った。",
+      "korean": "같은 팀 선수의 패스를 받아 슛을 했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "不",
+    "reading": "ぶ",
+    "meaning": "일부 단어 앞에서 부정·불량을 나타내는 접두사",
+    "example": {
+      "japanese": "細かい作業が苦手で、私は不器用だ。",
+      "korean": "세밀한 작업에 약해서 나는 손재주가 없다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "無",
+    "reading": "ぶ",
+    "meaning": "일부 단어 앞에서 없음·부정을 나타내는 접두사",
+    "example": {
+      "japanese": "無作法な態度で、客を怒らせてしまった。",
+      "korean": "예의 없는 태도로 손님을 화나게 하고 말았다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "プロ",
+    "reading": "プロ",
+    "meaning": "전문가, 프로",
+    "example": {
+      "japanese": "彼は、写真で生計を立てるプロだ。",
+      "korean": "그는 사진으로 생계를 꾸리는 전문가다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "磁器",
+    "reading": "じき",
+    "meaning": "자기(흰 바탕의 도자기)",
+    "example": {
+      "japanese": "この白い皿は、薄くて丈夫な磁器だ。",
+      "korean": "이 흰 접시는 얇고 튼튼한 자기다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "住",
+    "reading": "じゅう",
+    "meaning": "주거, 사는 일",
+    "example": {
+      "japanese": "衣食住の中でも、住にはお金がかかる。",
+      "korean": "의식주 중에서도 주거에는 돈이 많이 든다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "情",
+    "reading": "じょう",
+    "meaning": "정, 인정; 감정",
+    "example": {
+      "japanese": "彼女は情に厚く、困った人を放っておけない。",
+      "korean": "그녀는 인정이 많아 곤란한 사람을 그냥 두지 못한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "先行",
+    "reading": "せんこう",
+    "meaning": "선행함, 앞서 감",
+    "example": {
+      "japanese": "新製品を、一部の店で先行販売する。",
+      "korean": "신제품을 일부 매장에서 먼저 판매한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "相",
+    "reading": "そう",
+    "meaning": "모양, 모습; 양상",
+    "example": {
+      "japanese": "同じ町でも、昼と夜では相を異にする。",
+      "korean": "같은 마을이라도 낮과 밤은 모습이 다르다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "添う",
+    "reading": "そう",
+    "meaning": "곁에 붙다; 뜻·기대에 부응하다",
+    "example": {
+      "japanese": "皆様のご期待に添うよう、努力します。",
+      "korean": "여러분의 기대에 부응하도록 노력하겠습니다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "対",
+    "reading": "つい",
+    "meaning": "짝, 한 쌍",
+    "example": {
+      "japanese": "この花瓶は、二つで一対になっている。",
+      "korean": "이 꽃병은 두 개가 한 쌍을 이루고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "棟",
+    "reading": "とう",
+    "meaning": "건물을 세는 단위 동(棟)",
+    "example": {
+      "japanese": "新しい寮が二棟、完成した。",
+      "korean": "새 기숙사가 두 동 완공되었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "難",
+    "reading": "なん",
+    "meaning": "어려움; 결점; 재난",
+    "example": {
+      "japanese": "この案には、費用の面で難がある。",
+      "korean": "이 안에는 비용 면에서 문제가 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "音",
+    "reading": "ね",
+    "meaning": "소리, 음색(종·벌레 등의 소리)",
+    "example": {
+      "japanese": "庭から、秋の虫の音が聞こえてくる。",
+      "korean": "정원에서 가을 벌레 소리가 들려온다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "〜敗",
+    "reading": "はい",
+    "meaning": "패배 횟수를 세는 ~패",
+    "example": {
+      "japanese": "今季の成績は、五勝二敗だ。",
+      "korean": "이번 시즌 성적은 5승 2패다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "映える",
+    "reading": "はえる",
+    "meaning": "돋보이다, 잘 어울려 아름답게 보이다",
+    "example": {
+      "japanese": "黒い服に、銀色のアクセサリーが映える。",
+      "korean": "검은 옷에 은색 장신구가 돋보인다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "判",
+    "reading": "はん",
+    "meaning": "판형(종이·책·사진 등의 크기)",
+    "example": {
+      "japanese": "大きな判の地図を、机に広げた。",
+      "korean": "큰 판형의 지도를 책상에 펼쳤다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "振り",
+    "reading": "ふり",
+    "meaning": "행동·몸짓; ~하는 척; 모양",
+    "example": {
+      "japanese": "彼は寝た振りをして、返事をしなかった。",
+      "korean": "그는 자는 척하며 대답하지 않았다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "優",
+    "reading": "ゆう",
+    "meaning": "우수함; 성적 등급의 우(優)",
+    "example": {
+      "japanese": "成績表には、優が三つ付いていた。",
+      "korean": "성적표에는 ‘우’ 등급이 세 개 적혀 있었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "有機",
+    "reading": "ゆうき",
+    "meaning": "유기(화학·생물·농업 등에서 쓰는 말)",
+    "example": {
+      "japanese": "この畑では、有機肥料だけを使っている。",
+      "korean": "이 밭에서는 유기 비료만 사용하고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜日",
+    "reading": "〜か",
+    "meaning": "날짜·날수를 나타내는 ~일",
+    "example": {
+      "japanese": "出張は四日で終わる予定だ。",
+      "korean": "출장은 나흘 만에 끝날 예정이다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜下",
+    "reading": "〜か",
+    "meaning": "어떤 조건·지배·관리의 아래임을 나타내는 ~하",
+    "example": {
+      "japanese": "厳しい管理下で、実験を行った。",
+      "korean": "엄격한 관리하에 실험을 진행했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜科",
+    "reading": "〜か",
+    "meaning": "학과·진료과·생물 분류의 과",
+    "example": {
+      "japanese": "大学では、経済学科に所属している。",
+      "korean": "대학에서는 경제학과에 소속되어 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜歌",
+    "reading": "〜か",
+    "meaning": "노래를 나타내는 ~가",
+    "example": {
+      "japanese": "式典の最後に、全員で校歌を歌った。",
+      "korean": "의식이 끝날 때 모두 함께 교가를 불렀다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜刊",
+    "reading": "〜かん",
+    "meaning": "발행 간격·발행을 나타내는 ~간",
+    "example": {
+      "japanese": "この雑誌は月刊なので、毎月一冊届く。",
+      "korean": "이 잡지는 월간이라서 매달 한 권씩 온다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜器",
+    "reading": "〜き",
+    "meaning": "기구·장치를 나타내는 ~기",
+    "example": {
+      "japanese": "加湿器を使って、部屋の乾燥を防ぐ。",
+      "korean": "가습기를 사용해서 방이 건조해지는 것을 막는다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜教",
+    "reading": "〜きょう",
+    "meaning": "종교를 나타내는 ~교",
+    "example": {
+      "japanese": "彼女は大学で、仏教の歴史を学んでいる。",
+      "korean": "그녀는 대학에서 불교의 역사를 배우고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜切れ",
+    "reading": "〜きれ",
+    "meaning": "재료·기한 등이 떨어짐·끝남을 나타내는 말",
+    "example": {
+      "japanese": "電池切れで、時計が止まってしまった。",
+      "korean": "전지가 다 닳아서 시계가 멈추고 말았다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜口",
+    "reading": "〜くち",
+    "meaning": "출입구·통로 등을 나타내는 ~구(口)",
+    "example": {
+      "japanese": "非常口の前に、荷物を置かないでください。",
+      "korean": "비상구 앞에 짐을 놓지 마세요.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜号",
+    "reading": "〜ごう",
+    "meaning": "잡지의 호수·열차·선박 등의 이름에 붙는 ~호",
+    "example": {
+      "japanese": "この雑誌の最新号を買った。",
+      "korean": "이 잡지의 최신호를 샀다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜国",
+    "reading": "〜こく",
+    "meaning": "나라를 나타내는 ~국",
+    "example": {
+      "japanese": "両国の代表が、会議で意見を交わした。",
+      "korean": "양국 대표가 회의에서 의견을 나누었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜毎",
+    "reading": "〜ごと",
+    "meaning": "~마다, ~별로",
+    "example": {
+      "japanese": "一ページ毎に、内容を確認しながら読んだ。",
+      "korean": "한 페이지마다 내용을 확인하며 읽었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜産",
+    "reading": "〜さん",
+    "meaning": "생산지·원산지를 나타내는 ~산",
+    "example": {
+      "japanese": "このりんごは、青森県産です。",
+      "korean": "이 사과는 아오모리현산입니다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜寺",
+    "reading": "〜じ",
+    "meaning": "절 이름에 붙는 ~사(寺)",
+    "example": {
+      "japanese": "週末に、浅草寺へお参りに行った。",
+      "korean": "주말에 센소지에 참배하러 갔다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜日",
+    "reading": "〜じつ",
+    "meaning": "날을 나타내는 ~일",
+    "example": {
+      "japanese": "休日は、家でゆっくり過ごす。",
+      "korean": "휴일에는 집에서 느긋하게 지낸다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜車",
+    "reading": "〜しゃ",
+    "meaning": "차량을 나타내는 ~차",
+    "example": {
+      "japanese": "雨の日は、電車で通勤している。",
+      "korean": "비 오는 날에는 전철로 출근한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜手",
+    "reading": "〜しゅ",
+    "meaning": "운동선수·특정 일을 하는 사람을 나타내는 ~수",
+    "example": {
+      "japanese": "彼は、将来プロの選手になりたいそうだ。",
+      "korean": "그는 장래에 프로 선수가 되고 싶다고 한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜酒",
+    "reading": "〜しゅ",
+    "meaning": "술의 종류를 나타내는 ~주",
+    "example": {
+      "japanese": "料理に、少し日本酒を加えた。",
+      "korean": "요리에 일본주를 조금 넣었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜所",
+    "reading": "〜しょ",
+    "meaning": "장소·시설을 나타내는 ~소",
+    "example": {
+      "japanese": "区役所で、住所変更の手続きをした。",
+      "korean": "구청에서 주소 변경 절차를 밟았다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜所",
+    "reading": "〜じょ",
+    "meaning": "장소·시설을 나타내는 ~소(합성어에서 じょ)",
+    "example": {
+      "japanese": "保健所で、衛生管理について説明を受けた。",
+      "korean": "보건소에서 위생 관리에 관한 설명을 들었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜女",
+    "reading": "〜じょ",
+    "meaning": "여성을 나타내는 ~녀·~여",
+    "example": {
+      "japanese": "彼女は、長女として弟たちの面倒を見てきた。",
+      "korean": "그녀는 장녀로서 남동생들을 돌봐 왔다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜商",
+    "reading": "〜しょう",
+    "meaning": "상인·상업을 나타내는 ~상",
+    "example": {
+      "japanese": "父は、宝石商を営んでいる。",
+      "korean": "아버지는 보석상을 운영하고 계신다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜勝",
+    "reading": "〜しょう",
+    "meaning": "승리 횟수를 세는 ~승",
+    "example": {
+      "japanese": "開幕から二勝を挙げ、好調な出だしだ。",
+      "korean": "개막 후 2승을 거두어 순조로운 출발을 보이고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜場",
+    "reading": "〜じょう",
+    "meaning": "특정 활동의 장소를 나타내는 ~장",
+    "example": {
+      "japanese": "午後は、工場を見学する予定だ。",
+      "korean": "오후에는 공장을 견학할 예정이다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜畳",
+    "reading": "〜じょう",
+    "meaning": "다다미 장수·방 넓이를 세는 단위 조(畳)",
+    "example": {
+      "japanese": "六畳の部屋に、机とベッドを置いた。",
+      "korean": "다다미 여섯 장 넓이의 방에 책상과 침대를 놓았다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜色",
+    "reading": "〜しょく",
+    "meaning": "색의 종류·가짓수를 나타내는 ~색",
+    "example": {
+      "japanese": "このプリンターは、四色のインクを使う。",
+      "korean": "이 프린터는 네 가지 색의 잉크를 사용한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜船",
+    "reading": "〜せん",
+    "meaning": "배의 종류를 나타내는 ~선",
+    "example": {
+      "japanese": "港には、大きな貨物船が停泊していた。",
+      "korean": "항구에는 큰 화물선이 정박해 있었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜沿い",
+    "reading": "〜そい",
+    "meaning": "강·길 등을 따라 있음",
+    "example": {
+      "japanese": "川沿いの道を、毎朝散歩している。",
+      "korean": "강을 따라 난 길을 매일 아침 산책한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜庁",
+    "reading": "〜ちょう",
+    "meaning": "관청·행정기관을 나타내는 ~청",
+    "example": {
+      "japanese": "気象庁の発表によると、明日は雨らしい。",
+      "korean": "기상청 발표에 따르면 내일은 비가 온다고 한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜兆",
+    "reading": "〜ちょう",
+    "meaning": "큰 수의 단위 조(1조는 1만 억)",
+    "example": {
+      "japanese": "この国の年間予算は、一兆円を超える。",
+      "korean": "이 나라의 연간 예산은 1조 엔을 넘는다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜遣い",
+    "reading": "〜づかい",
+    "meaning": "말·돈·마음 등을 씀을 나타내는 말",
+    "example": {
+      "japanese": "慣れない環境で、気遣いが多くて疲れた。",
+      "korean": "낯선 환경에서 신경 쓸 일이 많아 지쳤다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜辛い",
+    "reading": "〜づらい",
+    "meaning": "~하기 어렵다, ~하기 힘들다",
+    "example": {
+      "japanese": "この靴は小さくて、歩き辛い。",
+      "korean": "이 신발은 작아서 걷기 힘들다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜滴",
+    "reading": "〜てき",
+    "meaning": "액체 방울을 세는 ~방울",
+    "example": {
+      "japanese": "水を二滴、試験管に加えた。",
+      "korean": "물을 두 방울 시험관에 넣었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜等",
+    "reading": "〜とう",
+    "meaning": "등급·등수를 나타내는 ~등",
+    "example": {
+      "japanese": "宝くじで、二等が当たった。",
+      "korean": "복권에 2등으로 당첨되었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜道",
+    "reading": "〜どう",
+    "meaning": "길·지역·기예 등의 이름에 붙는 ~도",
+    "example": {
+      "japanese": "兄は、中学校から柔道を続けている。",
+      "korean": "형은 중학교 때부터 유도를 계속하고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜ところ",
+    "reading": "〜ところ",
+    "meaning": "막 ~하려는 참",
+    "example": {
+      "japanese": "今から、昼ご飯を食べるところです。",
+      "korean": "지금 막 점심을 먹으려는 참입니다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜病",
+    "reading": "〜びょう",
+    "meaning": "병의 종류를 나타내는 ~병",
+    "example": {
+      "japanese": "この病院では、糖尿病の治療を行っている。",
+      "korean": "이 병원에서는 당뇨병을 치료하고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜弁",
+    "reading": "〜べん",
+    "meaning": "지역의 말·사투리를 나타내는 ~말·~방언",
+    "example": {
+      "japanese": "祖父は、家では関西弁で話す。",
+      "korean": "할아버지는 집에서는 간사이 사투리로 말씀하신다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜夜",
+    "reading": "〜や",
+    "meaning": "밤수를 세는 ~야, ~밤",
+    "example": {
+      "japanese": "旅行の最後の一夜を、京都で過ごした。",
+      "korean": "여행의 마지막 하룻밤을 교토에서 보냈다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜流",
+    "reading": "〜りゅう",
+    "meaning": "방식·유파를 나타내는 ~류·~식",
+    "example": {
+      "japanese": "料理は、独学で自分流に覚えた。",
+      "korean": "요리는 독학으로 자기 방식대로 배웠다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜料",
+    "reading": "〜りょう",
+    "meaning": "요금·비용을 나타내는 ~료",
+    "example": {
+      "japanese": "入場料は、受付で払ってください。",
+      "korean": "입장료는 접수처에서 내 주세요.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜力",
+    "reading": "〜りょく",
+    "meaning": "능력·힘을 나타내는 ~력",
+    "example": {
+      "japanese": "毎日走って、体力を付けている。",
+      "korean": "매일 달리며 체력을 기르고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "〜羽",
+    "reading": "〜わ",
+    "meaning": "새·토끼 등을 세는 ~마리",
+    "example": {
+      "japanese": "庭に、白い鳥が二羽来た。",
+      "korean": "정원에 흰 새 두 마리가 왔다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "明くる〜",
+    "reading": "あくる〜",
+    "meaning": "다음의, 이튿~",
+    "example": {
+      "japanese": "祭りの明くる朝、広場を掃除した。",
+      "korean": "축제 이튿날 아침에 광장을 청소했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "一段と",
+    "reading": "いちだんと",
+    "meaning": "한층 더, 더욱",
+    "example": {
+      "japanese": "雨がやんで、一段と涼しくなった。",
+      "korean": "비가 그쳐서 한층 더 시원해졌다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "ウーマン",
+    "reading": "ウーマン",
+    "meaning": "여성(주로 합성어에서 쓰임)",
+    "example": {
+      "japanese": "彼女は、仕事のできるキャリアウーマンだ。",
+      "korean": "그녀는 일을 잘하는 커리어 우먼이다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "売り切れ",
+    "reading": "うりきれ",
+    "meaning": "매진, 품절",
+    "example": {
+      "japanese": "人気のパンは、昼には売り切れだった。",
+      "korean": "인기 있는 빵은 점심 무렵에는 품절이었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "上〜",
+    "reading": "うわ〜",
+    "meaning": "위쪽·겉면을 나타내는 접두사",
+    "example": {
+      "japanese": "上着のポケットに、鍵を入れた。",
+      "korean": "겉옷 주머니에 열쇠를 넣었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "応接",
+    "reading": "おうせつ",
+    "meaning": "응접, 손님을 맞아 대접함",
+    "example": {
+      "japanese": "来客の応接で、午前中は忙しかった。",
+      "korean": "손님을 응접하느라 오전에는 바빴다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "送り仮名",
+    "reading": "おくりがな",
+    "meaning": "오쿠리가나(한자 뒤에 붙여 쓰는 가나)",
+    "example": {
+      "japanese": "漢字は合っているが、送り仮名が間違っている。",
+      "korean": "한자는 맞지만 오쿠리가나가 틀렸다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "お元気で",
+    "reading": "おげんきで",
+    "meaning": "건강히 지내세요(작별 인사)",
+    "example": {
+      "japanese": "帰り際に、「どうかお元気で」と伝えた。",
+      "korean": "떠날 때 “부디 건강히 지내세요”라고 전했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "お世話になりました",
+    "reading": "おせわになりました",
+    "meaning": "그동안 신세 많이 졌습니다",
+    "example": {
+      "japanese": "最終日に、上司へ「お世話になりました」と挨拶した。",
+      "korean": "마지막 날에 상사에게 “그동안 신세 많이 졌습니다”라고 인사했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "お待ちください",
+    "reading": "おまちください",
+    "meaning": "기다려 주세요",
+    "example": {
+      "japanese": "「少々お待ちください」と、店員に言われた。",
+      "korean": "점원이 “잠시만 기다려 주세요”라고 말했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "御中",
+    "reading": "おんちゅう",
+    "meaning": "귀중(회사·기관 등 단체 수신인 뒤의 경칭)",
+    "example": {
+      "japanese": "封筒には、「営業部御中」と書いた。",
+      "korean": "봉투에는 ‘영업부 귀중’이라고 적었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "書取",
+    "reading": "かきとり",
+    "meaning": "받아쓰기",
+    "example": {
+      "japanese": "今日の授業では、漢字の書取をした。",
+      "korean": "오늘 수업에서는 한자 받아쓰기를 했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "仮名",
+    "reading": "かな",
+    "meaning": "가나(히라가나·가타카나)",
+    "example": {
+      "japanese": "名前の読み方を、仮名で書いてください。",
+      "korean": "이름을 어떻게 읽는지 가나로 써 주세요.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "換気",
+    "reading": "かんき",
+    "meaning": "환기",
+    "example": {
+      "japanese": "窓を開けて、部屋の換気をした。",
+      "korean": "창문을 열어 방을 환기했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "くるむ",
+    "reading": "くるむ",
+    "meaning": "싸다, 감싸다",
+    "example": {
+      "japanese": "赤ちゃんを、柔らかい毛布でくるんだ。",
+      "korean": "아기를 부드러운 담요로 감쌌다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "現〜",
+    "reading": "げん〜",
+    "meaning": "현재의·현직의 뜻을 더하는 접두사 현~",
+    "example": {
+      "japanese": "現社長は、創業者の娘だ。",
+      "korean": "현 사장은 창업자의 딸이다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "原産",
+    "reading": "げんさん",
+    "meaning": "원산지; 본래 생산되는 곳",
+    "example": {
+      "japanese": "この植物は、南アメリカ原産だ。",
+      "korean": "이 식물은 남아메리카가 원산지다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "現に",
+    "reading": "げんに",
+    "meaning": "실제로, 현실에",
+    "example": {
+      "japanese": "現に記録が残っているので、事実だと分かる。",
+      "korean": "실제로 기록이 남아 있으므로 사실임을 알 수 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "小〜",
+    "reading": "こ〜",
+    "meaning": "작은·조금의 뜻을 더하는 접두사",
+    "example": {
+      "japanese": "駅前の小道を抜けて、公園へ向かった。",
+      "korean": "역 앞의 작은 길을 지나 공원으로 향했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "耕地",
+    "reading": "こうち",
+    "meaning": "경작지, 농사를 짓는 땅",
+    "example": {
+      "japanese": "川の近くに広い耕地が広がっている。",
+      "korean": "강 근처에 넓은 경작지가 펼쳐져 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "ごめんください",
+    "reading": "ごめんください",
+    "meaning": "계십니까, 실례합니다(방문할 때 하는 인사)",
+    "example": {
+      "japanese": "ごめんください、どなたかいらっしゃいますか。",
+      "korean": "실례합니다, 누구 계십니까?",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "堪える",
+    "reading": "こらえる",
+    "meaning": "참다, 견디다",
+    "example": {
+      "japanese": "悔しくて、涙を堪えることができなかった。",
+      "korean": "분해서 눈물을 참을 수 없었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "こんばんは",
+    "reading": "こんばんは",
+    "meaning": "안녕하세요(저녁 인사)",
+    "example": {
+      "japanese": "こんばんは、今夜はずいぶん冷えますね。",
+      "korean": "안녕하세요, 오늘 밤은 무척 춥네요.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "三角",
+    "reading": "さんかく",
+    "meaning": "삼각형, 세모",
+    "example": {
+      "japanese": "紙を折って三角の形を作った。",
+      "korean": "종이를 접어서 세모 모양을 만들었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "産地",
+    "reading": "さんち",
+    "meaning": "산지, 생산되는 지역",
+    "example": {
+      "japanese": "この果物の産地はどこですか。",
+      "korean": "이 과일의 산지는 어디인가요?",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "明明後日",
+    "reading": "しあさって",
+    "meaning": "글피, 모레의 다음 날",
+    "example": {
+      "japanese": "明明後日に友達と映画を見に行く。",
+      "korean": "글피에 친구와 영화를 보러 간다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "自衛",
+    "reading": "じえい",
+    "meaning": "자위, 스스로를 지킴",
+    "example": {
+      "japanese": "危険から身を守るために自衛の方法を学ぶ。",
+      "korean": "위험에서 몸을 지키기 위해 자신을 보호하는 방법을 배운다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "塩辛",
+    "reading": "しおから",
+    "meaning": "시오카라, 해산물 젓갈",
+    "example": {
+      "japanese": "父は酒のつまみにいかの塩辛を食べた。",
+      "korean": "아버지는 술안주로 오징어 젓갈을 드셨다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "しめた (かん)",
+    "reading": "しめた (かん)",
+    "meaning": "옳지, 됐다(일이 뜻대로 되었을 때의 감탄)",
+    "example": {
+      "japanese": "しめた、最後の一枚が残っていた。",
+      "korean": "옳지, 마지막 한 장이 남아 있었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "重〜",
+    "reading": "じゅう〜",
+    "meaning": "중(重), 무겁거나 정도가 심함을 나타내는 접두어",
+    "example": {
+      "japanese": "その事故で重傷を負った人はいなかった。",
+      "korean": "그 사고로 중상을 입은 사람은 없었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "初〜",
+    "reading": "しょ〜",
+    "meaning": "초(初), 처음을 나타내는 접두어",
+    "example": {
+      "japanese": "初対面の人には、丁寧にあいさつする。",
+      "korean": "처음 만나는 사람에게는 정중하게 인사한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "女〜",
+    "reading": "じょ〜",
+    "meaning": "여(女), 여성임을 나타내는 접두어",
+    "example": {
+      "japanese": "姉は女医として地域の病院で働いている。",
+      "korean": "언니는 여의사로 지역 병원에서 일하고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "小数",
+    "reading": "しょうすう",
+    "meaning": "소수, 소수점으로 나타낸 수",
+    "example": {
+      "japanese": "三分の一を小数で表すと、三が続く。",
+      "korean": "3분의 1을 소수로 나타내면 3이 계속 이어진다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "人事",
+    "reading": "じんじ",
+    "meaning": "인사, 직원의 채용·배치 관리",
+    "example": {
+      "japanese": "来月の人事異動で、別の部署に移る。",
+      "korean": "다음 달 인사이동으로 다른 부서로 옮긴다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "図形",
+    "reading": "ずけい",
+    "meaning": "도형",
+    "example": {
+      "japanese": "算数の授業で、いろいろな図形を描いた。",
+      "korean": "산수 수업에서 여러 도형을 그렸다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "先々月",
+    "reading": "せんせんげつ",
+    "meaning": "지지난달, 전달의 전달",
+    "example": {
+      "japanese": "先々月から新しい仕事を始めた。",
+      "korean": "지지난달부터 새 일을 시작했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "造船",
+    "reading": "ぞうせん",
+    "meaning": "조선, 배를 만듦",
+    "example": {
+      "japanese": "この港町は造船業で発展した。",
+      "korean": "이 항구 도시는 조선업으로 발전했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "速力",
+    "reading": "そくりょく",
+    "meaning": "속력",
+    "example": {
+      "japanese": "船は速力を落として港に入った。",
+      "korean": "배는 속력을 줄여 항구로 들어갔다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "それはいけませんね (かん)",
+    "reading": "それはいけませんね (かん)",
+    "meaning": "그거 안됐네요, 그러면 곤란하겠네요",
+    "example": {
+      "japanese": "風邪を引いたのですか、それはいけませんね。",
+      "korean": "감기에 걸리셨나요, 그거 안됐네요.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "短〜",
+    "reading": "たん〜",
+    "meaning": "단(短), 짧음을 나타내는 접두어",
+    "example": {
+      "japanese": "短時間で終わる仕事から片付けよう。",
+      "korean": "짧은 시간에 끝나는 일부터 처리하자.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "中性",
+    "reading": "ちゅうせい",
+    "meaning": "중성, 산성도 알칼리성도 아닌 성질",
+    "example": {
+      "japanese": "この洗剤は中性なので、表示を確かめて使う。",
+      "korean": "이 세제는 중성이므로 표시를 확인하고 사용한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "貯蔵",
+    "reading": "ちょぞう",
+    "meaning": "저장, 모아서 보관함",
+    "example": {
+      "japanese": "収穫した米を倉庫に貯蔵する。",
+      "korean": "수확한 쌀을 창고에 저장한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "ついで",
+    "reading": "ついで",
+    "meaning": "하는 김, 어떤 일에 곁들이는 기회",
+    "example": {
+      "japanese": "買い物のついでに、郵便局に寄った。",
+      "korean": "장 보는 김에 우체국에 들렀다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "吊る",
+    "reading": "つる",
+    "meaning": "매달다, 달아 올리다",
+    "example": {
+      "japanese": "天井から小さな照明を吊るした。",
+      "korean": "천장에 작은 조명을 매달았다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "低〜",
+    "reading": "てい〜",
+    "meaning": "저(低), 낮음을 나타내는 접두어",
+    "example": {
+      "japanese": "今朝は低気圧の影響で雨が降った。",
+      "korean": "오늘 아침은 저기압의 영향으로 비가 내렸다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "出来上がり",
+    "reading": "できあがり",
+    "meaning": "완성, 다 만들어짐",
+    "example": {
+      "japanese": "料理の出来上がりを待っている。",
+      "korean": "요리가 완성되기를 기다리고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "長〜",
+    "reading": "なが〜",
+    "meaning": "긴, 길게 이어짐을 나타내는 접두어",
+    "example": {
+      "japanese": "長旅の後は、家でゆっくり休みたい。",
+      "korean": "긴 여행 뒤에는 집에서 푹 쉬고 싶다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "生意気な",
+    "reading": "なまいきな",
+    "meaning": "건방진, 주제넘은",
+    "example": {
+      "japanese": "生意気な口を利いて、先生に注意された。",
+      "korean": "건방진 말을 해서 선생님께 주의를 받았다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "南極",
+    "reading": "なんきょく",
+    "meaning": "남극",
+    "example": {
+      "japanese": "南極の氷について調べる。",
+      "korean": "남극의 얼음에 대해 알아본다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "なんとも",
+    "reading": "なんとも",
+    "meaning": "아무렇지도, 도무지(주로 부정과 함께)",
+    "example": {
+      "japanese": "少し転んだだけで、足はなんともない。",
+      "korean": "조금 넘어졌을 뿐 발은 아무렇지도 않다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "乗り越し",
+    "reading": "のりこし",
+    "meaning": "승차 구간을 지나침, 역을 지나쳐 탐",
+    "example": {
+      "japanese": "乗り越しに気づき、次の駅で降りた。",
+      "korean": "역을 지나친 것을 알아차리고 다음 역에서 내렸다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "斜",
+    "reading": "はす",
+    "meaning": "비스듬함, 사선",
+    "example": {
+      "japanese": "向かいの人は帽子を斜にかぶっている。",
+      "korean": "맞은편 사람은 모자를 비스듬히 쓰고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "バック",
+    "reading": "バック",
+    "meaning": "뒤로 물러남, 후진",
+    "example": {
+      "japanese": "車をゆっくりバックさせて駐車した。",
+      "korean": "차를 천천히 후진시켜 주차했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "非〜",
+    "reading": "ひ〜",
+    "meaning": "비(非), 부정이나 해당하지 않음을 나타내는 접두어",
+    "example": {
+      "japanese": "会議には非公式の記録も残された。",
+      "korean": "회의에는 비공식 기록도 남겨졌다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "一〜",
+    "reading": "ひと〜",
+    "meaning": "한, 하나를 나타내는 접두어",
+    "example": {
+      "japanese": "出発する前に一休みしよう。",
+      "korean": "출발하기 전에 한숨 돌리자.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "一通り",
+    "reading": "ひととおり",
+    "meaning": "한 차례 전부, 대강 전체",
+    "example": {
+      "japanese": "必要な道具は一通りそろえた。",
+      "korean": "필요한 도구는 한 차례 전부 갖추었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "響き",
+    "reading": "ひびき",
+    "meaning": "울림, 울려 퍼지는 소리",
+    "example": {
+      "japanese": "大きな鐘の響きが遠くまで届いた。",
+      "korean": "큰 종의 울림이 멀리까지 전해졌다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "無沙汰",
+    "reading": "ぶさた",
+    "meaning": "오랫동안 소식을 전하지 못함",
+    "example": {
+      "japanese": "長らくご無沙汰しておりますが、お元気ですか。",
+      "korean": "오랫동안 소식을 전하지 못했는데 잘 지내시나요?",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "振り仮名",
+    "reading": "ふりがな",
+    "meaning": "후리가나, 한자의 읽기를 붙인 가나",
+    "example": {
+      "japanese": "難しい漢字には振り仮名を付けてください。",
+      "korean": "어려운 한자에는 후리가나를 붙여 주세요.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "へそ",
+    "reading": "へそ",
+    "meaning": "배꼽",
+    "example": {
+      "japanese": "赤ちゃんのへそがかわいらしい。",
+      "korean": "아기의 배꼽이 귀엽다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "盆",
+    "reading": "ぼん",
+    "meaning": "쟁반; 오본(조상을 기리는 명절)",
+    "example": {
+      "japanese": "お茶を盆に載せて運んだ。",
+      "korean": "차를 쟁반에 얹어 날랐다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "惨めな",
+    "reading": "みじめな",
+    "meaning": "비참한, 가련한",
+    "example": {
+      "japanese": "友達に無視されて、惨めな気持ちになった。",
+      "korean": "친구에게 무시당해 비참한 기분이 들었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "見出し",
+    "reading": "みだし",
+    "meaning": "표제, 제목",
+    "example": {
+      "japanese": "新聞の見出しだけをざっと読んだ。",
+      "korean": "신문 제목만 대강 읽었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "ミリ (メートル)",
+    "reading": "ミリ (メートル)",
+    "meaning": "밀리미터, 1미터의 천분의 일",
+    "example": {
+      "japanese": "紙の厚さは一ミリにも満たない。",
+      "korean": "종이 두께는 1밀리미터도 안 된다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "紅葉",
+    "reading": "もみじ",
+    "meaning": "단풍, 단풍나무",
+    "example": {
+      "japanese": "庭の紅葉が赤く色づいている。",
+      "korean": "정원의 단풍나무가 빨갛게 물들어 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "盛る",
+    "reading": "もる",
+    "meaning": "음식을 담다, 수북이 쌓다",
+    "example": {
+      "japanese": "茶碗にご飯を盛って食卓に並べた。",
+      "korean": "공기에 밥을 담아 식탁에 놓았다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "問答",
+    "reading": "もんどう",
+    "meaning": "문답, 질문과 대답",
+    "example": {
+      "japanese": "先生と生徒の問答がしばらく続いた。",
+      "korean": "선생님과 학생의 문답이 한동안 이어졌다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "夜行",
+    "reading": "やこう",
+    "meaning": "야행, 밤에 운행하거나 이동함",
+    "example": {
+      "japanese": "夜行バスに乗って故郷へ帰った。",
+      "korean": "야간 버스를 타고 고향에 돌아갔다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "養分",
+    "reading": "ようぶん",
+    "meaning": "양분, 생물의 성장에 필요한 성분",
+    "example": {
+      "japanese": "植物は根から水や養分を吸収する。",
+      "korean": "식물은 뿌리에서 물과 양분을 흡수한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "翌〜",
+    "reading": "よく〜",
+    "meaning": "다음, 뒤따르는 때를 나타내는 접두어",
+    "example": {
+      "japanese": "荷物は翌日に届いた。",
+      "korean": "짐은 다음 날 도착했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "領事",
+    "reading": "りょうじ",
+    "meaning": "영사",
+    "example": {
+      "japanese": "領事が現地の日本人の相談に応じた。",
+      "korean": "영사가 현지 일본인의 상담에 응했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "和〜",
+    "reading": "わ〜",
+    "meaning": "일본식, 일본과 관련됨을 나타내는 접두어",
+    "example": {
+      "japanese": "客間には和室が一つある。",
+      "korean": "손님방에는 일본식 방이 하나 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "和英",
+    "reading": "わえい",
+    "meaning": "일영, 일본어와 영어",
+    "example": {
+      "japanese": "和英辞典で単語の意味を調べた。",
+      "korean": "일영사전에서 단어의 뜻을 찾아봤다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "故～",
+    "reading": "こ～",
+    "meaning": "고(故), 세상을 떠난 사람 앞에 붙이는 말",
+    "example": {
+      "japanese": "式では故田中先生の功績をたたえた。",
+      "korean": "행사에서는 고 다나카 선생님의 공적을 기렸다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "甲",
+    "reading": "こう",
+    "meaning": "갑, 첫째 등급이나 계약 당사자를 나타내는 말",
+    "example": {
+      "japanese": "契約書では貸主を甲、借主を乙とする。",
+      "korean": "계약서에서는 임대인을 갑, 임차인을 을로 한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "～光",
+    "reading": "～こう",
+    "meaning": "광(光), 빛을 나타내는 접미어",
+    "example": {
+      "japanese": "太陽光を利用して電気を作る。",
+      "korean": "태양광을 이용하여 전기를 만든다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "煌々と",
+    "reading": "こうこうと",
+    "meaning": "환하게, 밝게 빛나는 모양",
+    "example": {
+      "japanese": "夜の窓から明かりが煌々と漏れている。",
+      "korean": "밤의 창문에서 불빛이 환하게 새어 나오고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "考古学",
+    "reading": "こうこがく",
+    "meaning": "고고학",
+    "example": {
+      "japanese": "大学で遺跡を調べる考古学を学んでいる。",
+      "korean": "대학에서 유적을 연구하는 고고학을 배우고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "焦げ茶",
+    "reading": "こげちゃ",
+    "meaning": "진한 갈색, 짙은 밤색",
+    "example": {
+      "japanese": "焦げ茶の革靴を丁寧に磨いた。",
+      "korean": "진한 갈색 가죽 구두를 정성껏 닦았다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "心掛け",
+    "reading": "こころがけ",
+    "meaning": "마음가짐, 평소의 자세",
+    "example": {
+      "japanese": "時間を守ろうという心掛けが大切だ。",
+      "korean": "시간을 지키려는 마음가짐이 중요하다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "殊に",
+    "reading": "ことに",
+    "meaning": "특히, 유달리",
+    "example": {
+      "japanese": "この町は、殊に秋の景色が美しい。",
+      "korean": "이 도시는 특히 가을 경치가 아름답다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "暦",
+    "reading": "こよみ",
+    "meaning": "달력, 역법",
+    "example": {
+      "japanese": "古い暦には、季節の行事が細かく記されている。",
+      "korean": "옛 달력에는 계절 행사가 자세히 적혀 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "竿",
+    "reading": "さお",
+    "meaning": "장대, 막대",
+    "example": {
+      "japanese": "洗濯物を干す竿を庭に渡した。",
+      "korean": "빨래를 너는 장대를 정원에 걸쳐 놓았다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "杯",
+    "reading": "さかずき",
+    "meaning": "술잔",
+    "example": {
+      "japanese": "小さな杯に酒を注いだ。",
+      "korean": "작은 술잔에 술을 따랐다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "錯誤",
+    "reading": "さくご",
+    "meaning": "착오, 잘못된 판단",
+    "example": {
+      "japanese": "思い込みによる錯誤に気づいた。",
+      "korean": "지레짐작에서 생긴 착오를 알아차렸다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "産後",
+    "reading": "さんご",
+    "meaning": "산후, 출산한 뒤",
+    "example": {
+      "japanese": "産後は家族が家事を分担した。",
+      "korean": "출산 후에는 가족이 집안일을 나누어 맡았다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "産物",
+    "reading": "さんぶつ",
+    "meaning": "산물, 생산물이나 결과물",
+    "example": {
+      "japanese": "この作品は長年の努力の産物だ。",
+      "korean": "이 작품은 오랜 노력의 산물이다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "強いて",
+    "reading": "しいて",
+    "meaning": "굳이, 억지로",
+    "example": {
+      "japanese": "強いて言えば、二つ目の案の方がよい。",
+      "korean": "굳이 말하자면 두 번째 안이 더 좋다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "決",
+    "reading": "けつ",
+    "meaning": "결정, 표결",
+    "example": {
+      "japanese": "議長がその提案を決に付した。",
+      "korean": "의장이 그 제안을 표결에 부쳤다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "元首",
+    "reading": "げんしゅ",
+    "meaning": "원수, 국가의 최고 대표자",
+    "example": {
+      "japanese": "各国の元首が式典に出席した。",
+      "korean": "각국 원수가 의식에 참석했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "動的",
+    "reading": "どうてき",
+    "meaning": "동적, 움직임이나 변화가 있는 성질",
+    "example": {
+      "japanese": "画面には動的な映像が表示される。",
+      "korean": "화면에는 움직이는 영상이 표시된다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "とかく",
+    "reading": "とかく",
+    "meaning": "이래저래, 자칫하면",
+    "example": {
+      "japanese": "忙しい時は、とかく食事が不規則になりがちだ。",
+      "korean": "바쁠 때는 자칫 식사가 불규칙해지기 쉽다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "年頃",
+    "reading": "としごろ",
+    "meaning": "그만한 나이, 일정한 연령대",
+    "example": {
+      "japanese": "同じ年頃の子供たちが公園で遊んでいる。",
+      "korean": "비슷한 또래의 아이들이 공원에서 놀고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "止める",
+    "reading": "とどめる",
+    "meaning": "그치게 하다, 머물게 하다",
+    "example": {
+      "japanese": "被害を最小限に止めるため、対策を急いだ。",
+      "korean": "피해를 최소한으로 그치게 하려고 대책을 서둘렀다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "溝",
+    "reading": "どぶ",
+    "meaning": "도랑, 배수로",
+    "example": {
+      "japanese": "道路の脇の溝を掃除した。",
+      "korean": "도로 옆 도랑을 청소했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "取り替え",
+    "reading": "とりかえ",
+    "meaning": "교환, 바꾸어 끼움",
+    "example": {
+      "japanese": "古い部品の取り替えが必要だ。",
+      "korean": "오래된 부품을 교체할 필요가 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "副",
+    "reading": "とりわけ",
+    "meaning": "특히, 그중에서도",
+    "example": {
+      "japanese": "果物は好きだが、とりわけ桃が好きだ。",
+      "korean": "과일을 좋아하지만 특히 복숭아를 좋아한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "とんだ",
+    "reading": "とんだ",
+    "meaning": "뜻밖의 나쁜, 엄청난",
+    "example": {
+      "japanese": "道を間違えて、とんだ遠回りをしてしまった。",
+      "korean": "길을 잘못 들어 뜻밖에 크게 돌아가 버렸다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "度忘れ",
+    "reading": "どわすれ",
+    "meaning": "일시적으로 잊음, 갑자기 생각이 안 남",
+    "example": {
+      "japanese": "毎日会う人の名前を度忘れした。",
+      "korean": "매일 만나는 사람의 이름이 갑자기 생각나지 않았다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "名残",
+    "reading": "なごり",
+    "meaning": "자취, 떠난 뒤 남은 흔적이나 아쉬움",
+    "example": {
+      "japanese": "道の端には冬の名残の雪が残っていた。",
+      "korean": "길 가장자리에는 겨울의 자취인 눈이 남아 있었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "情深い",
+    "reading": "なさけぶかい",
+    "meaning": "정이 깊다, 인정이 많다",
+    "example": {
+      "japanese": "祖母は情深い人で、誰にでも親切だった。",
+      "korean": "할머니는 정이 깊은 분으로 누구에게나 친절했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "並びに",
+    "reading": "ならびに",
+    "meaning": "및, 그리고(격식을 갖춘 연결어)",
+    "example": {
+      "japanese": "保護者並びに関係者の皆様にお知らせします。",
+      "korean": "보호자 및 관계자 여러분께 알려 드립니다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "慣れ",
+    "reading": "なれ",
+    "meaning": "익숙해짐, 숙련",
+    "example": {
+      "japanese": "この作業には慣れが必要だ。",
+      "korean": "이 작업에는 숙련이 필요하다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "年賀",
+    "reading": "ねんが",
+    "meaning": "신년 인사, 새해 축하",
+    "example": {
+      "japanese": "お世話になった方に年賀の挨拶を送った。",
+      "korean": "신세를 진 분께 새해 인사를 보냈다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "一気",
+    "reading": "いっき",
+    "meaning": "단숨에, 한 번에 힘을 모음",
+    "example": {
+      "japanese": "残りの仕事を一気に片付けた。",
+      "korean": "남은 일을 단숨에 처리했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "一心",
+    "reading": "いっしん",
+    "meaning": "한마음, 온 정신을 집중함",
+    "example": {
+      "japanese": "選手は優勝したい一心で練習に励んだ。",
+      "korean": "선수는 우승하고 싶은 일념으로 연습에 힘썼다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "打ち消し",
+    "reading": "うちけし",
+    "meaning": "부정, 어떤 내용을 아니라 함",
+    "example": {
+      "japanese": "日本語では、ないが打ち消しを表す。",
+      "korean": "일본어에서는 ない가 부정을 나타낸다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "縁談",
+    "reading": "えんだん",
+    "meaning": "혼담, 결혼에 관한 이야기",
+    "example": {
+      "japanese": "親戚から縁談の話を持ちかけられた。",
+      "korean": "친척에게서 혼담을 제안받았다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "於いて",
+    "reading": "おいて",
+    "meaning": "~에서, ~에 있어서(장소·상황을 나타냄)",
+    "example": {
+      "japanese": "明日の会議は本社に於いて行われる。",
+      "korean": "내일 회의는 본사에서 열린다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "おおい (かん)",
+    "reading": "おおい (かん)",
+    "meaning": "어이, 이봐(멀리 있는 이를 부르는 소리)",
+    "example": {
+      "japanese": "おおい、こっちに来てくれ。",
+      "korean": "어이, 이쪽으로 와 줘.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "遅らす",
+    "reading": "おくらす",
+    "meaning": "늦추다, 지연시키다",
+    "example": {
+      "japanese": "雨のために試合の開始を一時間遅らした。",
+      "korean": "비 때문에 경기 시작을 한 시간 늦췄다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "我",
+    "reading": "が～",
+    "meaning": "자아, 아집",
+    "example": {
+      "japanese": "彼は何があっても自分の我を通そうとする。",
+      "korean": "그는 무슨 일이 있어도 자기 아집을 관철하려 한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "回送",
+    "reading": "かいそう",
+    "meaning": "회송, 승객 없이 차량을 옮김",
+    "example": {
+      "japanese": "駅に着いた列車は回送になっていた。",
+      "korean": "역에 도착한 열차는 회송 상태였다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "駆けっこ",
+    "reading": "かけっこ",
+    "meaning": "달리기 경주",
+    "example": {
+      "japanese": "運動会で友達と駆けっこをした。",
+      "korean": "운동회에서 친구와 달리기 경주를 했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "頭",
+    "reading": "かしら",
+    "meaning": "우두머리, 수장",
+    "example": {
+      "japanese": "彼は職人たちの頭として皆をまとめた。",
+      "korean": "그는 장인들의 수장으로 모두를 이끌었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "片～",
+    "reading": "かた～",
+    "meaning": "한쪽, 어느 한편을 나타내는 접두어",
+    "example": {
+      "japanese": "片手で傘を持ち、もう片方の手で荷物を持った。",
+      "korean": "한 손에는 우산을, 다른 손에는 짐을 들었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "かなわない",
+    "reading": "かなわない",
+    "meaning": "당해 내지 못하다, 견디기 어렵다",
+    "example": {
+      "japanese": "将棋では、まだ兄にはかなわない。",
+      "korean": "쇼기에서는 아직 형을 당해 내지 못한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "予て",
+    "reading": "かねて",
+    "meaning": "이전부터, 진작부터",
+    "example": {
+      "japanese": "予て希望していた留学が実現した。",
+      "korean": "이전부터 바라던 유학이 실현되었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "灌漑",
+    "reading": "かんがい",
+    "meaning": "관개, 농경지에 물을 댐",
+    "example": {
+      "japanese": "川から田畑に水を引く灌漑工事が進んでいる。",
+      "korean": "강에서 논밭으로 물을 대는 관개 공사가 진행되고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "玩具",
+    "reading": "がんぐ",
+    "meaning": "완구, 장난감",
+    "example": {
+      "japanese": "木で作った玩具を子供に贈った。",
+      "korean": "나무로 만든 장난감을 아이에게 선물했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "聞き取り",
+    "reading": "ききとり",
+    "meaning": "듣기, 듣고 이해하거나 받아 적음",
+    "example": {
+      "japanese": "毎朝、日本語の聞き取りを練習している。",
+      "korean": "매일 아침 일본어 듣기를 연습하고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "兆",
+    "reading": "きざし",
+    "meaning": "조짐, 징후",
+    "example": {
+      "japanese": "寒さが和らぎ、春の兆が見え始めた。",
+      "korean": "추위가 누그러지고 봄의 조짐이 보이기 시작했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "来る",
+    "reading": "きたる",
+    "meaning": "다가오다; 다가오는(격식을 갖춘 표현)",
+    "example": {
+      "japanese": "来る日曜日に、地域の祭りが開かれる。",
+      "korean": "다가오는 일요일에 지역 축제가 열린다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "強",
+    "reading": "きょう",
+    "meaning": "강함; 수량보다 조금 많음을 나타내는 말",
+    "example": {
+      "japanese": "会場には百人強が集まった。",
+      "korean": "행사장에는 백 명이 조금 넘는 사람이 모였다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "教習",
+    "reading": "きょうしゅう",
+    "meaning": "교습, 운전 등 기술을 가르침",
+    "example": {
+      "japanese": "運転免許を取るため、教習を受けている。",
+      "korean": "운전면허를 따려고 교습을 받고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "～きり",
+    "reading": "～きり",
+    "meaning": "~뿐, ~만(한정하는 말)",
+    "example": {
+      "japanese": "二人きりで静かに話した。",
+      "korean": "둘이서만 조용히 이야기했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "切替",
+    "reading": "きりかえ",
+    "meaning": "전환, 바꿈",
+    "example": {
+      "japanese": "気持ちの切替がうまくできた。",
+      "korean": "기분을 잘 전환할 수 있었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "区切り",
+    "reading": "くぎり",
+    "meaning": "구분, 매듭, 일단락",
+    "example": {
+      "japanese": "仕事の区切りがついたら休もう。",
+      "korean": "일이 일단락되면 쉬자.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "くぐる",
+    "reading": "くぐる",
+    "meaning": "밑을 지나가다, 빠져나가다",
+    "example": {
+      "japanese": "子供は机の下をくぐって遊んでいる。",
+      "korean": "아이는 책상 밑을 기어 지나가며 놀고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "同級",
+    "reading": "どうきゅう",
+    "meaning": "동급, 같은 등급이나 학년",
+    "example": {
+      "japanese": "彼とは同級だが、話したことはなかった。",
+      "korean": "그와는 같은 학년이지만 말해 본 적은 없었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "値",
+    "reading": "あたい",
+    "meaning": "값, 가치, 수치",
+    "example": {
+      "japanese": "この式に数を入れて、値を求める。",
+      "korean": "이 식에 수를 넣어 값을 구한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "当て",
+    "reading": "あて",
+    "meaning": "기대, 의지할 만한 것",
+    "example": {
+      "japanese": "彼の助けを当てにしていた。",
+      "korean": "그의 도움을 기대하고 있었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "～宛",
+    "reading": "～あて",
+    "meaning": "~앞, ~에게(수신인을 나타내는 말)",
+    "example": {
+      "japanese": "この手紙は田中様宛に送ってください。",
+      "korean": "이 편지는 다나카 님 앞으로 보내 주세요.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "跡継ぎ",
+    "reading": "あとつぎ",
+    "meaning": "후계자, 대를 이을 사람",
+    "example": {
+      "japanese": "店の跡継ぎについて家族で話し合った。",
+      "korean": "가게의 후계자에 대해 가족이 의논했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "合わす",
+    "reading": "あわす",
+    "meaning": "맞추다, 합하다",
+    "example": {
+      "japanese": "皆で声を合わして歌った。",
+      "korean": "모두 목소리를 맞춰 노래했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "～証",
+    "reading": "～しょう",
+    "meaning": "~증, 자격이나 사실을 증명하는 문서",
+    "example": {
+      "japanese": "受付で学生証を見せた。",
+      "korean": "접수처에서 학생증을 보여 주었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "～嬢",
+    "reading": "～じょう",
+    "meaning": "~양, 젊은 여성에 붙이는 경칭",
+    "example": {
+      "japanese": "紹介された山田嬢は、大学で歴史を学んでいる。",
+      "korean": "소개받은 야마다 양은 대학에서 역사를 배우고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "城下",
+    "reading": "じょうか",
+    "meaning": "성하, 성 아래에 발달한 마을",
+    "example": {
+      "japanese": "城下には昔の商家が並んでいる。",
+      "korean": "성 아래 마을에는 옛 상가가 늘어서 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "～心",
+    "reading": "～しん",
+    "meaning": "~심, 마음이나 심리를 나타내는 접미어",
+    "example": {
+      "japanese": "子供の好奇心を大切にしたい。",
+      "korean": "아이의 호기심을 소중히 하고 싶다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "心中",
+    "reading": "しんじゅう",
+    "meaning": "정사, 동반 자살(특히 연인 사이)",
+    "example": {
+      "japanese": "その小説は、恋人同士の心中を題材にしている。",
+      "korean": "그 소설은 연인 사이의 동반 자살을 소재로 하고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "吹奏",
+    "reading": "すいそう",
+    "meaning": "취주, 관악기를 불어 연주함",
+    "example": {
+      "japanese": "式典では吹奏楽団が行進曲を演奏した。",
+      "korean": "의식에서는 취주악단이 행진곡을 연주했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "ずれ",
+    "reading": "ずれ",
+    "meaning": "어긋남, 차이",
+    "example": {
+      "japanese": "二人の認識には大きなずれがあった。",
+      "korean": "두 사람의 인식에는 큰 차이가 있었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "切開",
+    "reading": "せっかい",
+    "meaning": "절개, 일부를 잘라 엶",
+    "example": {
+      "japanese": "医師は切開する位置を慎重に確認した。",
+      "korean": "의사는 절개할 위치를 신중하게 확인했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "折衷",
+    "reading": "せっちゅう",
+    "meaning": "절충, 다른 입장을 알맞게 섞음",
+    "example": {
+      "japanese": "二つの案を折衷して、新しい計画を作った。",
+      "korean": "두 안을 절충하여 새 계획을 세웠다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "攻め",
+    "reading": "せめ",
+    "meaning": "공격, 공세",
+    "example": {
+      "japanese": "後半は相手の攻めをよく防いだ。",
+      "korean": "후반에는 상대의 공격을 잘 막았다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "宣教",
+    "reading": "せんきょう",
+    "meaning": "선교, 종교의 가르침을 전함",
+    "example": {
+      "japanese": "彼は海外での宣教活動に参加した。",
+      "korean": "그는 해외 선교 활동에 참가했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "相対",
+    "reading": "そうたい",
+    "meaning": "상대, 다른 것과 관계하여 정해짐",
+    "example": {
+      "japanese": "物の価値は、比較する相手によって相対的に決まる。",
+      "korean": "사물의 가치는 비교 대상에 따라 상대적으로 정해진다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "大家",
+    "reading": "たいか",
+    "meaning": "대가, 어떤 분야에 뛰어난 거장",
+    "example": {
+      "japanese": "彼は日本画の大家として知られている。",
+      "korean": "그는 일본화의 거장으로 알려져 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "対面",
+    "reading": "たいめん",
+    "meaning": "대면, 직접 마주함",
+    "example": {
+      "japanese": "オンラインではなく、対面で相談したい。",
+      "korean": "온라인이 아니라 대면으로 상담하고 싶다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "丈",
+    "reading": "たけ",
+    "meaning": "길이, 높이(옷이나 키 등의 치수)",
+    "example": {
+      "japanese": "ズボンの丈を少し短く直した。",
+      "korean": "바지 길이를 조금 짧게 수선했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "だと",
+    "reading": "だと",
+    "meaning": "~라면, ~라고 하면",
+    "example": {
+      "japanese": "本当だとしたら、大変なことだ。",
+      "korean": "사실이라면 큰일이다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "溜まり",
+    "reading": "たまり",
+    "meaning": "고여 모인 것, 모이는 곳",
+    "example": {
+      "japanese": "雨の後、道に水の溜まりができた。",
+      "korean": "비가 온 뒤 길에 물이 고였다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "弛み",
+    "reading": "たるみ",
+    "meaning": "느슨해짐, 해이",
+    "example": {
+      "japanese": "ロープの弛みを直して、しっかり結び直した。",
+      "korean": "밧줄의 느슨한 부분을 바로잡고 단단히 다시 묶었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "違える",
+    "reading": "ちがえる",
+    "meaning": "다르게 하다, 잘못 맞추다",
+    "example": {
+      "japanese": "寝ている間に首を違えてしまった。",
+      "korean": "자다가 목을 잘못 삐끗했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "重複",
+    "reading": "ちょうふく",
+    "meaning": "중복, 겹침",
+    "example": {
+      "japanese": "名簿に名前の重複がないか確認する。",
+      "korean": "명부에 이름이 중복되지 않았는지 확인한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "角",
+    "reading": "つの",
+    "meaning": "뿔",
+    "example": {
+      "japanese": "鹿の角は枝のように分かれている。",
+      "korean": "사슴뿔은 가지처럼 갈라져 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "手数",
+    "reading": "てかず",
+    "meaning": "공격이나 작업에서 손을 쓰는 횟수",
+    "example": {
+      "japanese": "彼は手数の多い攻撃で相手を圧倒した。",
+      "korean": "그는 타수가 많은 공격으로 상대를 압도했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "手数",
+    "reading": "てすう",
+    "meaning": "수고, 번거로움; 수수료",
+    "example": {
+      "japanese": "お手数ですが、こちらにお名前を書いてください。",
+      "korean": "번거로우시겠지만 여기에 성함을 적어 주세요.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "叩く",
+    "reading": "はたく",
+    "meaning": "털다, 가볍게 치다",
+    "example": {
+      "japanese": "服に付いたほこりを手ではたいた。",
+      "korean": "옷에 묻은 먼지를 손으로 털었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "実",
+    "reading": "じつ",
+    "meaning": "실질, 실제의 이익이나 내용",
+    "example": {
+      "japanese": "見栄を張るより、名より実を取る方がよい。",
+      "korean": "허세를 부리기보다 명분보다 실속을 취하는 편이 낫다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "失調",
+    "reading": "しっちょう",
+    "meaning": "실조, 신체 기능 등의 균형이 흐트러짐",
+    "example": {
+      "japanese": "検査では、体の機能に失調が見られた。",
+      "korean": "검사에서는 신체 기능에 불균형이 보였다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "主",
+    "reading": "しゅ",
+    "meaning": "주, 주님(기독교에서 신을 이르는 말)",
+    "example": {
+      "japanese": "日曜日の礼拝で、主の恵みに感謝した。",
+      "korean": "일요일 예배에서 주님의 은혜에 감사했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "私有",
+    "reading": "しゆう",
+    "meaning": "사유, 개인이 소유함",
+    "example": {
+      "japanese": "この土地は私有地なので、立ち入れない。",
+      "korean": "이 땅은 사유지이므로 들어갈 수 없다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "～宗",
+    "reading": "～しゅう",
+    "meaning": "~종, 종파를 나타내는 접미어",
+    "example": {
+      "japanese": "この寺は浄土宗に属している。",
+      "korean": "이 절은 정토종에 속해 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "修学",
+    "reading": "しゅうがく",
+    "meaning": "수학, 학교 등에서 학문을 배움",
+    "example": {
+      "japanese": "修学旅行で古い都を訪ねた。",
+      "korean": "수학여행으로 옛 수도를 방문했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "フィルタ",
+    "reading": "フィルタ",
+    "meaning": "필터, 여과 장치",
+    "example": {
+      "japanese": "空気清浄機のフィルタを交換した。",
+      "korean": "공기청정기의 필터를 교체했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "ブル",
+    "reading": "ブル",
+    "meaning": "불독(ブルドッグ의 준말); 수소(외래어)",
+    "example": {
+      "japanese": "近所の家では、ブルという犬種を飼っている。",
+      "korean": "이웃집에서는 불독이라는 견종을 기르고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "分母",
+    "reading": "ぶんぼ",
+    "meaning": "분모",
+    "example": {
+      "japanese": "分母をそろえてから、分数を足す。",
+      "korean": "분모를 맞춘 뒤 분수를 더한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "保育",
+    "reading": "ほいく",
+    "meaning": "보육, 어린아이를 돌보며 기름",
+    "example": {
+      "japanese": "この施設では夜間の保育も行っている。",
+      "korean": "이 시설에서는 야간 보육도 하고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "干し～",
+    "reading": "ほし～",
+    "meaning": "말린, 건조했음을 나타내는 접두어",
+    "example": {
+      "japanese": "冬になると、軒先に干し柿が並ぶ。",
+      "korean": "겨울이 되면 처마 밑에 곶감이 늘어선다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "施す",
+    "reading": "ほどこす",
+    "meaning": "베풀다, 필요한 처치를 하다",
+    "example": {
+      "japanese": "けが人に応急処置を施した。",
+      "korean": "다친 사람에게 응급 처치를 했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "マイ～",
+    "reading": "マイ～",
+    "meaning": "마이, 자기 소유임을 나타내는 접두어",
+    "example": {
+      "japanese": "休日はマイカーで海へ出かけた。",
+      "korean": "휴일에는 자가용으로 바다에 갔다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "舞う",
+    "reading": "まう",
+    "meaning": "춤추다, 나풀나풀 날다",
+    "example": {
+      "japanese": "桜の花びらが風に舞っている。",
+      "korean": "벚꽃잎이 바람에 흩날리고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "真っ二つ",
+    "reading": "まっぷたつ",
+    "meaning": "정확히 둘로 갈라짐",
+    "example": {
+      "japanese": "りんごを真っ二つに切った。",
+      "korean": "사과를 정확히 반으로 잘랐다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "纏め",
+    "reading": "まとめ",
+    "meaning": "정리, 종합",
+    "example": {
+      "japanese": "授業の最後に、今日の纏めをした。",
+      "korean": "수업 마지막에 오늘 배운 내용을 정리했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "鞠",
+    "reading": "まり",
+    "meaning": "공(전통적으로 놀이에 쓰던 둥근 공)",
+    "example": {
+      "japanese": "子供たちは庭で鞠をついて遊んだ。",
+      "korean": "아이들은 정원에서 공을 튀기며 놀았다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "～味",
+    "reading": "～み",
+    "meaning": "~미, 맛이나 느낌의 성질을 나타내는 접미어",
+    "example": {
+      "japanese": "このお茶は苦味が少ない。",
+      "korean": "이 차는 쓴맛이 적다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "源",
+    "reading": "みなもと",
+    "meaning": "근원, 기원",
+    "example": {
+      "japanese": "川の源をたどって山へ登った。",
+      "korean": "강의 근원을 따라 산에 올랐다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "結び",
+    "reading": "むすび",
+    "meaning": "맺음, 마무리",
+    "example": {
+      "japanese": "手紙の結びに、相手の健康を祈る言葉を添えた。",
+      "korean": "편지 끝에 상대방의 건강을 비는 말을 덧붙였다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "目途",
+    "reading": "めど",
+    "meaning": "목표, 전망, 실현의 가늠",
+    "example": {
+      "japanese": "来月を目途に、準備を終える予定だ。",
+      "korean": "다음 달을 목표로 준비를 마칠 예정이다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "～網",
+    "reading": "～もう",
+    "meaning": "~망, 그물처럼 이어진 조직이나 체계",
+    "example": {
+      "japanese": "台風で交通網が乱れた。",
+      "korean": "태풍으로 교통망이 혼란해졌다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "模索",
+    "reading": "もさく",
+    "meaning": "모색, 해결책을 찾아 더듬음",
+    "example": {
+      "japanese": "新しい解決策を模索している。",
+      "korean": "새로운 해결책을 모색하고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "～薬",
+    "reading": "～やく",
+    "meaning": "~약, 약물을 나타내는 접미어",
+    "example": {
+      "japanese": "薬局で解熱薬を受け取った。",
+      "korean": "약국에서 해열제를 받았다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "～油",
+    "reading": "～ゆ",
+    "meaning": "~유, 기름을 나타내는 접미어",
+    "example": {
+      "japanese": "暖房用の灯油を買ってきた。",
+      "korean": "난방용 등유를 사 왔다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "避ける",
+    "reading": "よける",
+    "meaning": "피하다, 비켜서다",
+    "example": {
+      "japanese": "水たまりを避けて歩いた。",
+      "korean": "물웅덩이를 피해 걸었다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "良し",
+    "reading": "よし",
+    "meaning": "좋아, 됐다(만족이나 결심을 나타냄)",
+    "example": {
+      "japanese": "良し、これで準備は全部整った。",
+      "korean": "좋아, 이걸로 준비가 모두 끝났다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "～寄り",
+    "reading": "～より",
+    "meaning": "~쪽에 치우침, ~에 가까움",
+    "example": {
+      "japanese": "駅の北寄りの出口で待っています。",
+      "korean": "역의 북쪽에 가까운 출구에서 기다리고 있습니다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "立方",
+    "reading": "りっぽう",
+    "meaning": "입방, 세제곱",
+    "example": {
+      "japanese": "この箱の容積は一立方メートルだ。",
+      "korean": "이 상자의 부피는 1세제곱미터이다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "両極",
+    "reading": "りょうきょく",
+    "meaning": "양극, 두 끝이나 남극과 북극",
+    "example": {
+      "japanese": "磁石には南北の両極がある。",
+      "korean": "자석에는 남북의 두 극이 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "冷蔵",
+    "reading": "れいぞう",
+    "meaning": "냉장, 차갑게 하여 보관함",
+    "example": {
+      "japanese": "この食品は冷蔵して保存する。",
+      "korean": "이 식품은 냉장 보관한다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "はまる",
+    "reading": "はまる",
+    "meaning": "들어맞다, 끼다; 푹 빠지다",
+    "example": {
+      "japanese": "この部品は穴にぴったりはまる。",
+      "korean": "이 부품은 구멍에 꼭 들어맞는다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "歪む",
+    "reading": "ひずむ",
+    "meaning": "뒤틀리다, 찌그러지다",
+    "example": {
+      "japanese": "強い力が加わって、金属の板が歪んだ。",
+      "korean": "강한 힘이 가해져 금속판이 뒤틀렸다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N5",
+    "expression": "ああ",
+    "reading": "ああ",
+    "meaning": "아!, 아아!",
+    "example": {
+      "japanese": "ああ、電車に間に合ってよかった。",
+      "korean": "아, 전철 시간에 맞춰서 다행이다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N4",
+    "expression": "いただく",
+    "reading": "頂く",
+    "meaning": "(겸양어) 받다; 먹다; 마시다",
+    "example": {
+      "japanese": "先生から本をいただいた。",
+      "korean": "선생님께 책을 받았다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N2",
+    "expression": "琴",
+    "reading": "きん",
+    "example": {
+      "japanese": "彼は中国の伝統楽器である琴（きん）を演奏した。",
+      "korean": "그는 중국의 전통 악기인 금을 연주했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "首輪",
+    "reading": "くびわ",
+    "example": {
+      "japanese": "散歩の前に犬の首輪を確かめた。",
+      "korean": "산책 전에 개의 목줄을 확인했다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N5",
+    "expression": "頭",
+    "reading": "あたま",
+    "example": {
+      "japanese": "今朝から頭が少し痛い。",
+      "korean": "오늘 아침부터 머리가 조금 아프다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N5",
+    "expression": "居る",
+    "reading": "いる",
+    "example": {
+      "japanese": "教室には先生と学生がいる。",
+      "korean": "교실에는 선생님과 학생이 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N4",
+    "expression": "開く",
+    "reading": "ひらく",
+    "example": {
+      "japanese": "来週、この部屋で説明会を開く。",
+      "korean": "다음 주 이 방에서 설명회를 연다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "湧く",
+    "reading": "わく",
+    "example": {
+      "japanese": "岩の間から冷たい水が湧いている。",
+      "korean": "바위 사이에서 차가운 물이 솟아나고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N3",
+    "expression": "偶",
+    "reading": "たま",
+    "example": {
+      "japanese": "たまの休みは、家でゆっくり過ごしたい。",
+      "korean": "모처럼의 휴일은 집에서 느긋하게 보내고 싶다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N5",
+    "expression": "バス",
+    "reading": "バス",
+    "example": {
+      "japanese": "バスは十分おきに来る。",
+      "korean": "버스는 10분 간격으로 온다.",
+      "source": "kotoba-loop-original"
+    }
+  },
+  {
+    "level": "N1",
+    "expression": "有する",
+    "reading": "ゆうする",
+    "meaning": "가지다, 소유하다",
+    "example": {
+      "japanese": "この建物は高い耐震性を有する。",
+      "korean": "이 건물은 높은 내진성을 갖고 있다.",
+      "source": "kotoba-loop-original"
+    }
+  }
+]

@@ -3,6 +3,7 @@
 import {
   useEffect,
   useMemo,
+  useRef,
   useState,
   type ChangeEvent,
   type CSSProperties,
@@ -15,51 +16,25 @@ import {
   type StoredState,
   type StudyRound,
 } from "./study-records";
+import {
+  LEVELS,
+  MIN_STUDY_COUNT,
+  MAX_STUDY_COUNT,
+  prioritizeUnseen,
+  indexWords,
+  shuffle,
+  uniqueWords,
+  meaningsOverlap,
+  type Kind,
+  type Level,
+  type VocabularyPayload,
+  type Word,
+} from "./vocabulary";
 
-type Level = "N5" | "N4" | "N3" | "N2";
-type Kind = "kanji" | "kana";
 type Screen = "home" | "study" | "review" | "quiz" | "result" | "mistakes";
 type QuizStage = "reading" | "meaning";
-
-type Radical = {
-  kanji: string;
-  symbol: string;
-  meaning: string;
-};
-
-type Word = {
-  id: string;
-  level: Level;
-  expression: string;
-  reading: string;
-  meaning: string;
-  kind: Kind;
-  radicals: Radical[];
-};
-
-type VocabularyPayload = {
-  version: string;
-  source: string;
-  counts: Record<Level, number>;
-  words: Word[];
-};
-
-const LEVELS: Level[] = ["N5", "N4", "N3", "N2"];
 // Keep the existing key so the rename preserves this browser's study history.
 const STORAGE_KEY = "kotoba-loop-state-v1";
-
-function shuffle<T>(values: T[]): T[] {
-  const copy = [...values];
-  for (let index = copy.length - 1; index > 0; index -= 1) {
-    const target = Math.floor(Math.random() * (index + 1));
-    [copy[index], copy[target]] = [copy[target], copy[index]];
-  }
-  return copy;
-}
-
-function uniqueWords(values: Word[]): Word[] {
-  return [...new Map(values.map((word) => [word.id, word])).values()];
-}
 
 function readStoredState(): StoredState {
   if (typeof window === "undefined") {
@@ -126,9 +101,12 @@ function Footer({
       <details className="source-details">
         <summary>데이터 출처와 안내</summary>
         <p>
-          어휘 등급·표기·읽기는 Tanos/Open Anki JLPT, 한국어 뜻 일부는 한국어
-          위키낱말사전, 한자 부수는 KANJIDIC2를 바탕으로 정리했습니다. JLPT
+          어휘 등급·표기·읽기는 Tanos/Open Anki JLPT, 뜻은 국립국어원
+          한국어기초사전·한국어 위키낱말사전과 별도 교정 자료, 예문은
+          JMdict·Tatoeba와 학습용 작성 문장, 한자 부수는 KANJIDIC2·KanjiVG를
+          바탕으로 정리했습니다. JLPT
           주관 기관이 공개한 공식 어휘 목록이 아닌 학습용 참고 데이터입니다.
+          {" "}<a href="/data/credits.txt" target="_blank" rel="noreferrer">출처·라이선스 자세히</a>
         </p>
       </details>
     </footer>
@@ -147,6 +125,20 @@ function WordRuby({ word }: { word: Word }) {
   return <ruby>{word.expression}</ruby>;
 }
 
+function ExampleSentence({ word, compact = false }: { word: Word; compact?: boolean }) {
+  return (
+    <div className={`example-sentence ${compact ? "compact-example" : ""}`}>
+      <span className="example-label">예문</span>
+      <p lang="ja">{word.example.japanese}</p>
+      {word.example.korean && <p className="example-translation">{word.example.korean}</p>}
+      {word.example.sourceId && (
+        <a className="example-source" href={`https://tatoeba.org/en/sentences/show/${word.example.sourceId}`}
+          target="_blank" rel="noreferrer">예문 원문</a>
+      )}
+    </div>
+  );
+}
+
 function MiniCard({ word }: { word: Word }) {
   return (
     <article className="mini-card">
@@ -161,6 +153,8 @@ function MiniCard({ word }: { word: Word }) {
         <span>{word.reading}</span>
       </div>
       <p className="mini-meaning">{word.meaning}</p>
+      {word.meaningDetail && <p className="meaning-detail">{word.meaningDetail}</p>}
+      <ExampleSentence word={word} compact />
     </article>
   );
 }
@@ -171,7 +165,9 @@ export function StudyApp() {
   const [screen, setScreen] = useState<Screen>("home");
   const [selectedLevels, setSelectedLevels] = useState<Level[]>(["N5"]);
   const [selectedKinds, setSelectedKinds] = useState<Kind[]>(["kanji", "kana"]);
-  const [studyCount, setStudyCount] = useState(20);
+  const [studyCount, setStudyCount] = useState(MIN_STUDY_COUNT);
+  const [studyMode, setStudyMode] = useState<"round" | "single">("round");
+  const [isSingleStudy, setIsSingleStudy] = useState(false);
   const [rounds, setRounds] = useState<StudyRound[]>([]);
   const [attempts, setAttempts] = useState<QuizAttempt[]>([]);
   const [hasHydrated, setHasHydrated] = useState(false);
@@ -189,6 +185,11 @@ export function StudyApp() {
   const [selectedAnswer, setSelectedAnswer] = useState("");
   const [result, setResult] = useState({ correct: 0, total: 0 });
   const [transferStatus, setTransferStatus] = useState("");
+  const answerTimer = useRef<number | null>(null);
+
+  useEffect(() => () => {
+    if (answerTimer.current) clearTimeout(answerTimer.current);
+  }, []);
 
   useEffect(() => {
     fetch("/data/vocabulary.json")
@@ -211,17 +212,23 @@ export function StudyApp() {
 
   useEffect(() => {
     if (!hasHydrated) return;
-    window.localStorage.setItem(STORAGE_KEY, JSON.stringify({ rounds, attempts }));
+    let errorTimer: number | undefined;
+    try {
+      window.localStorage.setItem(STORAGE_KEY, JSON.stringify({ rounds, attempts }));
+    } catch {
+      errorTimer = window.setTimeout(() => {
+        setTransferStatus("기록을 기기에 저장하지 못했습니다. 기록 내보내기로 보관해 주세요.");
+      }, 0);
+    }
+    return () => clearTimeout(errorTimer);
   }, [rounds, attempts, hasHydrated]);
 
-  const wordsById = useMemo(
-    () => new Map((data?.words ?? []).map((word) => [word.id, word])),
-    [data],
-  );
+  const wordsById = useMemo(() => indexWords(data), [data]);
 
   const learnedIds = useMemo(
-    () => new Set(rounds.flatMap((round) => round.wordIds)),
-    [rounds],
+    () => new Set(rounds.flatMap((round) => round.wordIds)
+      .map((id) => wordsById.get(id)?.id).filter((id): id is string => Boolean(id))),
+    [rounds, wordsById],
   );
 
   const learnedCount = learnedIds.size;
@@ -250,9 +257,9 @@ export function StudyApp() {
         .filter((round) => reviewRoundIds.includes(round.id))
         .flatMap((round) => round.wordIds),
     );
-    return [...ids]
+    return uniqueWords([...ids]
       .map((id) => wordsById.get(id))
-      .filter((word): word is Word => Boolean(word));
+      .filter((word): word is Word => Boolean(word)));
   }, [reviewRoundIds, rounds, wordsById]);
 
   const filteredReviewWords = useMemo(() => {
@@ -269,7 +276,7 @@ export function StudyApp() {
     );
     return roundWords.filter((word) =>
       matchingRoundWordIds.has(word.id) ||
-      [word.expression, word.reading, word.meaning, word.level]
+      [word.expression, word.reading, word.meaning, word.meaningDetail ?? "", word.level]
         .join(" ")
         .toLocaleLowerCase()
         .includes(query),
@@ -281,9 +288,10 @@ export function StudyApp() {
     const correct =
       quizStage === "reading" ? currentQuizWord.reading : currentQuizWord.meaning;
     const values = data.words
-      .filter((word) => word.id !== currentQuizWord.id)
+      .filter((word) => word.id !== currentQuizWord.id && word.expression !== currentQuizWord.expression)
       .map((word) => (quizStage === "reading" ? word.reading : word.meaning))
-      .filter((value) => value && value !== correct);
+      .filter((value) => value && value !== correct &&
+        (quizStage === "reading" || !meaningsOverlap(correct, value)));
     const distractors = shuffle([...new Set(values)]).slice(0, 3);
     return shuffle([correct, ...distractors]);
   }, [currentQuizWord, data, quizStage]);
@@ -309,12 +317,14 @@ export function StudyApp() {
   }
 
   function goHome() {
+    if (answerTimer.current) clearTimeout(answerTimer.current);
     setScreen("home");
     setActiveRoundId(null);
     window.scrollTo({ top: 0, behavior: "smooth" });
   }
 
   function openReview() {
+    if (answerTimer.current) clearTimeout(answerTimer.current);
     setReviewRoundIds(rounds.map((round) => round.id));
     setReviewQuery("");
     setScreen("review");
@@ -366,6 +376,7 @@ export function StudyApp() {
       }
 
       window.localStorage.setItem(STORAGE_KEY, JSON.stringify(imported));
+      if (answerTimer.current) clearTimeout(answerTimer.current);
       setRounds(imported.rounds);
       setAttempts(imported.attempts);
       setReviewRoundIds([]);
@@ -384,13 +395,38 @@ export function StudyApp() {
 
   function startStudy() {
     if (!data || selectedPool.length === 0) return;
-    const unseen = shuffle(selectedPool.filter((word) => !learnedIds.has(word.id)));
-    const studied = shuffle(selectedPool.filter((word) => learnedIds.has(word.id)));
-    setStudyWords([...unseen, ...studied].slice(0, Math.min(studyCount, selectedPool.length)));
+    const ordered = prioritizeUnseen(selectedPool, learnedIds);
+    const single = studyMode === "single";
+    setStudyWords(single ? ordered : ordered.slice(0, studyCount));
     setStudyIndex(0);
-    setActiveRoundId(null);
+    setIsSingleStudy(single);
+    if (single) {
+      const id = `round-${crypto.randomUUID()}`;
+      setActiveRoundId(id);
+      setRounds((current) => [...current, {
+        id,
+        number: current.reduce((max, round) => Math.max(max, round.number), 0) + 1,
+        createdAt: new Date().toISOString(),
+        wordIds: [ordered[0].id],
+      }]);
+    } else {
+      setActiveRoundId(null);
+    }
     setScreen("study");
     window.scrollTo({ top: 0, behavior: "smooth" });
+  }
+
+  function moveStudyCard(index: number) {
+    const nextIndex = Math.max(0, Math.min(studyWords.length - 1, index));
+    setStudyIndex(nextIndex);
+    if (isSingleStudy && activeRoundId) {
+      const nextWord = studyWords[nextIndex];
+      setRounds((current) => current.map((round) =>
+        round.id === activeRoundId
+          ? { ...round, wordIds: [...new Set([...round.wordIds, nextWord.id])] }
+          : round,
+      ));
+    }
   }
 
   function saveCurrentRound(): string {
@@ -417,6 +453,7 @@ export function StudyApp() {
   }
 
   function beginQuiz(values: Word[]) {
+    if (answerTimer.current) clearTimeout(answerTimer.current);
     const nextWords = shuffle(uniqueWords(values));
     if (nextWords.length === 0) return;
     setQuizWords(nextWords);
@@ -474,7 +511,7 @@ export function StudyApp() {
     setQuizCorrect(nextCorrect);
     setWrongWordIds(nextWrongIds);
 
-    window.setTimeout(() => {
+    answerTimer.current = window.setTimeout(() => {
       if (quizStage === "reading" && isCorrect) {
         setQuizStage("meaning");
         setSelectedAnswer("");
@@ -519,7 +556,7 @@ export function StudyApp() {
         <div className="loading-state">
           <div>
             <strong>{loadError ? "불러오기에 실패했습니다" : "단어장을 펼치는 중"}</strong>
-            {loadError || "N5부터 N2까지 학습할 단어를 준비하고 있어요."}
+            {loadError || "N5부터 N1까지 학습할 단어를 준비하고 있어요."}
           </div>
         </div>
       </main>
@@ -541,8 +578,8 @@ export function StudyApp() {
                 <em>전부 맞힐 때까지.</em>
               </h1>
               <p className="hero-copy">
-                N5부터 N2까지 필요한 만큼만 빠르게 보고, 4지선다 퀴즈로 바로
-                확인하세요. 틀린 단어는 다시 루프에 들어옵니다.
+                N5부터 N1까지, 5개부터 공부하거나 한 단어씩 가볍게 넘겨보세요.
+                뜻과 예문으로 익히고, 퀴즈로 다시 확인하세요.
               </p>
               <div className="hero-stats" aria-label="학습 통계">
                 <div className="stat-chip">
@@ -610,7 +647,28 @@ export function StudyApp() {
                 </div>
               </div>
 
-              <div className="field-group">
+              <fieldset className="field-group study-mode-options">
+                <legend className="field-label">학습 방식</legend>
+                <div className="choice-row">
+                  <label className="choice-chip wide">
+                    <input type="radio" name="study-mode" value="round"
+                      checked={studyMode === "round"} onChange={() => setStudyMode("round")} />
+                    묶음 학습
+                  </label>
+                  <label className="choice-chip wide">
+                    <input type="radio" name="study-mode" value="single"
+                      checked={studyMode === "single"} onChange={() => setStudyMode("single")} />
+                    한 단어씩 보기
+                  </label>
+                </div>
+                <p className="mode-description">
+                  {studyMode === "single"
+                    ? "통학 중 잠깐씩, 다음 버튼으로 한 단어씩. 본 단어는 바로 저장됩니다."
+                    : "5~50개 단어를 익힌 뒤 퀴즈로 확인하세요."}
+                </p>
+              </fieldset>
+
+              {studyMode === "round" && <div className="field-group">
                 <div className="field-label">
                   <label htmlFor="study-count">한 번에 공부할 단어</label>
                   <span>새 단어 {unseenCount.toLocaleString("ko-KR")}개 남음</span>
@@ -619,14 +677,14 @@ export function StudyApp() {
                   <input
                     id="study-count"
                     type="range"
-                    min="10"
-                    max="50"
+                    min={MIN_STUDY_COUNT}
+                    max={MAX_STUDY_COUNT}
                     step="5"
                     value={studyCount}
                     onChange={(event) => setStudyCount(Number(event.target.value))}
                     style={
                       {
-                        "--range-progress": `${((studyCount - 10) / 40) * 100}%`,
+                        "--range-progress": `${((studyCount - MIN_STUDY_COUNT) / (MAX_STUDY_COUNT - MIN_STUDY_COUNT)) * 100}%`,
                       } as CSSProperties
                     }
                   />
@@ -634,16 +692,16 @@ export function StudyApp() {
                     {studyCount}
                   </output>
                 </div>
-              </div>
+              </div>}
 
               <div className="setup-actions">
                 <button
                   className="primary-button"
                   type="button"
                   onClick={startStudy}
-                  disabled={selectedPool.length === 0}
+                  disabled={!hasHydrated || selectedPool.length === 0}
                 >
-                  학습 시작 <span aria-hidden="true">→</span>
+                  {studyMode === "single" ? "한 단어씩 시작" : "학습 시작"} <span aria-hidden="true">→</span>
                 </button>
                 <button className="secondary-button" type="button" onClick={openReview}>
                   복습
@@ -656,13 +714,15 @@ export function StudyApp() {
       )}
 
       {screen === "study" && currentStudyWord && (
-        <section className="page-wrap">
+        <section className={`page-wrap ${isSingleStudy ? "single-study" : ""}`}>
           <div className="page-head">
             <div>
-              <p className="eyebrow">Study round</p>
-              <h1>천천히 보고, 빠르게 넘기기</h1>
+              <p className="eyebrow">{isSingleStudy ? "A word at a time" : "Study round"}</p>
+              <h1>{isSingleStudy ? "잠깐, 한 단어" : "천천히 보고, 빠르게 넘기기"}</h1>
               <p>
-                {studyIndex + 1} / {studyWords.length}번째 단어
+                {isSingleStudy
+                  ? `${studyIndex + 1}번째 단어 · 본 단어는 자동 저장돼요`
+                  : `${studyIndex + 1} / ${studyWords.length}번째 단어`}
               </p>
             </div>
           </div>
@@ -687,20 +747,26 @@ export function StudyApp() {
               <div className="meaning-box">
                 <small>MEANING</small>
                 <strong>{currentStudyWord.meaning}</strong>
+                {currentStudyWord.meaningDetail && <p className="meaning-detail">{currentStudyWord.meaningDetail}</p>}
               </div>
+              <ExampleSentence word={currentStudyWord} />
             </article>
 
             <aside className="radical-panel">
               <h2>부수 노트</h2>
-              <p>단어에 포함된 한자의 대표 부수를 함께 확인하세요.</p>
+              <p>원래 한자와 뜻에서 부수로 쓰이는 모양까지 확인하세요.</p>
               {currentStudyWord.radicals.length > 0 ? (
                 <div className="radical-list">
                   {currentStudyWord.radicals.map((radical) => (
                     <div className="radical-item" key={`${radical.kanji}-${radical.symbol}`}>
-                      <span className="radical-symbol">{radical.symbol}</span>
                       <span className="radical-copy">
                         <strong>{radical.kanji}의 대표 부수</strong>
-                        <span>{radical.meaning}</span>
+                        <span className="radical-transformation">
+                          <span lang="ja" className="radical-original">{radical.original}</span>
+                          <span className="radical-meaning">({radical.meaning})</span>
+                          <span aria-label="에서" className="radical-arrow">→</span>
+                          <span lang="ja" className="radical-symbol">{radical.variant}</span>
+                        </span>
                       </span>
                     </div>
                   ))}
@@ -716,30 +782,30 @@ export function StudyApp() {
               <button
                 className="secondary-button"
                 type="button"
-                onClick={() => setStudyIndex((index) => Math.max(0, index - 1))}
+                onClick={() => moveStudyCard(studyIndex - 1)}
                 disabled={studyIndex === 0}
               >
                 이전
               </button>
               <button
-                className="secondary-button"
+                className={isSingleStudy ? "primary-button" : "secondary-button"}
                 type="button"
-                onClick={() =>
-                  setStudyIndex((index) => Math.min(studyWords.length - 1, index + 1))
-                }
+                onClick={() => moveStudyCard(studyIndex + 1)}
                 disabled={studyIndex === studyWords.length - 1}
               >
-                다음
+                {isSingleStudy ? "다음 단어" : "다음"}
               </button>
             </div>
-            <div className="button-pair">
+            {isSingleStudy ? (
+              <button className="secondary-button" type="button" onClick={goHome}>여기까지 보기</button>
+            ) : <div className="button-pair">
               <button className="secondary-button" type="button" onClick={() => finishStudy(false)}>
                 학습 종료
               </button>
               <button className="primary-button" type="button" onClick={() => finishStudy(true)}>
                 바로 풀어보기
               </button>
-            </div>
+            </div>}
           </div>
         </section>
       )}

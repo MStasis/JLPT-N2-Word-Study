@@ -1,0 +1,1499 @@
+[
+  {
+    "id": "n5-b89b869b",
+    "level": "N5",
+    "expression": "ああ",
+    "reading": "ああ",
+    "key": "ああ\tああ",
+    "example": {
+      "japanese": "ああ、やっと探していた本が見つかった。",
+      "korean": "아, 드디어 찾던 책을 찾았다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Interjection, not deictic adverb ああだ.",
+    "previousExample": {
+      "japanese": "ある人はこうだと言い、またある人はああだと言う。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "229847"
+    }
+  },
+  {
+    "id": "n5-9087f3e5",
+    "level": "N5",
+    "expression": "生まれる",
+    "reading": "うまれる",
+    "key": "生まれる\tうまれる",
+    "example": {
+      "japanese": "妹は去年、この町で生まれた。",
+      "korean": "여동생은 작년에 이 마을에서 태어났다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Use the actual verb 生まれる, rather than the derived noun 生まれ.",
+    "previousExample": {
+      "japanese": "あなたは何座生まれですか。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "232211"
+    }
+  },
+  {
+    "id": "n5-501b3b1d",
+    "level": "N5",
+    "expression": "〜さん",
+    "reading": "〜さん",
+    "key": "〜さん\t〜さん",
+    "example": {
+      "japanese": "田中さんは毎朝、電車で会社へ行く。",
+      "korean": "다나카 씨는 매일 아침 전철로 회사에 간다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Name suffix さん, not homophone 酸.",
+    "previousExample": {
+      "japanese": "その物質は酸で処理しなければならない。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "206886"
+    }
+  },
+  {
+    "id": "n5-920da008",
+    "level": "N5",
+    "expression": "四",
+    "reading": "し",
+    "key": "四\tし",
+    "example": {
+      "japanese": "新しい学校は四月から始まる。",
+      "korean": "새 학교는 4월부터 시작한다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "四月 gives the intended し reading; 四マイル normally uses よん.",
+    "previousExample": {
+      "japanese": "その湖は直径四マイルである。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "210847",
+      "author": "KK_kaku_"
+    }
+  },
+  {
+    "id": "n5-b7a1b020",
+    "level": "N5",
+    "expression": "そう; そうです",
+    "reading": "そう; そうです",
+    "key": "そう; そうです\tそう; そうです",
+    "example": {
+      "japanese": "「明日は休みですか。」「はい、そうです。」",
+      "korean": "“내일은 쉬는 날인가요?” “네, 그렇습니다.”",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "そうです as agreement; correct the Korean gloss separately.",
+    "previousExample": {
+      "japanese": "「腰は痛む？」「いや、別に」「そう、それは不幸中の幸いね」",
+      "source": "jmdict-tatoeba",
+      "sourceId": "76993",
+      "author": "mookeee"
+    },
+    "meaning": "그렇다; 그래요",
+    "meaningDetail": "상대의 말에 동의하거나 앞에서 언급한 내용을 가리킨다. …인 모양이다라는 추측의 そうだ와 구별한다.",
+    "previousMeaning": "~인 모양이다, ~인 것 같다",
+    "meaningReview": "Korean sense reconciled against the Japanese expression and exact reading in the displayed context."
+  },
+  {
+    "id": "n5-98ada960",
+    "level": "N5",
+    "expression": "そうして; そして",
+    "reading": "そうして; そして",
+    "key": "そうして; そして\tそうして; そして",
+    "example": {
+      "japanese": "宿題を終えた。そして、友達と公園へ行った。",
+      "korean": "숙제를 끝냈다. 그리고 친구와 공원에 갔다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Conjunction そして, not action そうしてくれる.",
+    "previousExample": {
+      "japanese": "そうしてくれて君は親切ですね。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "213882"
+    }
+  },
+  {
+    "id": "n5-c517a11e",
+    "level": "N5",
+    "expression": "十",
+    "reading": "とお",
+    "key": "十\tとお",
+    "example": {
+      "japanese": "とおまで数えてから、目を開けてください。",
+      "korean": "열까지 센 다음 눈을 떠 주세요.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Kana makes the intended とお reading explicit; 十時 is じゅうじ.",
+    "previousExample": {
+      "japanese": "その会は十時に終わった。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "211902"
+    }
+  },
+  {
+    "id": "n5-b87aabeb",
+    "level": "N5",
+    "expression": "止まる",
+    "reading": "とまる",
+    "key": "止まる\tとまる",
+    "example": {
+      "japanese": "赤信号で車が止まった。",
+      "korean": "빨간 신호에 차가 멈췄다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "止まる とまる, not とどまる.",
+    "previousExample": {
+      "japanese": "十分な情報を受け取ることができなかったという理由も一部にはあって、ハーパーの描写は不完全なものにとどまっている。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "148045"
+    },
+    "meaning": "멈추다; 정지하다",
+    "meaningDetail": "움직임이나 작동이 그치다.",
+    "previousMeaning": "서다",
+    "meaningReview": "Korean sense reconciled against the Japanese expression and exact reading in the displayed context."
+  },
+  {
+    "id": "n4-2ee8fb83",
+    "level": "N4",
+    "expression": "だめ",
+    "reading": "だめ",
+    "key": "だめ\tだめ",
+    "example": {
+      "japanese": "ここに車を止めてはだめです。",
+      "korean": "여기에 차를 세우면 안 됩니다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Everyday だめ prohibition; previous Korean Go-board gloss was unsuitable.",
+    "previousExample": {
+      "japanese": "去年はジョギングシューズを２足駄目にした。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "182216"
+    },
+    "meaning": "안됨; 소용없음; 해서는 안됨",
+    "meaningDetail": "일상에서는 불가능·금지·쓸모없음을 나타낸다. 바둑의 공배는 전문적인 다른 용법이다.",
+    "previousMeaning": "(바둑의) 공배(空排)",
+    "meaningReview": "Korean sense reconciled against the Japanese expression and exact reading in the displayed context."
+  },
+  {
+    "id": "n4-989396ad",
+    "level": "N4",
+    "expression": "だから",
+    "reading": "だから",
+    "key": "だから\tだから",
+    "example": {
+      "japanese": "今日は雨だ。だから、傘を持っていこう。",
+      "korean": "오늘은 비가 온다. 그러니 우산을 가져가자.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Conjunction だから, rather than explanatory copula + particle のだから.",
+    "previousExample": {
+      "japanese": "１日中テニスをしていたのだから。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "235690",
+      "author": "e4zh1nmcz"
+    }
+  },
+  {
+    "id": "n4-d9d1b5af",
+    "level": "N4",
+    "expression": "捨てる",
+    "reading": "すてる",
+    "key": "捨てる\tすてる",
+    "example": {
+      "japanese": "使わない紙は、この箱に捨ててください。",
+      "korean": "쓰지 않는 종이는 이 상자에 버려 주세요.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Direct verb 捨てる instead of the derived compound 聞き捨て.",
+    "previousExample": {
+      "japanese": "私はあなたの皮肉な言葉は聞き捨てにはできません。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "161647"
+    }
+  },
+  {
+    "id": "n4-e3e662f7",
+    "level": "N4",
+    "expression": "空く",
+    "reading": "あく",
+    "key": "空く\tあく",
+    "example": {
+      "japanese": "次の駅で、隣の席が空いた。",
+      "korean": "다음 역에서 옆자리가 비었다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Vacancy 空く, not a door opening 開く.",
+    "previousExample": {
+      "japanese": "ぐいと押すとドアは開いた。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "225720"
+    }
+  },
+  {
+    "id": "n4-356d8174",
+    "level": "N4",
+    "expression": "あ",
+    "reading": "あ",
+    "key": "あ\tあ",
+    "example": {
+      "japanese": "あ、机の下に鍵が落ちている。",
+      "korean": "아, 책상 아래에 열쇠가 떨어져 있다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Interjection あ, not the first syllable of 与えよ.",
+    "previousExample": {
+      "japanese": "われに自由を与えよ。しからずんば死を与えよ。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "191748"
+    },
+    "meaning": "아!; 어!",
+    "meaningDetail": "무엇을 문득 알아채거나 놀랐을 때 내는 소리.",
+    "previousMeaning": "에구",
+    "meaningReview": "Korean sense reconciled against the Japanese expression and exact reading in the displayed context."
+  },
+  {
+    "id": "n3-6c102ee6",
+    "level": "N3",
+    "expression": "遭う",
+    "reading": "あう",
+    "key": "遭う\tあう",
+    "example": {
+      "japanese": "帰り道で大雨に遭った。",
+      "korean": "돌아오는 길에 큰비를 만났다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Unwelcome encounter 遭う, not ordinary 会う.",
+    "previousExample": {
+      "japanese": "前に彼にあったのを覚えている。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "140993"
+    },
+    "meaning": "당하다; 겪다; 뜻밖의 일을 만나다",
+    "meaningDetail": "주로 사고·재난·곤란한 일을 만나거나 겪을 때 쓴다. 사람을 만나는 会う와 구별한다.",
+    "previousMeaning": "만나다",
+    "meaningReview": "Korean sense reconciled against the Japanese expression and exact reading in the displayed context."
+  },
+  {
+    "id": "n3-fb23f31e",
+    "level": "N3",
+    "expression": "魚",
+    "reading": "うお",
+    "key": "魚\tうお",
+    "example": {
+      "japanese": "新しい職場で、彼は水を得た魚のように働いている。",
+      "korean": "새 직장에서 그는 물 만난 물고기처럼 일하고 있다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "The idiom 水を得た魚 conventionally gives the うお reading.",
+    "previousExample": {
+      "japanese": "こうして私はいつも魚を料理する。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "225005"
+    }
+  },
+  {
+    "id": "n3-48bba925",
+    "level": "N3",
+    "expression": "映る",
+    "reading": "うつる",
+    "key": "映る\tうつる",
+    "example": {
+      "japanese": "窓ガラスに、夕焼けの空が映っている。",
+      "korean": "창유리에 저녁노을이 진 하늘이 비치고 있다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Intransitive 映る, not transitive 映して.",
+    "previousExample": {
+      "japanese": "自分の姿を鏡にうつして見なさい。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "149832"
+    }
+  },
+  {
+    "id": "n3-537316d2",
+    "level": "N3",
+    "expression": "ミス",
+    "reading": "ミス",
+    "key": "ミス\tミス",
+    "example": {
+      "japanese": "計算のミスに気づいて、答えを書き直した。",
+      "korean": "계산 실수를 알아채고 답을 다시 썼다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Mistake ミス, not Miss as a title.",
+    "previousExample": {
+      "japanese": "山田さん、ミス・ロイドを紹介します。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "169382"
+    }
+  },
+  {
+    "id": "n3-5e1c8962",
+    "level": "N3",
+    "expression": "明後日",
+    "reading": "みょうごにち",
+    "key": "明後日\tみょうごにち",
+    "example": {
+      "japanese": "明後日、改めてご連絡いたします。",
+      "korean": "모레 다시 연락드리겠습니다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Formal written 明後日 supports みょうごにち; the old example explicitly said あさって.",
+    "previousExample": {
+      "japanese": "あさって彼にここへ来てもらうつもりです。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "234491",
+      "author": "Yassan"
+    }
+  },
+  {
+    "id": "n3-e4c87fbd",
+    "level": "N3",
+    "expression": "読み",
+    "reading": "よみ",
+    "key": "読み\tよみ",
+    "example": {
+      "japanese": "この漢字の読みを教えてください。",
+      "korean": "이 한자의 읽는 법을 알려 주세요.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Noun 読み, not the verbal stem in 読み終える.",
+    "previousExample": {
+      "japanese": "この厚い本は１週間では読み終えられない。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "221992"
+    }
+  },
+  {
+    "id": "n3-cd965dec",
+    "level": "N3",
+    "expression": "経緯",
+    "reading": "けいい",
+    "key": "経緯\tけいい",
+    "example": {
+      "japanese": "事故が起きた経緯を、順番に説明した。",
+      "korean": "사고가 일어난 경위를 순서대로 설명했다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Use the intended 経緯 けいい; previous example explicitly used いきさつ.",
+    "previousExample": {
+      "japanese": "彼女が今の名声を得るに至ったいきさつは劇的である。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "95424"
+    }
+  },
+  {
+    "id": "n3-ae1f6248",
+    "level": "N3",
+    "expression": "だが",
+    "reading": "だが",
+    "key": "だが\tだが",
+    "example": {
+      "japanese": "空は晴れている。だが、風はまだ冷たい。",
+      "korean": "하늘은 맑다. 하지만 바람은 아직 차갑다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Standalone conjunction だが rather than a clause ending のだが.",
+    "previousExample": {
+      "japanese": "あなたに手紙を書くつもりだったのだが。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "233678"
+    }
+  },
+  {
+    "id": "n3-8c272f5f",
+    "level": "N3",
+    "expression": "ですから",
+    "reading": "ですから",
+    "key": "ですから\tですから",
+    "example": {
+      "japanese": "この薬は眠くなります。ですから、運転は避けてください。",
+      "korean": "이 약은 졸리게 합니다. 그러므로 운전은 피하세요.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Conjunction ですから rather than causal copula + から.",
+    "previousExample": {
+      "japanese": "いいえ、結構です。お腹が一杯ですから。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "229459"
+    }
+  },
+  {
+    "id": "n3-abb5cc40",
+    "level": "N3",
+    "expression": "計る",
+    "reading": "はかる",
+    "key": "計る\tはかる",
+    "example": {
+      "japanese": "ストップウォッチで走る時間を計った。",
+      "korean": "스톱워치로 달리는 시간을 쟀다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Time measurement 計る instead of an ambiguous figurative はかる.",
+    "previousExample": {
+      "japanese": "優れた教育の価値は金銭でははかれない。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "79423"
+    }
+  },
+  {
+    "id": "n3-a4929896",
+    "level": "N3",
+    "expression": "量る",
+    "reading": "はかる",
+    "key": "量る\tはかる",
+    "example": {
+      "japanese": "料理の前に、小麦粉の重さを量った。",
+      "korean": "요리하기 전에 밀가루의 무게를 쟀다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Weight measurement 量る.",
+    "previousExample": {
+      "japanese": "優れた教育の価値は金銭でははかれない。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "79423"
+    }
+  },
+  {
+    "id": "n3-b4235a57",
+    "level": "N3",
+    "expression": "測る",
+    "reading": "はかる",
+    "key": "測る\tはかる",
+    "example": {
+      "japanese": "看護師が患者の体温を測った。",
+      "korean": "간호사가 환자의 체온을 쟀다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Physical measurement 測る.",
+    "previousExample": {
+      "japanese": "優れた教育の価値は金銭でははかれない。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "79423"
+    }
+  },
+  {
+    "id": "n3-4ce4346b",
+    "level": "N3",
+    "expression": "一人一人",
+    "reading": "ひとりひとり",
+    "key": "一人一人\tひとりひとり",
+    "example": {
+      "japanese": "先生は生徒一人一人の名前を呼んだ。",
+      "korean": "선생님은 학생 한 사람 한 사람의 이름을 불렀다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Replaces the awkward corpus wording 大声でとりついた.",
+    "previousExample": {
+      "japanese": "メイドは客を一人一人大声でとりついた。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "194689"
+    }
+  },
+  {
+    "id": "n2-7480503a",
+    "level": "N2",
+    "expression": "〜一",
+    "reading": "〜いち",
+    "key": "〜一\t〜いち",
+    "example": {
+      "japanese": "彼は日本一高い山に登った。",
+      "korean": "그는 일본에서 가장 높은 산에 올랐다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Suffix 一 いち indicating number one; previous example used unrelated 位置.",
+    "previousExample": {
+      "japanese": "彼の事務所は町の中心部に位置している。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "117134",
+      "author": "Blanka_Meduzo"
+    }
+  },
+  {
+    "id": "n2-06142513",
+    "level": "N2",
+    "expression": "〜画",
+    "reading": "〜が",
+    "key": "〜画\t〜が",
+    "example": {
+      "japanese": "日本画と洋画では、使う材料が違う。",
+      "korean": "일본화와 서양화는 사용하는 재료가 다르다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Suffix 画 が, not the alternate noun 絵 え.",
+    "previousExample": {
+      "japanese": "あの絵を壁に掛けなさい。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "231126"
+    }
+  },
+  {
+    "id": "n2-27e35929",
+    "level": "N2",
+    "expression": "〜歩",
+    "reading": "〜ほ",
+    "key": "〜歩\t〜ほ",
+    "example": {
+      "japanese": "入口から三歩進むと、右に受付があります。",
+      "korean": "입구에서 세 걸음 가면 오른쪽에 접수대가 있습니다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Counter 歩 ほ, rather than a bare noun 歩.",
+    "previousExample": {
+      "japanese": "彼女に追いつくために私は歩を速めた。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "94787"
+    }
+  },
+  {
+    "id": "n2-c84102a0",
+    "level": "N2",
+    "expression": "〜方",
+    "reading": "〜ほう",
+    "key": "〜方\t〜ほう",
+    "example": {
+      "japanese": "こちらの方が、駅に近くて便利です。",
+      "korean": "이쪽이 역에 가까워서 편리합니다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Comparative 方 ほう, not homophone 報.",
+    "previousExample": {
+      "japanese": "国民全体は国王死去の報を聞いて悲しんだ。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "173018"
+    }
+  },
+  {
+    "id": "n2-048b5236",
+    "level": "N2",
+    "expression": "いってきます",
+    "reading": "いってきます",
+    "key": "いってきます\tいってきます",
+    "example": {
+      "japanese": "玄関で母に「いってきます」と声をかけた。",
+      "korean": "현관에서 어머니에게 “다녀오겠습니다”라고 인사했다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Actual departure greeting.",
+    "previousExample": {
+      "japanese": "一時間したら行ってきます。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "150614",
+      "author": "xtofu80"
+    }
+  },
+  {
+    "id": "n2-e53d2621",
+    "level": "N2",
+    "expression": "伯父",
+    "reading": "おじ",
+    "key": "伯父\tおじ",
+    "example": {
+      "japanese": "伯父は父より五歳年上で、近くに住んでいる。",
+      "korean": "큰아버지는 아버지보다 다섯 살 많고 가까운 곳에 살고 계신다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Explicit older relative, rather than ambiguous おじさん.",
+    "previousExample": {
+      "japanese": "おじさんがぼくにカメラをくれました。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "227734"
+    },
+    "meaning": "큰아버지; 큰외삼촌",
+    "meaningDetail": "부모의 형이나 손위 남자 형제를 가리킨다. 남의 일반적인 중년 남성은 보통 おじさん이라 한다.",
+    "previousMeaning": "아저씨",
+    "meaningReview": "Korean sense reconciled against the Japanese expression and exact reading in the displayed context."
+  },
+  {
+    "id": "n2-e49a8098",
+    "level": "N2",
+    "expression": "叔父",
+    "reading": "おじ",
+    "key": "叔父\tおじ",
+    "example": {
+      "japanese": "父の弟である叔父が、週末に遊びに来る。",
+      "korean": "아버지의 동생인 작은아버지가 주말에 놀러 온다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Explicit younger relative, rather than ambiguous おじさん.",
+    "previousExample": {
+      "japanese": "おじさんがぼくにカメラをくれました。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "227734"
+    },
+    "meaning": "작은아버지; 부모보다 어린 삼촌",
+    "meaningDetail": "부모의 남동생을 가리킨다. 伯父와 읽기는 같지만 친족의 나이 관계가 다르다.",
+    "previousMeaning": "숙부",
+    "meaningReview": "Korean sense reconciled against the Japanese expression and exact reading in the displayed context."
+  },
+  {
+    "id": "n2-a6ad4545",
+    "level": "N2",
+    "expression": "御〜",
+    "reading": "おん〜",
+    "key": "御〜\tおん〜",
+    "example": {
+      "japanese": "御社の製品について詳しく教えてください。",
+      "korean": "귀사의 제품에 관해 자세히 알려 주세요.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "おん reading in 御社; previous example only had お.",
+    "previousExample": {
+      "japanese": "あいつはのらりくらりの仕事にお忙しい事だ。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "234633"
+    }
+  },
+  {
+    "id": "n2-214343cf",
+    "level": "N2",
+    "expression": "琴",
+    "reading": "きん",
+    "key": "琴\tきん",
+    "example": {
+      "japanese": "中国で、七弦の琴を習った。",
+      "korean": "중국에서 일곱 줄의 금을 배웠다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Chinese qin, not Japanese お琴 koto.",
+    "previousExample": {
+      "japanese": "お琴の魅力を分かってもらえて嬉しいです。ありがとう。",
+      "source": "tatoeba-substring",
+      "sourceId": "12015223",
+      "author": "small_snow"
+    }
+  },
+  {
+    "id": "n2-f5dae7c7",
+    "level": "N2",
+    "expression": "空〜",
+    "reading": "くう〜",
+    "key": "空〜\tくう〜",
+    "example": {
+      "japanese": "駅の前で空車のタクシーを見つけた。",
+      "korean": "역 앞에서 빈 택시를 찾았다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Empty-prefix 空 くう, not sky 空 そら.",
+    "previousExample": {
+      "japanese": "警棒で空をなぐりつけ、よろめいて体勢をたてなおしたガードマンは、自分に向かって突進してくる金網づくりのクズカゴを見た。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "76207",
+      "author": "mookeee"
+    }
+  },
+  {
+    "id": "n2-88d788f6",
+    "level": "N2",
+    "expression": "小便",
+    "reading": "しょうべん",
+    "key": "小便\tしょうべん",
+    "example": {
+      "japanese": "子どもが「小便に行きたい」と言った。",
+      "korean": "아이가 “오줌 누러 가고 싶다”고 말했다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Straightforward しょうべん use instead of a compressed poem with しょんべん.",
+    "previousExample": {
+      "japanese": "朝立ちやしょんべんまでの命かな。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "75869",
+      "author": "mookeee"
+    }
+  },
+  {
+    "id": "n1-cdecf9313b",
+    "level": "N1",
+    "expression": "獣",
+    "reading": "けだもの",
+    "key": "獣\tけだもの",
+    "example": {
+      "japanese": "弱い者を傷つけるなんて、まるでけだものだ。",
+      "korean": "약한 사람을 해치다니, 마치 짐승 같다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Explicit けだもの, rather than compound 獣 read じゅう.",
+    "previousExample": {
+      "japanese": "世界で、鹿やムースやキジといった野性獣を狩ることは違法とする国が多い。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "143463"
+    }
+  },
+  {
+    "id": "n1-12c00cac96",
+    "level": "N1",
+    "expression": "獣",
+    "reading": "けもの",
+    "key": "獣\tけもの",
+    "example": {
+      "japanese": "森の奥から獣の鳴き声が聞こえた。",
+      "korean": "숲속 깊은 곳에서 짐승의 울음소리가 들렸다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Standalone 獣 けもの, not the suffix reading じゅう in 野生獣.",
+    "previousExample": {
+      "japanese": "世界で、鹿やムースやキジといった野性獣を狩ることは違法とする国が多い。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "143463"
+    }
+  },
+  {
+    "id": "n1-2f2f1e54a1",
+    "level": "N1",
+    "expression": "受け入れ",
+    "reading": "うけいれ",
+    "key": "受け入れ\tうけいれ",
+    "example": {
+      "japanese": "この病院は新しい患者の受け入れを始めた。",
+      "korean": "이 병원은 새로운 환자의 수용을 시작했다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Clear noun 受け入れ; previous sentence had awkward duplicated wording.",
+    "previousExample": {
+      "japanese": "彼は彼らの受け入れ方接待のしかたが気にいらないのだ。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "101135"
+    },
+    "meaning": "수용; 받아들임",
+    "meaningDetail": "사람·의견·요청 등을 받아들이는 일. 몸으로 끌어안는 포옹과 구별한다.",
+    "previousMeaning": "포옹",
+    "meaningReview": "Korean sense reconciled against the Japanese expression and exact reading in the displayed context."
+  },
+  {
+    "id": "n1-468e6ddaa1",
+    "level": "N1",
+    "expression": "害する",
+    "reading": "がいする",
+    "key": "害する\tがいする",
+    "example": {
+      "japanese": "睡眠不足は健康を害するおそれがある。",
+      "korean": "수면 부족은 건강을 해칠 우려가 있다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Actual verb 害する rather than bare noun 害.",
+    "previousExample": {
+      "japanese": "ワインは本来害にならない。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "192064"
+    }
+  },
+  {
+    "id": "n1-ac8a2c204a",
+    "level": "N1",
+    "expression": "かく",
+    "reading": "かく",
+    "key": "かく\tかく",
+    "example": {
+      "japanese": "人前で失敗して、恥をかいた。",
+      "korean": "사람들 앞에서 실수해서 창피를 당했다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "恥をかく, not unrelated 確たる.",
+    "previousExample": {
+      "japanese": "その会社は確たる理由もなく、彼を不採用にしました。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "211818"
+    }
+  },
+  {
+    "id": "n1-db3f947daf",
+    "level": "N1",
+    "expression": "首輪",
+    "reading": "くびわ",
+    "key": "首輪\tくびわ",
+    "example": {
+      "japanese": "散歩の前に、犬に新しい首輪をつけた。",
+      "korean": "산책 전에 개에게 새 목줄을 채웠다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Animal collar, not a human gold neck ring.",
+    "previousExample": {
+      "japanese": "彼は金の首輪と鳥の羽で作られたコートを着ていた。",
+      "source": "tatoeba-substring",
+      "sourceId": "108229"
+    }
+  },
+  {
+    "id": "n1-307fc237ed",
+    "level": "N1",
+    "expression": "いたって",
+    "reading": "いたって",
+    "key": "いたって\tいたって",
+    "example": {
+      "japanese": "祖父は八十歳だが、いたって元気だ。",
+      "korean": "할아버지는 여든 살이지만 매우 건강하시다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Adverb いたって, not 居たって.",
+    "previousExample": {
+      "japanese": "私がいたって彼がいうこと聞く訳ないじゃない。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "168060"
+    }
+  },
+  {
+    "id": "n1-448dd03fda",
+    "level": "N1",
+    "expression": "濯ぐ",
+    "reading": "すすぐ",
+    "key": "濯ぐ\tすすぐ",
+    "example": {
+      "japanese": "洗った服は、水でよくすすいでください。",
+      "korean": "빤 옷은 물로 잘 헹궈 주세요.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Explicit すすぐ conjugation; previous example explicitly used ゆすぐ.",
+    "previousExample": {
+      "japanese": "口をゆすいでください。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "173915",
+      "author": "bunbuku"
+    },
+    "meaning": "헹구다; 씻어 내다",
+    "meaningDetail": "옷·그릇·입 등에 남은 비누나 이물질을 물로 씻어 없애다.",
+    "previousMeaning": "가시다",
+    "meaningReview": "Korean sense reconciled against the Japanese expression and exact reading in the displayed context."
+  },
+  {
+    "id": "n1-a1f23bb573",
+    "level": "N1",
+    "expression": "進み",
+    "reading": "すすみ",
+    "key": "進み\tすすみ",
+    "example": {
+      "japanese": "工事の進みが遅く、完成は来月になりそうだ。",
+      "korean": "공사의 진척이 느려 완공은 다음 달이 될 것 같다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Noun 進み, not the verb stem in 大学へ進み.",
+    "previousExample": {
+      "japanese": "高校卒業後、彼は大学へ進み、父同様牧師になるための勉強をした。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "173200"
+    }
+  },
+  {
+    "id": "n1-24936dcb9e",
+    "level": "N1",
+    "expression": "制する",
+    "reading": "せいする",
+    "key": "制する\tせいする",
+    "example": {
+      "japanese": "彼は冷静な判断で試合を制した。",
+      "korean": "그는 냉정한 판단으로 경기에서 승리를 거두었다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Actual verb 制する, not the system suffix 制.",
+    "previousExample": {
+      "japanese": "その企業は週５日労働制を実施した。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "211570"
+    }
+  },
+  {
+    "id": "n1-e2fb8d2f9b",
+    "level": "N1",
+    "expression": "揃い",
+    "reading": "そろい",
+    "key": "揃い\tそろい",
+    "example": {
+      "japanese": "同じ柄の食器を一揃い買った。",
+      "korean": "같은 무늬의 식기를 한 세트 샀다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "A complete set 揃い rather than the group suffix in つわものぞろい.",
+    "previousExample": {
+      "japanese": "あのチームはつわものぞろいだ。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "76902",
+      "author": "mookeee"
+    },
+    "meaning": "한 벌; 한 세트; 갖추어짐",
+    "meaningDetail": "필요한 것들이 빠짐없이 모이거나 서로 같은 모습으로 갖추어진 상태.",
+    "previousMeaning": "벌",
+    "meaningReview": "Korean sense reconciled against the Japanese expression and exact reading in the displayed context."
+  },
+  {
+    "id": "n1-240ea1ab1b",
+    "level": "N1",
+    "expression": "題する",
+    "reading": "だいする",
+    "key": "題する\tだいする",
+    "example": {
+      "japanese": "彼は「旅の記憶」と題する本を書いた。",
+      "korean": "그는 “여행의 기억”이라는 제목의 책을 썼다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Actual verb 題する rather than bare noun 題.",
+    "previousExample": {
+      "japanese": "「友情」という題で作文を書きなさい。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "236141",
+      "author": "mookeee"
+    }
+  },
+  {
+    "id": "n1-1beb9f4dcf",
+    "level": "N1",
+    "expression": "～著",
+    "reading": "～ちょ",
+    "key": "～著\t～ちょ",
+    "example": {
+      "japanese": "夏目漱石著の小説を図書館で借りた。",
+      "korean": "나쓰메 소세키가 지은 소설을 도서관에서 빌렸다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Author suffix 著 rather than an unspecified book/work 著.",
+    "previousExample": {
+      "japanese": "階層問題に対する、消費社会論の著である。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "76277"
+    },
+    "meaning": "…지음; …저(著)",
+    "meaningDetail": "저자 이름 뒤에 붙어 그 사람이 쓴 책임을 나타낸다.",
+    "previousMeaning": "저",
+    "meaningReview": "Korean sense reconciled against the Japanese expression and exact reading in the displayed context."
+  },
+  {
+    "id": "n1-cef158bcdc",
+    "level": "N1",
+    "expression": "照り返す",
+    "reading": "てりかえす",
+    "key": "照り返す\tてりかえす",
+    "example": {
+      "japanese": "白い壁が強い日差しを照り返している。",
+      "korean": "흰 벽이 강한 햇빛을 반사하고 있다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Actual verb 照り返す rather than derived noun 照り返し.",
+    "previousExample": {
+      "japanese": "太陽の照り返しが強い。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "138131",
+      "author": "bunbuku"
+    },
+    "meaning": "반사하다; 되비추다",
+    "meaningDetail": "햇빛이나 열 등을 받아 반대 방향으로 비추다.",
+    "previousMeaning": "되쏘다",
+    "meaningReview": "Korean sense reconciled against the Japanese expression and exact reading in the displayed context."
+  },
+  {
+    "id": "n1-9f7bd18c6b",
+    "level": "N1",
+    "expression": "終始",
+    "reading": "しゅうし",
+    "key": "終始\tしゅうし",
+    "example": {
+      "japanese": "彼は会議の間、終始笑顔で話していた。",
+      "korean": "그는 회의 내내 웃는 얼굴로 이야기했다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Straightforward adverb 終始, aligned with the clarified Korean meaning.",
+    "previousExample": {
+      "japanese": "前の会社では何でも屋に終始したので今度は専門職に就きたい。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "140985"
+    },
+    "meaning": "시종; 처음부터 끝까지; 내내",
+    "meaningDetail": "어떤 행동이나 상태가 처음부터 끝까지 이어짐.",
+    "previousMeaning": "시종",
+    "meaningReview": "Korean sense reconciled against the Japanese expression and exact reading in the displayed context."
+  },
+  {
+    "id": "n1-7a3c92d5f7",
+    "level": "N1",
+    "expression": "恵み",
+    "reading": "めぐみ",
+    "key": "恵み\tめぐみ",
+    "example": {
+      "japanese": "私たちは毎日、海の恵みを食卓で味わっている。",
+      "korean": "우리는 매일 식탁에서 바다의 혜택을 누리고 있다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Actual noun 恵み rather than honorific verbal stem お恵みくださった.",
+    "previousExample": {
+      "japanese": "神は私に富をお恵みくださった。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "144912"
+    }
+  },
+  {
+    "id": "n1-d701cf2454",
+    "level": "N1",
+    "expression": "恵む",
+    "reading": "めぐむ",
+    "key": "恵む\tめぐむ",
+    "example": {
+      "japanese": "彼は食べ物に困っている人に、パンを恵んだ。",
+      "korean": "그는 먹을 것이 없어 곤란한 사람에게 빵을 베풀었다.",
+      "source": "kotoba-loop-original"
+    },
+    "reason": "Active verb 恵む, not the separate lexeme 恵まれる.",
+    "previousExample": {
+      "japanese": "さまざまな才能に恵まれて、なんでもそつなくこなす姉にとって、平々凡々たる俺の存在はひどく許せないものらしい。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "75455",
+      "author": "fcbond"
+    }
+  },
+  {
+    "id": "n5-6370f607",
+    "level": "N5",
+    "expression": "あの",
+    "reading": "あの",
+    "key": "あの\tあの",
+    "meaning": "저…; 그…",
+    "meaningDetail": "말하는 사람과 듣는 사람이 알고 있거나 둘에게서 떨어진 대상을 가리킨다. 말을 망설일 때는 저…라는 말로도 쓴다.",
+    "previousMeaning": "그",
+    "meaningReview": "Korean sense reconciled against the Japanese expression and exact reading in the displayed context."
+  },
+  {
+    "id": "n5-52489aaa",
+    "level": "N5",
+    "expression": "角",
+    "reading": "かど",
+    "key": "角\tかど",
+    "meaning": "모퉁이; 구석; 모서리",
+    "meaningDetail": "かど로 읽을 때의 뜻. 뿔을 뜻하는 つの와 구별한다.",
+    "previousMeaning": "코너",
+    "meaningReview": "Korean sense reconciled against the Japanese expression and exact reading in the displayed context."
+  },
+  {
+    "id": "n5-734b1c2e",
+    "level": "N5",
+    "expression": "つまらない",
+    "reading": "つまらない",
+    "key": "つまらない\tつまらない",
+    "meaning": "재미없다; 시시하다; 하찮다",
+    "meaningDetail": "흥미가 없거나 가치가 작다.",
+    "previousMeaning": "하찮다",
+    "meaningReview": "Korean sense reconciled against the Japanese expression and exact reading in the displayed context."
+  },
+  {
+    "id": "n5-58101667",
+    "level": "N5",
+    "expression": "登る",
+    "reading": "のぼる",
+    "key": "登る\tのぼる",
+    "meaning": "오르다; 올라가다",
+    "meaningDetail": "산이나 높은 곳으로 올라가다.",
+    "previousMeaning": "올라타다",
+    "meaningReview": "Korean sense reconciled against the Japanese expression and exact reading in the displayed context."
+  },
+  {
+    "id": "n5-bce685ef",
+    "level": "N5",
+    "expression": "外",
+    "reading": "ほか",
+    "key": "外\tほか",
+    "meaning": "그 밖; 다른 것; 이외",
+    "meaningDetail": "ほか로 읽을 때의 뜻. 바깥을 뜻하는 外（そと）와 구별한다.",
+    "previousMeaning": "바깥, 밖",
+    "meaningReview": "Korean sense reconciled against the Japanese expression and exact reading in the displayed context."
+  },
+  {
+    "id": "n4-dca867ed",
+    "level": "N4",
+    "expression": "日",
+    "reading": "ひ",
+    "key": "日\tひ",
+    "meaning": "해; 햇빛; 날",
+    "meaningDetail": "태양이나 햇살, 하루를 나타낸다.",
+    "previousMeaning": "날",
+    "meaningReview": "Korean sense reconciled against the Japanese expression and exact reading in the displayed context."
+  },
+  {
+    "id": "n4-2892f2b0",
+    "level": "N4",
+    "expression": "払う",
+    "reading": "はらう",
+    "key": "払う\tはらう",
+    "meaning": "지불하다; 털어 내다",
+    "meaningDetail": "돈을 내거나 묻은 먼지 등을 털어 없애다.",
+    "previousMeaning": "긁다",
+    "meaningReview": "Korean sense reconciled against the Japanese expression and exact reading in the displayed context."
+  },
+  {
+    "id": "n3-6df96402",
+    "level": "N3",
+    "expression": "実際",
+    "reading": "じっさい",
+    "key": "実際\tじっさい",
+    "meaning": "실제; 사실; 실제로",
+    "meaningDetail": "상상이나 추측과 달리 실제로 존재하거나 일어난 일.",
+    "previousMeaning": "정작",
+    "meaningReview": "Korean sense reconciled against the Japanese expression and exact reading in the displayed context."
+  },
+  {
+    "id": "n3-b853c18e",
+    "level": "N3",
+    "expression": "市",
+    "reading": "いち",
+    "key": "市\tいち",
+    "meaning": "장; 시장",
+    "meaningDetail": "물건을 사고파는 장이나 시장. 도시를 뜻하는 市（し）와 구별한다.",
+    "previousMeaning": "저자",
+    "meaningReview": "Korean sense reconciled against the Japanese expression and exact reading in the displayed context."
+  },
+  {
+    "id": "n3-b3cfa3c3",
+    "level": "N3",
+    "expression": "型",
+    "reading": "かた",
+    "key": "型\tかた",
+    "meaning": "틀; 모형; 형식; 유형",
+    "meaningDetail": "본보기나 일정한 모양·방식을 나타낸다. 복합어에서는 がた로 읽기도 한다.",
+    "previousMeaning": "틀",
+    "meaningReview": "Korean sense reconciled against the Japanese expression and exact reading in the displayed context."
+  },
+  {
+    "id": "n3-c95e671b",
+    "level": "N3",
+    "expression": "金",
+    "reading": "かね",
+    "key": "金\tかね",
+    "meaning": "돈; 금전",
+    "meaningDetail": "かね로 읽을 때는 보통 돈을 뜻한다. 금속 금의 일반적인 읽기는 きん이다.",
+    "previousMeaning": "금",
+    "meaningReview": "Korean sense reconciled against the Japanese expression and exact reading in the displayed context."
+  },
+  {
+    "id": "n3-41403b41",
+    "level": "N3",
+    "expression": "空",
+    "reading": "から",
+    "key": "空\tから",
+    "meaning": "비어 있음; 빈 것",
+    "meaningDetail": "안에 내용물이 없는 상태. 하늘을 뜻하는 空（そら）와 구별한다.",
+    "previousMeaning": "하늘",
+    "meaningReview": "Korean sense reconciled against the Japanese expression and exact reading in the displayed context."
+  },
+  {
+    "id": "n3-d0ae1892",
+    "level": "N3",
+    "expression": "訳",
+    "reading": "やく",
+    "key": "訳\tやく",
+    "meaning": "번역; 번역문",
+    "meaningDetail": "やく로 읽는 訳. 이유를 뜻하는 わけ와 구별한다.",
+    "previousMeaning": "이유",
+    "meaningReview": "Korean sense reconciled against the Japanese expression and exact reading in the displayed context."
+  },
+  {
+    "id": "n3-1b2d6dcc",
+    "level": "N3",
+    "expression": "縁",
+    "reading": "ふち",
+    "key": "縁\tふち",
+    "meaning": "가장자리; 테두리",
+    "meaningDetail": "물건의 바깥쪽 경계 부분.",
+    "previousMeaning": "변죽",
+    "meaningReview": "Korean sense reconciled against the Japanese expression and exact reading in the displayed context."
+  },
+  {
+    "id": "n2-e53a2fac",
+    "level": "N2",
+    "expression": "うんと",
+    "reading": "うんと",
+    "key": "うんと\tうんと",
+    "meaning": "아주; 많이; 훨씬",
+    "meaningDetail": "양이나 정도가 큼을 나타내는 구어적인 부사.",
+    "previousMeaning": "훨씬",
+    "meaningReview": "Korean sense reconciled against the Japanese expression and exact reading in the displayed context."
+  },
+  {
+    "id": "n2-f12258d2",
+    "level": "N2",
+    "expression": "ええと",
+    "reading": "ええと",
+    "key": "ええと\tええと",
+    "meaning": "음; 저; 어디 보자",
+    "meaningDetail": "말하거나 생각할 내용을 찾으며 잠깐 망설일 때 내는 소리.",
+    "previousMeaning": "가만있다",
+    "meaningReview": "Korean sense reconciled against the Japanese expression and exact reading in the displayed context."
+  },
+  {
+    "id": "n2-287946b1",
+    "level": "N2",
+    "expression": "狙い",
+    "reading": "ねらい",
+    "key": "狙い\tねらい",
+    "meaning": "목적; 노림수; 겨냥",
+    "meaningDetail": "이루려는 목표나 무엇을 맞히려는 방향.",
+    "previousMeaning": "조준",
+    "meaningReview": "Korean sense reconciled against the Japanese expression and exact reading in the displayed context."
+  },
+  {
+    "id": "n2-d7b54d59",
+    "level": "N2",
+    "expression": "鉢",
+    "reading": "はち",
+    "key": "鉢\tはち",
+    "meaning": "대접; 사발; 화분",
+    "meaningDetail": "음식이나 식물을 담는, 입이 넓은 그릇.",
+    "previousMeaning": "대접",
+    "meaningReview": "Korean sense reconciled against the Japanese expression and exact reading in the displayed context."
+  },
+  {
+    "id": "n2-30ed4088",
+    "level": "N2",
+    "expression": "真っ先",
+    "reading": "まっさき",
+    "key": "真っ先\tまっさき",
+    "meaning": "맨 먼저; 가장 앞장서서",
+    "meaningDetail": "여럿 중 다른 것보다 앞서는 모양.",
+    "previousMeaning": "서두",
+    "meaningReview": "Korean sense reconciled against the Japanese expression and exact reading in the displayed context."
+  },
+  {
+    "id": "n1-e8a4fcb79e",
+    "level": "N1",
+    "expression": "いやらしい",
+    "reading": "いやらしい",
+    "key": "いやらしい\tいやらしい",
+    "meaning": "불쾌하다; 음흉하다; 음란하다",
+    "meaningDetail": "기분 나쁘거나 속셈이 드러나 싫은 느낌. 외설적인 모습에도 쓴다.",
+    "previousMeaning": "징그럽다",
+    "meaningReview": "Korean sense reconciled against the Japanese expression and exact reading in the displayed context."
+  },
+  {
+    "id": "n1-bde430bb3f",
+    "level": "N1",
+    "expression": "イェス",
+    "reading": "イェス",
+    "key": "イェス\tイェス",
+    "meaning": "예; 찬성의 대답",
+    "meaningDetail": "영어 yes에서 온 말. 예수를 뜻하는 고유명사 용법과 구별한다.",
+    "previousMeaning": "예; 찬성의 대답; 예수",
+    "meaningReview": "Korean sense reconciled against the Japanese expression and exact reading in the displayed context."
+  },
+  {
+    "id": "n1-331475e319",
+    "level": "N1",
+    "expression": "達者",
+    "reading": "たっしゃ",
+    "key": "達者\tたっしゃ",
+    "meaning": "건강함; 능숙함",
+    "meaningDetail": "몸이 튼튼하거나, 말·기술 등에 익숙하고 능숙함을 나타낸다.",
+    "previousMeaning": "능숙하다",
+    "meaningReview": "Korean sense reconciled against the Japanese expression and exact reading in the displayed context."
+  },
+  {
+    "id": "n1-d70262f916",
+    "level": "N1",
+    "expression": "見逃す",
+    "reading": "みのがす",
+    "key": "見逃す\tみのがす",
+    "meaning": "놓치다; 못 보고 지나치다; 눈감아 주다",
+    "meaningDetail": "볼 기회나 중요한 장면을 놓치거나 잘못을 모른 척 넘기다.",
+    "previousMeaning": "묵과하다",
+    "meaningReview": "Korean sense reconciled against the Japanese expression and exact reading in the displayed context."
+  },
+  {
+    "id": "n5-af8fe633",
+    "level": "N5",
+    "expression": "あれ",
+    "reading": "あれ",
+    "key": "あれ\tあれ",
+    "example": {
+      "japanese": "あれは駅の近くにできた新しい店です。",
+      "korean": "저것은 역 근처에 새로 생긴 가게입니다.",
+      "source": "kotoba-loop-original"
+    },
+    "previousExample": {
+      "japanese": "われに自由を与えよ。しからずんば死を与えよ。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "191748"
+    },
+    "reason": "Demonstrative あれ, not 我/われ I."
+  },
+  {
+    "id": "n5-fb182375",
+    "level": "N5",
+    "expression": "そこ",
+    "reading": "そこ",
+    "key": "そこ\tそこ",
+    "example": {
+      "japanese": "鍵はそこに置いてください。",
+      "korean": "열쇠는 거기에 놓아 주세요.",
+      "source": "kotoba-loop-original"
+    },
+    "previousExample": {
+      "japanese": "靴の底がすり減ってしまった。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "179253",
+      "author": "KK_kaku_"
+    },
+    "reason": "Place そこ, not bottom/sole 底."
+  },
+  {
+    "id": "n5-93a1dd86",
+    "level": "N5",
+    "expression": "バス",
+    "reading": "バス",
+    "key": "バス\tバス",
+    "example": {
+      "japanese": "駅まで行くバスは、十分後に来ます。",
+      "korean": "역까지 가는 버스는 10분 뒤에 옵니다.",
+      "source": "kotoba-loop-original"
+    },
+    "previousExample": {
+      "japanese": "バス付きになさいますか、シャワーだけでよろしいですか。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "198038"
+    },
+    "reason": "Bus バス, not bath."
+  },
+  {
+    "id": "n4-bb2f8b62",
+    "level": "N4",
+    "expression": "あげる",
+    "reading": "あげる",
+    "key": "あげる\tあげる",
+    "example": {
+      "japanese": "妹に誕生日のプレゼントをあげた。",
+      "korean": "여동생에게 생일 선물을 주었다.",
+      "source": "kotoba-loop-original"
+    },
+    "previousExample": {
+      "japanese": "日本にしかない植物の名を幾つか挙げられますか。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "122728"
+    },
+    "reason": "Give あげる, not list/cite 挙げる.",
+    "meaning": "주다",
+    "meaningDetail": "말하는 사람 쪽에서 남에게 물건이나 도움을 주다. 예를 들어 나열한다는 뜻의 挙げる와 구별한다.",
+    "meaningReview": "Primary intended sense reconciled against CSV and final Korean meaning; unrelated homographic dictionary entry excluded."
+  },
+  {
+    "id": "n3-fb0aacc1",
+    "level": "N3",
+    "expression": "コード",
+    "reading": "コード",
+    "key": "コード\tコード",
+    "example": {
+      "japanese": "ログインするには、確認コードを入力してください。",
+      "korean": "로그인하려면 확인 코드를 입력해 주세요.",
+      "source": "kotoba-loop-original"
+    },
+    "previousExample": {
+      "japanese": "彼は機械にコードをつないだ。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "108606",
+      "author": "mookeee"
+    },
+    "reason": "Code, not electrical cord.",
+    "meaning": "코드; 부호; 규약",
+    "meaningDetail": "정보나 지시를 기호로 나타낸 것. 전선이나 케이블을 뜻하는 コード는 별도의 동음어이다.",
+    "meaningReview": "Primary intended sense reconciled against CSV and final Korean meaning; unrelated homographic dictionary entry excluded."
+  },
+  {
+    "id": "n3-46813177",
+    "level": "N3",
+    "expression": "ダイヤ",
+    "reading": "ダイヤ",
+    "key": "ダイヤ\tダイヤ",
+    "example": {
+      "japanese": "大雪のため、列車のダイヤが乱れている。",
+      "korean": "큰눈 때문에 열차 운행 시간표가 흐트러져 있다.",
+      "source": "kotoba-loop-original"
+    },
+    "previousExample": {
+      "japanese": "ダイヤの指輪なんて身につけていないけど、私は幸せだ。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "203876"
+    },
+    "reason": "Railway schedule, the primary CSV sense; the old diamond example was valid only for the secondary meaning.",
+    "meaning": "열차 운행 시간표; 다이아몬드",
+    "meaningDetail": "교통 문맥에서는 열차 운행 계획을 뜻한다. 보석인 다이아몬드의 줄임말로도 쓴다.",
+    "meaningReview": "Primary intended sense reconciled against CSV and final Korean meaning; unrelated homographic dictionary entry excluded."
+  },
+  {
+    "id": "n3-a6eeaae8",
+    "level": "N3",
+    "expression": "トラック",
+    "reading": "トラック",
+    "key": "トラック\tトラック",
+    "example": {
+      "japanese": "大きなトラックが荷物を運んでいる。",
+      "korean": "큰 트럭이 짐을 나르고 있다.",
+      "source": "kotoba-loop-original"
+    },
+    "previousExample": {
+      "japanese": "競走馬は互角でトラックをまわった。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "180882"
+    },
+    "reason": "Truck, not a running track."
+  },
+  {
+    "id": "n3-dfb2a160",
+    "level": "N3",
+    "expression": "ボール",
+    "reading": "ボール",
+    "key": "ボール\tボール",
+    "example": {
+      "japanese": "子どもたちは公園でボールを投げ合っている。",
+      "korean": "아이들은 공원에서 서로 공을 던지고 있다.",
+      "source": "kotoba-loop-original"
+    },
+    "previousExample": {
+      "japanese": "彼女はミルクをボールに注いだ。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "91425"
+    },
+    "reason": "Ball, not a bowl."
+  },
+  {
+    "id": "n1-22c1e610c3",
+    "level": "N1",
+    "expression": "ベスト",
+    "reading": "ベスト",
+    "key": "ベスト\tベスト",
+    "example": {
+      "japanese": "試験に向けて、最後までベストを尽くす。",
+      "korean": "시험을 위해 마지막까지 최선을 다하겠다.",
+      "source": "kotoba-loop-original"
+    },
+    "previousExample": {
+      "japanese": "ベストを裏返さなくちゃ。表裏逆ですよ。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "196831",
+      "author": "small_snow"
+    },
+    "reason": "Best, not a vest."
+  },
+  {
+    "id": "n1-39da4bd90f",
+    "level": "N1",
+    "expression": "ボルト",
+    "reading": "ボルト",
+    "key": "ボルト\tボルト",
+    "example": {
+      "japanese": "この電池の電圧は九ボルトです。",
+      "korean": "이 전지의 전압은 9볼트입니다.",
+      "source": "kotoba-loop-original"
+    },
+    "previousExample": {
+      "japanese": "そのボルトに嵌合するナットが必要です。",
+      "source": "jmdict-tatoeba",
+      "sourceId": "74864",
+      "author": "fcbond"
+    },
+    "reason": "Volt, not a threaded bolt.",
+    "meaning": "볼트(V, 전압 단위)",
+    "meaningDetail": "전압의 단위. 금속 나사를 뜻하는 ボルト는 별도의 동음어이다.",
+    "meaningReview": "Primary intended sense reconciled against CSV and final Korean meaning; unrelated homographic dictionary entry excluded."
+  },
+  {
+    "id": "n4-3c808823",
+    "level": "N4",
+    "expression": "いただく",
+    "reading": "いただく",
+    "key": "いただく\tいただく",
+    "meaning": "받다; 먹다; 마시다 (겸양어)",
+    "meaningDetail": "もらう·食べる·飲む의 겸양 표현. 상대에게 받은 물건이나 음식에 대해 자신을 낮추어 말할 때 쓴다.",
+    "reason": "Root-reported meaning defect outside the corpus scope: authored 先生から本をいただいた correctly means humble receiving, not putting something on the head. Existing authored example is retained."
+  }
+]

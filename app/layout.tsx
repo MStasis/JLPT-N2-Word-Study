@@ -17,7 +17,7 @@ const notoJp = Noto_Sans_JP({
 
 const title = "Yomirevo 요미레보 | JLPT 단어 반복 학습";
 const description =
-  "N5부터 N2까지, 보고 고르고 전부 맞힐 때까지 반복하는 빠른 일본어 단어 학습 도구";
+  "N5부터 N1까지, 예문과 부수로 익히는 일본어 단어. 5개 묶음 학습과 통학 중 한 단어씩 보기, 반복 퀴즈를 제공합니다.";
 
 export async function generateMetadata(): Promise<Metadata> {
   const requestHeaders = await headers();
