@@ -515,7 +515,7 @@ input[type="range"]::-webkit-slider-thumb {
 
 .study-layout {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 250px;
+  grid-template-columns: minmax(0, 1fr) 290px;
   gap: 22px;
   margin-top: 22px;
 }
@@ -603,6 +603,14 @@ input[type="range"]::-webkit-slider-thumb {
   line-height: 1.55;
 }
 
+.meaning-detail {
+  margin: 10px 0 0;
+  color: var(--muted);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.8;
+}
+
 .radical-panel {
   padding: 22px;
   border: 1px solid var(--line);
@@ -629,7 +637,7 @@ input[type="range"]::-webkit-slider-thumb {
 
 .radical-item {
   display: grid;
-  grid-template-columns: 38px 1fr;
+  grid-template-columns: 1fr;
   gap: 11px;
   align-items: center;
   padding: 10px;
@@ -651,6 +659,129 @@ input[type="range"]::-webkit-slider-thumb {
 .radical-copy strong,
 .radical-copy span {
   display: block;
+}
+
+.radical-copy .radical-transformation {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 10px;
+}
+
+.radical-transformation .radical-original {
+  color: var(--ink);
+  font-size: 26px;
+}
+
+.radical-transformation .radical-meaning {
+  color: var(--ink);
+  font-size: 12px;
+}
+
+.radical-transformation .radical-arrow {
+  color: var(--green);
+  font-size: 19px;
+}
+
+.radical-transformation .radical-symbol {
+  display: grid;
+  margin: 0;
+  color: var(--ink);
+  font-size: 25px;
+}
+
+.study-mode-options {
+  min-width: 0;
+  margin: 0;
+  border: 0;
+  border-bottom: 1px solid var(--line);
+  padding-inline: 0;
+}
+
+.study-mode-options legend {
+  float: left;
+  width: 100%;
+}
+
+.study-mode-options .choice-row {
+  clear: both;
+}
+
+.mode-description {
+  margin: 10px 0 0;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.7;
+}
+
+.example-sentence {
+  margin-top: 24px;
+  border-top: 1px solid var(--line);
+  padding-top: 18px;
+}
+
+.example-label {
+  display: block;
+  color: var(--green);
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.example-sentence p {
+  margin: 9px 0 0;
+  overflow-wrap: anywhere;
+  font-family: var(--font-noto-jp), var(--font-noto-kr), sans-serif;
+  font-size: 18px;
+  line-height: 1.85;
+}
+
+.example-sentence .example-translation {
+  color: var(--muted);
+  font-family: var(--font-noto-kr), sans-serif;
+  font-size: 14px;
+}
+
+.example-source {
+  display: inline-block;
+  margin-top: 9px;
+  color: var(--muted);
+  font-size: 11px;
+  text-underline-offset: 3px;
+}
+
+.compact-example {
+  margin-top: 14px;
+  padding-top: 12px;
+}
+
+.compact-example p {
+  font-size: 14px;
+}
+
+.single-study .progress-shell {
+  display: none;
+}
+
+@media (max-width: 660px) {
+  .single-study .card-actions {
+    position: sticky;
+    bottom: max(8px, env(safe-area-inset-bottom));
+    z-index: 10;
+    border: 1px solid var(--line);
+    border-radius: 18px;
+    padding: 10px;
+    background: rgba(255, 255, 255, 0.97);
+    box-shadow: var(--shadow);
+  }
+
+  .single-study .word-card {
+    padding: 24px 18px;
+  }
+
+  .single-study .word-expression {
+    min-height: 110px;
+  }
 }
 
 .radical-copy strong {

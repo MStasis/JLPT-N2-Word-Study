@@ -1,0 +1,866 @@
+{
+  "reviewDate": "2026-10-20",
+  "inputWords": 8032,
+  "meaningSources": {
+    "kotoba-loop-curated": 1980,
+    "manual-reviewed": 27,
+    "krdict": 5574,
+    "kotoba-loop-reviewed": 41,
+    "kowiktionary": 387,
+    "kotoba-loop-corrected": 15
+  },
+  "exampleSources": {
+    "kotoba-loop-original": 683,
+    "jmdict-tatoeba": 6717,
+    "tatoeba-substring": 624
+  },
+  "meaningChanges": 5900,
+  "legacyMeaningChanges": 3201,
+  "formChanges": [
+    {
+      "id": "n5-b094bcfc",
+      "before": {
+        "expression": "結婚",
+        "reading": "けっこん (する)"
+      },
+      "after": {
+        "expression": "結婚",
+        "reading": "けっこん"
+      }
+    },
+    {
+      "id": "n5-3580805f",
+      "before": {
+        "expression": "散歩",
+        "reading": "さんぽ (する)"
+      },
+      "after": {
+        "expression": "散歩",
+        "reading": "さんぽ"
+      }
+    },
+    {
+      "id": "n5-fafdc44c",
+      "before": {
+        "expression": "掃除",
+        "reading": "そうじ (する)"
+      },
+      "after": {
+        "expression": "掃除",
+        "reading": "そうじ"
+      }
+    },
+    {
+      "id": "n5-c517a11e",
+      "before": {
+        "expression": "十",
+        "reading": "(〜を) とお"
+      },
+      "after": {
+        "expression": "十",
+        "reading": "とお"
+      }
+    },
+    {
+      "id": "n5-bd11ae22",
+      "before": {
+        "expression": "勉強",
+        "reading": "べんきょう (する)"
+      },
+      "after": {
+        "expression": "勉強",
+        "reading": "べんきょう"
+      }
+    },
+    {
+      "id": "n5-07740bf1",
+      "before": {
+        "expression": "練習",
+        "reading": "れんしゅう (する)"
+      },
+      "after": {
+        "expression": "練習",
+        "reading": "れんしゅう"
+      }
+    },
+    {
+      "id": "n4-4db7c676",
+      "before": {
+        "expression": "パート (タイム)",
+        "reading": "パート (タイム)"
+      },
+      "after": {
+        "expression": "パートタイム",
+        "reading": "パートタイム"
+      }
+    },
+    {
+      "id": "n4-a1d89519",
+      "before": {
+        "expression": "建て",
+        "reading": "〜だて"
+      },
+      "after": {
+        "expression": "〜建て",
+        "reading": "〜だて"
+      }
+    },
+    {
+      "id": "n4-74e41be6",
+      "before": {
+        "expression": "〜(て) しまう",
+        "reading": "〜(て) しまう"
+      },
+      "after": {
+        "expression": "〜てしまう",
+        "reading": "〜てしまう"
+      }
+    },
+    {
+      "id": "n4-3c808823",
+      "before": {
+        "expression": "いただく",
+        "reading": "頂く"
+      },
+      "after": {
+        "expression": "いただく",
+        "reading": "いただく"
+      }
+    },
+    {
+      "id": "n4-5bed3d07",
+      "before": {
+        "expression": "〜(に) よると",
+        "reading": "〜(に) よると"
+      },
+      "after": {
+        "expression": "〜によると",
+        "reading": "〜によると"
+      }
+    },
+    {
+      "id": "n4-aa96a2db",
+      "before": {
+        "expression": "回る、回す",
+        "reading": "まわる、まわす"
+      },
+      "after": {
+        "expression": "回る; 回す",
+        "reading": "まわる; まわす"
+      }
+    },
+    {
+      "id": "n4-bc48a6ec",
+      "before": {
+        "expression": "スーパー (マーケット)",
+        "reading": "スーパー (マーケット)"
+      },
+      "after": {
+        "expression": "スーパー",
+        "reading": "スーパー"
+      }
+    },
+    {
+      "id": "n4-824b0257",
+      "before": {
+        "expression": "〜(に) ついて",
+        "reading": "〜(に) ついて"
+      },
+      "after": {
+        "expression": "〜について",
+        "reading": "〜について"
+      }
+    },
+    {
+      "id": "n3-fff43255",
+      "before": {
+        "expression": "しまった (かん)",
+        "reading": "しまった (かん)"
+      },
+      "after": {
+        "expression": "しまった",
+        "reading": "しまった"
+      }
+    },
+    {
+      "id": "n3-9ae1e171",
+      "before": {
+        "expression": "すみません (かん)",
+        "reading": "すみません (かん)"
+      },
+      "after": {
+        "expression": "すみません",
+        "reading": "すみません"
+      }
+    },
+    {
+      "id": "n3-18e2d38e",
+      "before": {
+        "expression": "よろしく (かん)",
+        "reading": "よろしく (かん)"
+      },
+      "after": {
+        "expression": "よろしく",
+        "reading": "よろしく"
+      }
+    },
+    {
+      "id": "n3-581db2a3",
+      "before": {
+        "expression": "唯",
+        "reading": "たった"
+      },
+      "after": {
+        "expression": "たった",
+        "reading": "たった"
+      }
+    },
+    {
+      "id": "n3-03172b96",
+      "before": {
+        "expression": "はあ (かん)",
+        "reading": "はあ (かん)"
+      },
+      "after": {
+        "expression": "はあ",
+        "reading": "はあ"
+      }
+    },
+    {
+      "id": "n2-f4bc1648",
+      "before": {
+        "expression": "〜 (まる) ごと",
+        "reading": "〜 (まる) ごと"
+      },
+      "after": {
+        "expression": "〜ごと",
+        "reading": "〜ごと"
+      }
+    },
+    {
+      "id": "n2-f1742ba3",
+      "before": {
+        "expression": "(かさを〜) さす",
+        "reading": "(かさを〜) さす"
+      },
+      "after": {
+        "expression": "差す",
+        "reading": "さす"
+      }
+    },
+    {
+      "id": "n2-e0fed8fc",
+      "before": {
+        "expression": "〜(日本) 式",
+        "reading": "〜(にほん) しき"
+      },
+      "after": {
+        "expression": "〜式",
+        "reading": "〜しき"
+      }
+    },
+    {
+      "id": "n2-7480503a",
+      "before": {
+        "expression": "〜いち (にほんいち)",
+        "reading": "〜いち (にほんいち)"
+      },
+      "after": {
+        "expression": "〜一",
+        "reading": "〜いち"
+      }
+    },
+    {
+      "id": "n2-99c7ac8d",
+      "before": {
+        "expression": "〜おしまい (おわり)",
+        "reading": "〜おしまい (おわり)"
+      },
+      "after": {
+        "expression": "おしまい",
+        "reading": "おしまい"
+      }
+    },
+    {
+      "id": "n2-d94a474f",
+      "before": {
+        "expression": "〜ぽい",
+        "reading": "〜ぽい"
+      },
+      "after": {
+        "expression": "〜っぽい",
+        "reading": "〜っぽい"
+      }
+    },
+    {
+      "id": "n2-c84102a0",
+      "before": {
+        "expression": "〜ほう (ひかく)",
+        "reading": "〜ほう (ひかく)"
+      },
+      "after": {
+        "expression": "〜方",
+        "reading": "〜ほう"
+      }
+    },
+    {
+      "id": "n2-32195d03",
+      "before": {
+        "expression": "かび (〜がはえる)",
+        "reading": "かび (〜がはえる)"
+      },
+      "after": {
+        "expression": "かび",
+        "reading": "かび"
+      }
+    },
+    {
+      "id": "n2-da8f8a99",
+      "before": {
+        "expression": "下品(な)",
+        "reading": "げひん(な)"
+      },
+      "after": {
+        "expression": "下品",
+        "reading": "げひん"
+      }
+    },
+    {
+      "id": "n2-b68048cf",
+      "before": {
+        "expression": "こうよう もみじ",
+        "reading": "こうよう もみじ"
+      },
+      "after": {
+        "expression": "紅葉",
+        "reading": "もみじ"
+      }
+    },
+    {
+      "id": "n2-639d6fa9",
+      "before": {
+        "expression": "しいんと (する)",
+        "reading": "しいんと (する)"
+      },
+      "after": {
+        "expression": "しいんと",
+        "reading": "しいんと"
+      }
+    },
+    {
+      "id": "n2-9a574dab",
+      "before": {
+        "expression": "しかく しかくい",
+        "reading": "しかく しかくい"
+      },
+      "after": {
+        "expression": "四角",
+        "reading": "しかく"
+      }
+    },
+    {
+      "id": "n2-e20f6d48",
+      "before": {
+        "expression": "しつれいしました (かん)",
+        "reading": "しつれいしました (かん)"
+      },
+      "after": {
+        "expression": "失礼しました",
+        "reading": "しつれいしました"
+      }
+    },
+    {
+      "id": "n2-fbe48aa9",
+      "before": {
+        "expression": "しめた (かん)",
+        "reading": "しめた (かん)"
+      },
+      "after": {
+        "expression": "しめた",
+        "reading": "しめた"
+      }
+    },
+    {
+      "id": "n2-568482fb",
+      "before": {
+        "expression": "じゅうたん (カーペット)",
+        "reading": "じゅうたん (カーペット)"
+      },
+      "after": {
+        "expression": "じゅうたん",
+        "reading": "じゅうたん"
+      }
+    },
+    {
+      "id": "n2-72f330e5",
+      "before": {
+        "expression": "しわ (かおの〜)",
+        "reading": "しわ (かおの〜)"
+      },
+      "after": {
+        "expression": "しわ",
+        "reading": "しわ"
+      }
+    },
+    {
+      "id": "n2-5c3c3e71",
+      "before": {
+        "expression": "それはいけませんね (かん)",
+        "reading": "それはいけませんね (かん)"
+      },
+      "after": {
+        "expression": "それはいけませんね",
+        "reading": "それはいけませんね"
+      }
+    },
+    {
+      "id": "n2-f3b30588",
+      "before": {
+        "expression": "だいいち (とりわけ)",
+        "reading": "だいいち (とりわけ)"
+      },
+      "after": {
+        "expression": "第一",
+        "reading": "だいいち"
+      }
+    },
+    {
+      "id": "n2-d3c29d02",
+      "before": {
+        "expression": "田ぼ",
+        "reading": "たんぼ"
+      },
+      "after": {
+        "expression": "田んぼ",
+        "reading": "たんぼ"
+      }
+    },
+    {
+      "id": "n2-bb14889c",
+      "before": {
+        "expression": "どういたしまして (かん)",
+        "reading": "どういたしまして (かん)"
+      },
+      "after": {
+        "expression": "どういたしまして",
+        "reading": "どういたしまして"
+      }
+    },
+    {
+      "id": "n2-1cdaef60",
+      "before": {
+        "expression": "傾らか",
+        "reading": "なだらか"
+      },
+      "after": {
+        "expression": "なだらか",
+        "reading": "なだらか"
+      }
+    },
+    {
+      "id": "n2-725247fe",
+      "before": {
+        "expression": "はい (かん)",
+        "reading": "はい (かん)"
+      },
+      "after": {
+        "expression": "はい",
+        "reading": "はい"
+      }
+    },
+    {
+      "id": "n2-84d62d96",
+      "before": {
+        "expression": "蒸す",
+        "reading": "ふす"
+      },
+      "after": {
+        "expression": "蒸す",
+        "reading": "むす"
+      }
+    },
+    {
+      "id": "n2-32c1fcd3",
+      "before": {
+        "expression": "朗らか(な)",
+        "reading": "ほがらか(な)"
+      },
+      "after": {
+        "expression": "朗らか",
+        "reading": "ほがらか"
+      }
+    },
+    {
+      "id": "n2-4eac406b",
+      "before": {
+        "expression": "ミリ (メートル)",
+        "reading": "ミリ (メートル)"
+      },
+      "after": {
+        "expression": "ミリメートル",
+        "reading": "ミリメートル"
+      }
+    },
+    {
+      "id": "n2-05e33f0a",
+      "before": {
+        "expression": "レクリェーション",
+        "reading": "レクリェーション"
+      },
+      "after": {
+        "expression": "レクリエーション",
+        "reading": "レクリエーション"
+      }
+    },
+    {
+      "id": "n1-e801dfbfff",
+      "before": {
+        "expression": "ございます (かん)",
+        "reading": "ございます (かん)"
+      },
+      "after": {
+        "expression": "ございます",
+        "reading": "ございます"
+      }
+    },
+    {
+      "id": "n1-102e77d547",
+      "before": {
+        "expression": "こす (みずを～)",
+        "reading": "こす (みずを～)"
+      },
+      "after": {
+        "expression": "こす",
+        "reading": "こす"
+      }
+    },
+    {
+      "id": "n1-434c27a3ef",
+      "before": {
+        "expression": "こつ (をつかむ)",
+        "reading": "こつ (をつかむ)"
+      },
+      "after": {
+        "expression": "こつ",
+        "reading": "こつ"
+      }
+    },
+    {
+      "id": "n1-d980c253ba",
+      "before": {
+        "expression": "ごらんなさい (かん)",
+        "reading": "ごらんなさい (かん)"
+      },
+      "after": {
+        "expression": "ごらんなさい",
+        "reading": "ごらんなさい"
+      }
+    },
+    {
+      "id": "n1-1404788f41",
+      "before": {
+        "expression": "コンタクト (レンズ)",
+        "reading": "コンタクト (レンズ)"
+      },
+      "after": {
+        "expression": "コンタクト",
+        "reading": "コンタクト"
+      }
+    },
+    {
+      "id": "n1-f97493db61",
+      "before": {
+        "expression": "さきに (いぜん)",
+        "reading": "さきに (いぜん)"
+      },
+      "after": {
+        "expression": "さきに",
+        "reading": "さきに"
+      }
+    },
+    {
+      "id": "n1-8f362355ae",
+      "before": {
+        "expression": "摩する",
+        "reading": "さする"
+      },
+      "after": {
+        "expression": "摩る",
+        "reading": "さする"
+      }
+    },
+    {
+      "id": "n1-fffc6e2854",
+      "before": {
+        "expression": "さぞ (さぞや。さぞかし)",
+        "reading": "さぞ (さぞや。さぞかし)"
+      },
+      "after": {
+        "expression": "さぞ",
+        "reading": "さぞ"
+      }
+    },
+    {
+      "id": "n1-2be15b265a",
+      "before": {
+        "expression": "さらう (こどもを～)",
+        "reading": "さらう (こどもを～)"
+      },
+      "after": {
+        "expression": "さらう",
+        "reading": "さらう"
+      }
+    },
+    {
+      "id": "n1-1656959080",
+      "before": {
+        "expression": "とげ (をさす)",
+        "reading": "とげ (をさす)"
+      },
+      "after": {
+        "expression": "とげ",
+        "reading": "とげ"
+      }
+    },
+    {
+      "id": "n1-29cc6605a6",
+      "before": {
+        "expression": "副",
+        "reading": "とりわけ"
+      },
+      "after": {
+        "expression": "とりわけ",
+        "reading": "とりわけ"
+      }
+    },
+    {
+      "id": "n1-dbdf522980",
+      "before": {
+        "expression": "おおい (かん)",
+        "reading": "おおい (かん)"
+      },
+      "after": {
+        "expression": "おおい",
+        "reading": "おおい"
+      }
+    },
+    {
+      "id": "n1-e4b384dd3d",
+      "before": {
+        "expression": "おごる (ゆうしょくを～)",
+        "reading": "おごる (ゆうしょくを～)"
+      },
+      "after": {
+        "expression": "おごる",
+        "reading": "おごる"
+      }
+    },
+    {
+      "id": "n1-cdcaad9820",
+      "before": {
+        "expression": "我",
+        "reading": "が～"
+      },
+      "after": {
+        "expression": "我",
+        "reading": "が"
+      }
+    },
+    {
+      "id": "n1-ac8a2c204a",
+      "before": {
+        "expression": "かく (はじを)",
+        "reading": "かく (はじを)"
+      },
+      "after": {
+        "expression": "かく",
+        "reading": "かく"
+      }
+    },
+    {
+      "id": "n1-a68cae1f5e",
+      "before": {
+        "expression": "くじ (～をひく)",
+        "reading": "くじ (～をひく)"
+      },
+      "after": {
+        "expression": "くじ",
+        "reading": "くじ"
+      }
+    },
+    {
+      "id": "n1-4dff287ac6",
+      "before": {
+        "expression": "あせる (こえが～)",
+        "reading": "あせる (こえが～)"
+      },
+      "after": {
+        "expression": "あせる",
+        "reading": "あせる"
+      }
+    },
+    {
+      "id": "n1-d3968dfd3a",
+      "before": {
+        "expression": "(花を〜) 生ける, 活ける",
+        "reading": "(はなを～) いける"
+      },
+      "after": {
+        "expression": "生ける; 活ける",
+        "reading": "いける"
+      }
+    },
+    {
+      "id": "n1-afefe973b3",
+      "before": {
+        "expression": "すくう (みずを～)",
+        "reading": "すくう (みずを～)"
+      },
+      "after": {
+        "expression": "すくう",
+        "reading": "すくう"
+      }
+    },
+    {
+      "id": "n1-641f8bc0e5",
+      "before": {
+        "expression": "そり (～にのる)",
+        "reading": "そり (～にのる)"
+      },
+      "after": {
+        "expression": "そり",
+        "reading": "そり"
+      }
+    },
+    {
+      "id": "n1-74706ffc79",
+      "before": {
+        "expression": "つじつま (はなしの～)",
+        "reading": "つじつま (はなしの～)"
+      },
+      "after": {
+        "expression": "つじつま",
+        "reading": "つじつま"
+      }
+    },
+    {
+      "id": "n1-b4718a1554",
+      "before": {
+        "expression": "つぶる (めを～)",
+        "reading": "つぶる (めを～)"
+      },
+      "after": {
+        "expression": "つぶる",
+        "reading": "つぶる"
+      }
+    },
+    {
+      "id": "n1-037d76c73c",
+      "before": {
+        "expression": "またがる (うまを～)",
+        "reading": "またがる (うまを～)"
+      },
+      "after": {
+        "expression": "またがる",
+        "reading": "またがる"
+      }
+    },
+    {
+      "id": "n1-07afd7f2c5",
+      "before": {
+        "expression": "よし (かん)",
+        "reading": "よし (かん)"
+      },
+      "after": {
+        "expression": "よし",
+        "reading": "よし"
+      }
+    },
+    {
+      "id": "n1-b1d15aaf66",
+      "before": {
+        "expression": "よって (よりどころ)",
+        "reading": "よって (よりどころ)"
+      },
+      "after": {
+        "expression": "よって",
+        "reading": "よって"
+      }
+    },
+    {
+      "id": "n1-c751ff20ba",
+      "before": {
+        "expression": "ひび (かべの～)",
+        "reading": "ひび (かべの～)"
+      },
+      "after": {
+        "expression": "ひび",
+        "reading": "ひび"
+      }
+    }
+  ],
+  "aliases": {
+    "n2-f1742ba3": "n5-03b76e3a",
+    "n2-e0fed8fc": "n4-018e6e33",
+    "n2-da8f8a99": "n2-e4d811df",
+    "n2-9a574dab": "n3-96bfd9b7",
+    "n2-725247fe": "n5-2668a187",
+    "n2-84d62d96": "n3-290c4732",
+    "n2-32c1fcd3": "n2-412647cc",
+    "n2-48991a80": "n2-b68048cf"
+  },
+  "unknownRadicals": [],
+  "unresolved": [],
+  "weakMatchReview": [
+    {
+      "file": "review-corrections-a.json",
+      "count": 156
+    },
+    {
+      "file": "review-corrections-b.json",
+      "count": 124
+    }
+  ],
+  "corpusReview": {
+    "datasetSha256": "62a6f9c8647f30cb4acd64272722215bd6095f4da485f4d4fc7de15b2959ef17",
+    "totalWords": 8024,
+    "corpusReviewed": 7411,
+    "authoredSkipped": 613,
+    "passed": 7104,
+    "reasons": {
+      "target-part-of-speech-mismatch": 94,
+      "source-example-selected-different-pos-sense": 22,
+      "no-target-lemma-or-aligned-compound": 90,
+      "target-reading-mismatch": 105,
+      "semantic-homograph-koto-context-for-qin": 1,
+      "semantic-example-human-jewelry-for-animal-collar": 1
+    },
+    "note": "Automatic lexical, reading, POS, aligned-compound and selected-sense checks cover every corpus example; flagged cases require contextual review. This does not prove every semantic nuance of every passing sentence.",
+    "automaticFlagged": 307,
+    "contextReviewedFlagged": 307,
+    "dispositions": {
+      "replace-example": 54,
+      "accepted-after-context-review": 230,
+      "keep-example-correct-meaning": 23
+    },
+    "replacementExamplesAuthored": 64,
+    "meaningCorrections": 41,
+    "outsideCorpusReportedMeaningCorrections": 1,
+    "additionalMultiEntrySemanticCandidatesReviewed": 15,
+    "additionalSemanticDispositions": {
+      "replace-example": 13,
+      "accepted-after-context-review": 2
+    },
+    "unresolvedFlagged": 0,
+    "limitation": "All corpus examples were checked for target lemma/form, reading and POS. Every automatic flag was then context-reviewed, including dates, affixes, compounds, nominalization, potential/passive and irregular inflections. Unflagged sentences did not receive an exhaustive manual semantic proof; token analysis cannot establish every homograph/sense nuance.",
+    "appliedFixRows": 88
+  },
+  "outputWords": 8024,
+  "counts": {
+    "N5": 718,
+    "N4": 666,
+    "N3": 2140,
+    "N2": 1801,
+    "N1": 2699
+  }
+}

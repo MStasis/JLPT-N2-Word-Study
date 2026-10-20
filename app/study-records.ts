@@ -19,7 +19,7 @@ export type StoredState = {
 };
 
 type StudyRecordsBackup = {
-  format: "kotoba-loop-study-records";
+  format: "yomirevo-study-records";
   version: 1;
   exportedAt: string;
   state: StoredState;
@@ -77,7 +77,7 @@ export function createStudyRecordsBackup(
   exportedAt = new Date().toISOString(),
 ): StudyRecordsBackup {
   return {
-    format: "kotoba-loop-study-records",
+    format: "yomirevo-study-records",
     version: 1,
     exportedAt,
     state,
@@ -95,12 +95,13 @@ export function parseStudyRecordsBackup(source: string): StoredState {
 
   if (
     !isRecord(value) ||
-    value.format !== "kotoba-loop-study-records" ||
+    (value.format !== "yomirevo-study-records" &&
+      value.format !== "kotoba-loop-study-records") ||
     value.version !== 1 ||
     !isValidDate(value.exportedAt) ||
     !isStoredState(value.state)
   ) {
-    throw new Error("Kotoba Loop에서 내보낸 올바른 기록 파일이 아닙니다.");
+    throw new Error("Yomirevo에서 내보낸 올바른 기록 파일이 아닙니다.");
   }
 
   return value.state;

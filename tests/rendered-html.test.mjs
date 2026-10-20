@@ -27,20 +27,21 @@ async function render() {
   );
 }
 
-test("server-renders Kotoba Loop without starter preview metadata", async () => {
+test("server-renders Yomirevo without starter preview metadata", async () => {
   const response = await render();
   assert.equal(response.status, 200);
   assert.match(response.headers.get("content-type") ?? "", /^text\/html\b/i);
 
   const html = await response.text();
-  assert.match(html, /Kotoba Loop/);
+  assert.match(html, /Yomirevo/);
+  assert.doesNotMatch(html, /Kotoba Loop|KOTOBA LOOP/);
   assert.match(html, /단어장을 펼치는 중/);
-  assert.match(html, /N5부터 N2까지 학습할 단어/);
+  assert.match(html, /N5부터 N1까지 학습할 단어/);
   assert.doesNotMatch(html, /codex-preview|Your site is taking shape|react-loading-skeleton/);
-  assert.match(html, /\/og\.png/);
+  assert.match(html, /\/yomirevo-og\.png/);
 });
 
-test("ships a complete, unique N5-N2 vocabulary dataset", async () => {
+test("ships a complete, unique N5-N1 vocabulary dataset", async () => {
   const payload = JSON.parse(
     await readFile(new URL("../public/data/vocabulary.json", import.meta.url), "utf8"),
   );
@@ -48,9 +49,10 @@ test("ships a complete, unique N5-N2 vocabulary dataset", async () => {
   const ids = new Set(words.map((word) => word.id));
   const levels = new Set(words.map((word) => word.level));
 
-  assert.equal(words.length, 5333);
+  assert.ok(words.length >= 8000);
   assert.equal(ids.size, words.length);
-  assert.deepEqual([...levels].sort(), ["N2", "N3", "N4", "N5"]);
+  assert.deepEqual([...levels].sort(), ["N1", "N2", "N3", "N4", "N5"]);
+  assert.ok(words.filter((word) => word.level === "N1").length >= 2600);
   assert.ok(words.every((word) => word.expression && word.reading && word.meaning));
   assert.ok(words.every((word) => word.kind === "kanji" || word.kind === "kana"));
   assert.ok(words.some((word) => word.radicals.length > 0));
@@ -67,7 +69,7 @@ test("removes the disposable starter surface", async () => {
   assert.ok(!files.includes("_sites-preview"));
   assert.match(page, /<StudyApp \/>/);
   assert.match(layout, /generateMetadata/);
-  assert.match(layout, /Kotoba Loop/);
+  assert.match(layout, /Yomirevo/);
   assert.doesNotMatch(packageJson, /react-loading-skeleton/);
 });
 
@@ -105,7 +107,12 @@ test("exports and validates portable study records", () => {
   };
   const backup = createStudyRecordsBackup(state, "2026-08-12T01:00:00.000Z");
 
+  assert.equal(backup.format, "yomirevo-study-records");
   assert.deepEqual(parseStudyRecordsBackup(JSON.stringify(backup)), state);
+  assert.deepEqual(
+    parseStudyRecordsBackup(JSON.stringify({ ...backup, format: "kotoba-loop-study-records" })),
+    state,
+  );
   assert.throws(
     () => parseStudyRecordsBackup('{"format":"not-kotoba-loop"}'),
     /올바른 기록 파일/,
